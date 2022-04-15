@@ -39,8 +39,4 @@ defaults:
       layout: "default"
 
 gems:
-  - jekyll-paginate
   - jekyll-feed
-
-paginate_path: "/blog/page:num/"
-paginate: 5

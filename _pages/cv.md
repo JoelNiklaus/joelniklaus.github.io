@@ -53,3 +53,122 @@ line. It is intended to be used for contact details -->
   Bilingual (German and English) with a focus on ancient languages (Greek & Latin) (Grade average: 4.96/6)<br>
 	Thesis: scholarcoach.ch – A Tutoring Portal (Grade **6/6**)
 
+## Selected Publications
+
+#### For a comprehensive list, please refer to [myGoogle Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
+
+* **An Empirical Study on Cross‑Lingual and Cross‑Domain Transfer for Legal Judgment Prediction** - Seattle, United States Jul. 2022
+
+  J. NiKLAUS, I. CHALKiDiS, M. STÜRMER<br>
+	Under Review @ North American Chapter of the Association for Computational Linguistics (NAACL)<br>
+
+* **Swiss‑Judgment‑Prediction: A Multilingual Legal Judgment Prediction
+Benchmark** - Punta Cana, Dominican Republic Nov. 2021
+
+  J. NiKLAUS, I. CHALKiDiS, M. STÜRMER<br>
+	Natural Legal Language Processing Workshop (NLLP) @ Empirical Methods for Natural Language Processing (EMNLP)<br>
+
+* **Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot
+Observational Study in Older Adults** - Mar. 2022
+
+  C. KREBS, M. FALKNER, J. NiKLAUS, L. PERSELLO, S. KLÖPPEL, T. NEF, P. URWYLER<br>
+	JMIR Serious Games 2021<br>
+
+* **Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep
+Learning for the Trick Taking Card Game Jass** - Zakopane, Poland Sep. 2020
+
+  J. NiKLAUS, M. ALBERTi, R. INGOLD, M. STOLZE, T. KOLLER<br>
+	19th International Conference on Artificial Intelligence and Soft Computing (ICAISC)<br>
+
+* **Survey of Artificial Intelligence for Card Games and Its Application to the Swiss
+Game Jass** - Bern, Switzerland Jun. 2019
+
+  J. NiKLAUS, M. ALBERTi, V. PONDENKANDATH, R. INGOLD, M. LiWiCKi<br>
+	6th Swiss Conference on Data Science (SDS)<br>
+
+## Experience
+
+### RESEARCH
+
+* **Data Science Intern** - Zug, Switzerland Mar. 2022 ‑ Aug. 2022 <br>
+
+  THOMSON REUTERS LABS <br>
+  Improving Transformers for Long Document Processing
+
+* **Junior Researcher** - Fribourg, Switzerland Mar. 2020 ‑ Aug. 2020 <br>
+
+  UNiVERSiTY OF FRiBOURG<br>
+  Loss Landscape Visualization of Neural Networks: https://github.com/JoelNiklaus/loss-landscape<br>
+  Historical Document Analysis with Deep Learning
+
+* **Data Scientist** - Bern, Switzerland Mar. 2020 ‑ Sep. 2020<br>
+
+  ARTORG CENTER FOR BiOMEDiCAL ENGiNEERiNG RESEARCH<br>
+  Maintenance and extension of tele‑health applications<br>
+	Development of cognitive models from existing data<br>
+	Development of algorithms for dynamic difficulty adjustments for tele‑apps<br>
+	Analysis and presentation of complex datasets
+
+### SOFTWARE DEVELOPMENT
+
+* **Independent Software Developer** - Bern, Switzerland Aug. 2012 ‑ present <br>
+
+  JOELNiKLAUS.CH<br>
+  Successful implementation of various orders for customers [https://joelniklaus.ch](https://joelniklaus.ch)<br>
+  Selected customers: University of Bern, University for senior citizens Bern, Claire & George, Freies Gymnasium Bern, KS Rychenberg
+
+* **Data Science Intern** - Bern, Switzerland Sep. 2017 ‑ Jun. 2018 <br>
+
+  FASTFORWARD WEBSOLUTiONS GMBH <br>
+  User interface development with Aurelia for a calculator of supplementary services (old age insurance) for Pro‑Senectute Switzerland (https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)
+
+## Awards
+
+| 2021 | **Research Grant (60’000 CHF)**, Pretraining Swiss Long Legal BERT, Swiss Federal Supreme Court | Bern, Switzerland |
+| 2019 |**Nominee**, Best Master Thesis, University of Fribourg, Department of Computer Science|Fribourg, Switzerland|
+| 2017 | **Winner**, Excellent Work in Computer Science (Bachelor Thesis), Joint Alumni Association of the Universities Bern, Neuchâtel & Fribourg | Bern, Switzerland |
+| 2017 | **2nd Place**, JassChallenge, Zühlke (Large Swiss Software Consulting Company) | Bern, Switzerland |
+| 2016 | **2nd Place**, RoboChallenge, Zühlke | Bern, Switzerland |
+
+## Projects
+
+| 2019 – 2020 | **Identifai**, Building an admission system with face recognition |
+| 2017 – 2018 | **DeinLohn**, Building a platform for disclosing and comparing salaries across jobs and industries [(https://deinlohn.ch)](https://deinlohn.ch) |
+| 2014 – 2017 | **ProjectEuler**, Solving challenging mathematical problems with computer programming [(https://projecteuler.net/profile/JoelNiklaus.png)](https://projecteuler.net/profile/JoelNiklaus.png) |
+
+## Presentations
+
+* **CAS Advanced Machine Learning: Introduction to NLP** Bern, - online Feb. 2022
+
+	PRETRAiNED LANGUAGE MODELS<br>
+	Invited Talk
+
+* **AI and Law Conference by recode.law** - online Jan. 2022
+
+	SWiSS‑JUDGMENT‑PREDiCTiON: A MULTiLiNGUAL LEGAL JUDGMENT PREDiCTiON BENCHMARK<br>
+	Invited Talk
+
+* **International Conference of Artificial Intelligence and Law (ICAIL) 2021** - online Jun. 2021
+
+	ESRA: AN END‑TO‑END SYSTEM FOR RE‑iDENTiFiCATiON AND ANONYMiZATiON FOR SWiSS COURT RULiNGS<br>
+	Doctoral Consortium presentation
+
+* **Advanced Language Processing Winter School (ALPS) 2021** - online Jan. 2021
+
+	ESRA: AN END‑TO‑END SYSTEM FOR RE‑iDENTiFiCATiON AND ANONYMiZATiON FOR SWiSS COURT RULiNGS<br>
+	Poster presentation
+
+* **AAAI Workshop on Reinforcement Learning in Games (RLG)** - New York, United States Feb. 2020
+
+	CHALLENGiNG HUMAN SUPREMACY: EVALUATiNG MONTE CARLO TREE SEARCH AND DEEP LEARNiNG FOR THE TRiCK TAKiNG CARD GAME JASS <br>
+	Poster presentation [(http://aaai-rlg.mlanctot.info/papers/AAAI20-RLG_paper_21.pdf)](http://aaai-rlg.mlanctot.info/papers/AAAI20-RLG_paper_21.pdf)
+
+* **Applied Machine Learning Days (AMLD)** Lausanne, Switzerland Jan. 2020
+
+	COMPARiNG LEARNiNG AND SEARCH ALGORiTHMS iN THE SWiSS CARD GAME JASS<br>
+	Poster presentation
+
+* **PyData Zurich** - Zurich, Switzerland Nov. 2018
+
+	PEDiATRiC BONEAGE PREDiCTiON<br>
+	Predicting the age of children based on hand xray images with deep neural networks [(https://meetup.com/en-AU/PyData-Zurich/events/255193573)](https://meetup.com/en-AU/PyData-Zurich/events/255193573)
