@@ -1,26 +1,46 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Joel Niklaus
+tagline:          'PHD STUDENT | COMPUTATiONAL LiNGUiSTiCS'
+description:      'I am passionate about driving innovation in the field of Artificial Intelligence.'
+url:              https://joelniklaus.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+  name:           'Joel Niklaus'
+  url:            https://twitter.com/joelniklaus
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/JoelNiklaus/joelniklaus.github.io
+
+
+collections:
+  pages:
+    output: true
+    permalink: "/:name"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+paginate_path: "/blog/page:num/"
+paginate: 5
