@@ -15,7 +15,6 @@ line. It is intended to be used for contact details -->
 - <me@joelniklaus.ch>
 - (+41) 78 664 46 59
 - [joelniklaus.ch](http://joelniklaus.ch)
-- San Francisco, CA
 
 ```
 “The secret of getting ahead is getting started.” – Mark Twain
