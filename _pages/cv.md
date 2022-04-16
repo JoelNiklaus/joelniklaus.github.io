@@ -121,6 +121,36 @@ Game Jass** - Bern, Switzerland Jun. 2019
   FASTFORWARD WEBSOLUTiONS GMBH <br>
   User interface development with Aurelia for a calculator of supplementary services (old age insurance) for Pro‑Senectute Switzerland (https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)
 
+### TEACHiNG
+
+* **Lecturer for Software Engineering** - Bern, Switzerland Aug. 2021 ‑ present <br>
+
+  BERN UNiVERSiTY OF APPLiED SCiENCES <br>
+  I planned and conducted the technical part of the module Software Engineering (Code Management, DevOps, Web Technologies, etc.)
+
+* **Lecturer for Natural Language Processing Seminar** - Bern, Switzerland Aug. 2021 ‑ Jul. 2022<br>
+
+  UNiVERSiTY OF BERN<br>
+  I lead, planned and executed the entire Seminar (20 BSc/MSc students in total). I supervised various individual and group projects.
+
+* **High School Teacher for Computer Science & Robotics** - Bern, Switzerland Aug. 2019 ‑ Jul. 2020 <br>
+
+  FREiES GYMNASiUM BERN<br>
+  I assembled the coursework material for the brand new course computer science as the first teacher; I conducted difficult conversations with parents and students.
+
+* **High School Teacher for Information and Communication Technology** - Winterthur, Switzerland Feb. 2016 ‑ Aug. 2020 <br>
+
+  KANTONSSCHULE RYCHENBERG WiNTERTHUR<br>
+  Already during bachelors I started teaching students in applied computer skills; I supervised various Matura theses
+
+* **Teaching Assistant for “Programming Languages” (MSc), “Software Engineering” (BSc) and “Computer Networks” (BSc)** - Bern, Switzerland Sep. 2015 ‑ Jun. 2021 <br>
+
+  UNiVERSiTY OF BERN<br>
+  Supervision of students<br>
+  Organisation and execution of practice hours<br>
+  Composition and Correction of lab assignments and exams<br>
+
+
 ## Awards
 
 | 2021 | **Research Grant (60’000 CHF)**, Pretraining Swiss Long Legal BERT, Swiss Federal Supreme Court | Bern, Switzerland |
