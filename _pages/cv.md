@@ -10,11 +10,14 @@ Joel Niklaus
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- Schwarztorstrasse 108, 3008 Bern, Switzerland
-- 05/09/1995
-- <me@joelniklaus.ch>
-- (+41) 78 664 46 59
-- [joelniklaus.ch](http://joelniklaus.ch)
+- <i class="fa fa-address-card" aria-hidden="true"></i> Schwarztorstrasse 108, 3008 Bern, Switzerland
+- <i class="fa fa-birthday-cake" aria-hidden="true"></i> 05/09/1995
+- <i class="fa fa-phone" aria-hidden="true"></i> (+41) 78 664 46 59
+- <i class="fa fa-envelope" aria-hidden="true"></i> <me@joelniklaus.ch>
+- <i class="fa fa-home" aria-hidden="true"></i> [joelniklaus.ch](http://joelniklaus.ch)
+- <i class="fa fa-github" aria-hidden="true"></i> [joelniklaus](https://github.com/joelniklaus)
+- <i class="fa fa-linkedin-in" aria-hidden="true"></i> [joelniklaus](https://www.linkedin.com/in/joelniklaus)
+- <i class="fa fa-twitter" aria-hidden="true"></i> [@joelniklaus](https://twitter.com/joelniklaus)
 
 ```
 “The secret of getting ahead is getting started.” – Mark Twain
