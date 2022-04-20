@@ -61,31 +61,31 @@ line. It is intended to be used for contact details -->
 
 * **An Empirical Study on Cross‑Lingual and Cross‑Domain Transfer for Legal Judgment Prediction** - Seattle, United States Jul. 2022
 
-  J. NiKLAUS, I. CHALKiDiS, M. STÜRMER<br>
+  J. NIKLAUS, I. CHALKIDIS, M. STÜRMER<br>
 	Under Review @ North American Chapter of the Association for Computational Linguistics (NAACL)<br>
 
 * **Swiss‑Judgment‑Prediction: A Multilingual Legal Judgment Prediction
 Benchmark** - Punta Cana, Dominican Republic Nov. 2021
 
-  J. NiKLAUS, I. CHALKiDiS, M. STÜRMER<br>
+  J. NIKLAUS, I. CHALKIDIS, M. STÜRMER<br>
 	Natural Legal Language Processing Workshop (NLLP) @ Empirical Methods for Natural Language Processing (EMNLP)<br>
 
 * **Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot
 Observational Study in Older Adults** - Mar. 2022
 
-  C. KREBS, M. FALKNER, J. NiKLAUS, L. PERSELLO, S. KLÖPPEL, T. NEF, P. URWYLER<br>
+  C. KREBS, M. FALKNER, J. NIKLAUS, L. PERSELLO, S. KLÖPPEL, T. NEF, P. URWYLER<br>
 	JMIR Serious Games 2021<br>
 
 * **Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep
 Learning for the Trick Taking Card Game Jass** - Zakopane, Poland Sep. 2020
 
-  J. NiKLAUS, M. ALBERTi, R. INGOLD, M. STOLZE, T. KOLLER<br>
+  J. NIKLAUS, M. ALBERTI, R. INGOLD, M. STOLZE, T. KOLLER<br>
 	19th International Conference on Artificial Intelligence and Soft Computing (ICAISC)<br>
 
 * **Survey of Artificial Intelligence for Card Games and Its Application to the Swiss
 Game Jass** - Bern, Switzerland Jun. 2019
 
-  J. NiKLAUS, M. ALBERTi, V. PONDENKANDATH, R. INGOLD, M. LiWiCKi<br>
+  J. NIKLAUS, M. ALBERTI, V. PONDENKANDATH, R. INGOLD, M. LIWICKI<br>
 	6th Swiss Conference on Data Science (SDS)<br>
 
 ## Experience
@@ -99,13 +99,13 @@ Game Jass** - Bern, Switzerland Jun. 2019
 
 * **Junior Researcher** - Fribourg, Switzerland Mar. 2020 ‑ Aug. 2020 <br>
 
-  UNiVERSiTY OF FRiBOURG<br>
+  UNIVERSITY OF FRIBOURG<br>
   Loss Landscape Visualization of Neural Networks: https://github.com/JoelNiklaus/loss-landscape<br>
   Historical Document Analysis with Deep Learning
 
 * **Data Scientist** - Bern, Switzerland Mar. 2020 ‑ Sep. 2020<br>
 
-  ARTORG CENTER FOR BiOMEDiCAL ENGiNEERiNG RESEARCH<br>
+  ARTORG CENTER FOR BIOMEDICAL ENGINEERING RESEARCH<br>
   Maintenance and extension of tele‑health applications<br>
 	Development of cognitive models from existing data<br>
 	Development of algorithms for dynamic difficulty adjustments for tele‑apps<br>
@@ -115,40 +115,40 @@ Game Jass** - Bern, Switzerland Jun. 2019
 
 * **Independent Software Developer** - Bern, Switzerland Aug. 2012 ‑ present <br>
 
-  JOELNiKLAUS.CH<br>
+  JOELNIKLAUS.CH<br>
   Successful implementation of various orders for customers [https://joelniklaus.ch](https://joelniklaus.ch)<br>
   Selected customers: University of Bern, University for senior citizens Bern, Claire & George, Freies Gymnasium Bern, KS Rychenberg
 
 * **Data Science Intern** - Bern, Switzerland Sep. 2017 ‑ Jun. 2018 <br>
 
-  FASTFORWARD WEBSOLUTiONS GMBH <br>
-  User interface development with Aurelia for a calculator of supplementary services (old age insurance) for Pro‑Senectute Switzerland (https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)
+  FASTFORWARD WEBSOLUTIONS GMBH <br>
+  User interface development with Aurelia for a calculator of supplementary services (old age insurance) for Pro‑Senectute Switzerland [(https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)](https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)
 
-### TEACHiNG
+### TEACHING
 
 * **Lecturer for Software Engineering** - Bern, Switzerland Aug. 2021 ‑ present <br>
 
-  BERN UNiVERSiTY OF APPLiED SCiENCES <br>
+  BERN UNIVERSITY OF APPLIED SCIENCES <br>
   I planned and conducted the technical part of the module Software Engineering (Code Management, DevOps, Web Technologies, etc.)
 
 * **Lecturer for Natural Language Processing Seminar** - Bern, Switzerland Aug. 2021 ‑ Jul. 2022<br>
 
-  UNiVERSiTY OF BERN<br>
+  UNIVERSITY OF BERN<br>
   I lead, planned and executed the entire Seminar (20 BSc/MSc students in total). I supervised various individual and group projects.
 
 * **High School Teacher for Computer Science & Robotics** - Bern, Switzerland Aug. 2019 ‑ Jul. 2020 <br>
 
-  FREiES GYMNASiUM BERN<br>
+  FREIES GYMNASIUM BERN<br>
   I assembled the coursework material for the brand new course computer science as the first teacher; I conducted difficult conversations with parents and students.
 
 * **High School Teacher for Information and Communication Technology** - Winterthur, Switzerland Feb. 2016 ‑ Aug. 2020 <br>
 
-  KANTONSSCHULE RYCHENBERG WiNTERTHUR<br>
+  KANTONSSCHULE RYCHENBERG WINTERTHUR<br>
   Already during bachelors I started teaching students in applied computer skills; I supervised various Matura theses
 
 * **Teaching Assistant for “Programming Languages” (MSc), “Software Engineering” (BSc) and “Computer Networks” (BSc)** - Bern, Switzerland Sep. 2015 ‑ Jun. 2021 <br>
 
-  UNiVERSiTY OF BERN<br>
+  UNIVERSITY OF BERN<br>
   Supervision of students<br>
   Organisation and execution of practice hours<br>
   Composition and Correction of lab assignments and exams<br>
@@ -172,35 +172,63 @@ Game Jass** - Bern, Switzerland Jun. 2019
 
 * **CAS Advanced Machine Learning: Introduction to NLP** Bern, - online Feb. 2022
 
-	PRETRAiNED LANGUAGE MODELS<br>
+	PRETRAINED LANGUAGE MODELS<br>
 	Invited Talk
 
 * **AI and Law Conference by recode.law** - online Jan. 2022
 
-	SWiSS‑JUDGMENT‑PREDiCTiON: A MULTiLiNGUAL LEGAL JUDGMENT PREDiCTiON BENCHMARK<br>
+	SWiSS‑JUDGMENT‑PREDICTION: A MULTILINGUAL LEGAL JUDGMENT PREDICTION BENCHMARK<br>
 	Invited Talk
 
 * **International Conference of Artificial Intelligence and Law (ICAIL) 2021** - online Jun. 2021
 
-	ESRA: AN END‑TO‑END SYSTEM FOR RE‑iDENTiFiCATiON AND ANONYMiZATiON FOR SWiSS COURT RULiNGS<br>
+	ESRA: AN END‑TO‑END SYSTEM FOR RE‑IDENTIFICATION AND ANONYMIZATION FOR SWISS COURT RULINGS<br>
 	Doctoral Consortium presentation
 
 * **Advanced Language Processing Winter School (ALPS) 2021** - online Jan. 2021
 
-	ESRA: AN END‑TO‑END SYSTEM FOR RE‑iDENTiFiCATiON AND ANONYMiZATiON FOR SWiSS COURT RULiNGS<br>
+	ESRA: AN END‑TO‑END SYSTEM FOR RE‑IDENTIFICATION AND ANONYMIZATION FOR SWISS COURT RULINGS<br>
 	Poster presentation
 
 * **AAAI Workshop on Reinforcement Learning in Games (RLG)** - New York, United States Feb. 2020
 
-	CHALLENGiNG HUMAN SUPREMACY: EVALUATiNG MONTE CARLO TREE SEARCH AND DEEP LEARNiNG FOR THE TRiCK TAKiNG CARD GAME JASS <br>
+	CHALLENGING HUMAN SUPREMACY: EVALUATING MONTE CARLO TREE SEARCH AND DEEP LEARNING FOR THE TRICK TAKING CARD GAME JASS <br>
 	Poster presentation [(http://aaai-rlg.mlanctot.info/papers/AAAI20-RLG_paper_21.pdf)](http://aaai-rlg.mlanctot.info/papers/AAAI20-RLG_paper_21.pdf)
 
 * **Applied Machine Learning Days (AMLD)** Lausanne, Switzerland Jan. 2020
 
-	COMPARiNG LEARNiNG AND SEARCH ALGORiTHMS iN THE SWiSS CARD GAME JASS<br>
+	COMPARING LEARNING AND SEARCH ALGORITHMS IN THE SWISS CARD GAME JASS<br>
 	Poster presentation
 
 * **PyData Zurich** - Zurich, Switzerland Nov. 2018
 
-	PEDiATRiC BONEAGE PREDiCTiON<br>
+	PEDIATRIC BONEAGE PREDICTION<br>
 	Predicting the age of children based on hand xray images with deep neural networks [(https://meetup.com/en-AU/PyData-Zurich/events/255193573)](https://meetup.com/en-AU/PyData-Zurich/events/255193573)
+
+## Publications
+
+### Papers
+
+* J Niklaus, I Chalkidis, M Stürmer "Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction       Benchmark" - International  Conference on Empirical Methods in Natural Language Processing [(Presentation)](https://drive.google.com/file/d/1p68rB4A-EmirVqjvzPnmGNUo1qTqNxUI/view?usp=sharing)
+* C Krebs, M Falkner, J Niklaus, L Persello, S Klöppel, T Nef, P Urwyler "Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot Observational Study in Older Adults" - JMIR serious games 9
+* J Niklaus, M Alberti, R Ingold, M Stolze, T Koller "Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass" - International Conference on Artificial Intelligence and Soft Computing
+* J. Niklaus, M. Alberti, V. Pondenkandath, R. Ingold, M. Liwicki "Survey of Artificial Intelligence for Card Games and Its Application to the Swiss Game Jass" SDS 2019 - 6th Swiss Conference on Data Science
+* Z. Zhao, J. Carrera, J. Niklaus, T. Braun "Machine Learning-Based Real-Time Indoor Landmark Localization" WWIC 2018 - International Conference on Wired/Wireless Internet Communication
+
+For a complete, up-to-date list, please find me on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao).
+
+### Talks
+
+*   Pretrained Language Models @ CAS Advanced Machine Learning: Introduction to NLP, Bern, 2nd of February 2022
+*   Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark @ AI and Law Conference by recode.law, online, 20th of January 2022
+*   Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark @ Digitale Texte im Dialog, Bern, 20th of October 2021 ([Slides](https://docs.google.com/presentation/d/1Q2Dy8MQk0j4_hOFOTL3fN8WbCD8WCtGH2j8D-Sf_ubc/edit?usp=sharing), [NLP Basics Colab](https://colab.research.google.com/drive/1mH87XpAV01Jgan5meg8aus6WL0XL64Zw?usp=sharing), [NLP Training NER Colab](https://colab.research.google.com/drive/1fQ-vghTxWfN9MG4tr2qcu_yVN5lX3XO5?usp=sharing))
+*   ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ Doctoral Consortium International Conference for Artificial Intelligence and Law (ICAIL), 25th June 2021
+*   Pediatric Boneage Prediction @ PyData Zurich, November 2018 ([GitHub Repository](https://github.com/lukaszbinden/pediatric-bone-age-prediction))
+
+### Posters
+
+*   ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ Bern Data Science Day, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749467))
+*   SCRC: Swiss Court Ruling Corpus @ Bern Data Science Day, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749485))
+*   ESRA: An End-to-End System for Re-identification and Anonymization for Swiss Court Rulings @ Advanced Language Processing Winter School (ALPS) 2021, January 2021
+*   Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass @ AAAI Workshop on Reinforcement Learning in Games (RLG), February 2020 ([Poster](https://zenodo.org/record/5769551))
+*   Comparing Learning and Search Algorithms in the Swiss Card Game Jass @ Applied Machine Learning Days (AMLD), January 2020
