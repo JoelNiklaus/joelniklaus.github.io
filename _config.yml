@@ -48,5 +48,6 @@ defaults:
     values:
       layout: "page"
 
-gems:
+plugins:
   - jekyll-feed
+  - github-pages
