@@ -1,0 +1,16 @@
+---
+layout: page
+title: Projects list
+---
+<div class="posts">
+	{% for project in site.projects %}
+	<div class="post">
+		<h1 class="post-title">
+			<a href="{{ project.url }}">
+				{{ project.title }}
+			</a>
+		</h1>
+		<span class="post-date">{{ project.date | date_to_string }}</span>
+	</div>
+	{% endfor %}
+</div>

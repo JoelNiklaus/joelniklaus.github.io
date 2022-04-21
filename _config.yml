@@ -24,6 +24,9 @@ collections:
   pages:
     output: true
     permalink: "/:name"
+  projects:
+    output: true
+    permalink: "/project/:slug"
 
 defaults:
   -
@@ -37,6 +40,13 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
 
 gems:
   - jekyll-feed
