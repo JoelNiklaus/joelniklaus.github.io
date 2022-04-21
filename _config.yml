@@ -51,3 +51,6 @@ defaults:
 plugins:
   - jekyll-feed
   - github-pages
+  - jekyll-sitemap
+
+github: [metadata]
