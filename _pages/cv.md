@@ -33,7 +33,7 @@ line. It is intended to be used for contact details -->
 	Studying Swiss Court Decisions from a Natural Language Processing Perspective
 	Supervision of Bachelor and Master theses
 
-* **Master of Science in Computer Science – insigni cum laude** - University of Bern, , NEUCHÂTEL AND FRiBOURG, Bern, Switzerland Sep. 2018 ‑ Dec. 2019
+* **Master of Science in Computer Science – insigni cum laude** - University of Bern, NEUCHÂTEL AND FRIBOURG, Bern, Switzerland Sep. 2018 ‑ Dec. 2019
 
   Major 90: Computer Science with a specialization in Data Science (Grade average: **5.50/6**)<br>
 	Minor 30: Sports Science (Grade average: 4.96/6) and various additional courses<br>
