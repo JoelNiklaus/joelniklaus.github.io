@@ -20,7 +20,7 @@ line. It is intended to be used for contact details -->
 - <i class="fa-brands fa-twitter" aria-hidden="true"></i> [@joelniklaus](https://twitter.com/joelniklaus)
 
 ```
-“The secret of getting ahead is getting started.” – Mark Twain
+"The secret of getting ahead is getting started." – Mark Twain
 ```
 #### I am passionate about driving innovation in the field of Artificial Intelligence.
 
@@ -28,7 +28,7 @@ line. It is intended to be used for contact details -->
 
 * **PhD Student in Computer Science** - University of Bern, Bern, Switzerland Jul. 2020 ‑ Jun. 2024
 
-  NRP 77 ”Open Justice vs. Privacy”<br>
+  NRP 77 "Open Justice vs. Privacy"<br>
 	Supervisors: PD Dr. Matthias Stürmer, Prof. Dr. Paolo Favaro, Prof. Dr. Thomas Myrach, Dr. Ilias Chalkidis<br>
 	Studying Swiss Court Decisions from a Natural Language Processing Perspective
 	Supervision of Bachelor and Master theses
@@ -100,7 +100,7 @@ Game Jass** - Bern, Switzerland Jun. 2019
 * **Junior Researcher** - Fribourg, Switzerland Mar. 2020 ‑ Aug. 2020 <br>
 
   UNIVERSITY OF FRIBOURG<br>
-  Loss Landscape Visualization of Neural Networks: https://github.com/JoelNiklaus/loss-landscape<br>
+  Loss Landscape Visualization of Neural Networks: [https://github.com/JoelNiklaus/loss-landscape](https://github.com/JoelNiklaus/loss-landscape)<br>
   Historical Document Analysis with Deep Learning
 
 * **Data Scientist** - Bern, Switzerland Mar. 2020 ‑ Sep. 2020<br>
@@ -119,7 +119,7 @@ Game Jass** - Bern, Switzerland Jun. 2019
   Successful implementation of various orders for customers [https://joelniklaus.ch](https://joelniklaus.ch)<br>
   Selected customers: University of Bern, University for senior citizens Bern, Claire & George, Freies Gymnasium Bern, KS Rychenberg
 
-* **Data Science Intern** - Bern, Switzerland Sep. 2017 ‑ Jun. 2018 <br>
+* **Web Developer** - Bern, Switzerland Sep. 2017 ‑ Jun. 2018 <br>
 
   FASTFORWARD WEBSOLUTIONS GMBH <br>
   User interface development with Aurelia for a calculator of supplementary services (old age insurance) for Pro‑Senectute Switzerland [(https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)](https://prosenectute.ch/de/dienstleistungen/beratung/finanzen/el-rechner.html)
@@ -146,7 +146,7 @@ Game Jass** - Bern, Switzerland Jun. 2019
   KANTONSSCHULE RYCHENBERG WINTERTHUR<br>
   Already during bachelors I started teaching students in applied computer skills; I supervised various Matura theses
 
-* **Teaching Assistant for “Programming Languages” (MSc), “Software Engineering” (BSc) and “Computer Networks” (BSc)** - Bern, Switzerland Sep. 2015 ‑ Jun. 2021 <br>
+* **Teaching Assistant for "Programming Languages" (MSc), "Software Engineering" (BSc) and "Computer Networks" (BSc)** - Bern, Switzerland Sep. 2015 ‑ Jun. 2021 <br>
 
   UNIVERSITY OF BERN<br>
   Supervision of students<br>
@@ -170,7 +170,7 @@ Game Jass** - Bern, Switzerland Jun. 2019
 
 ## Presentations
 
-* **CAS Advanced Machine Learning: Introduction to NLP** Bern, - online Feb. 2022
+* **CAS Advanced Machine Learning: Introduction to NLP** Bern, online Feb. 2022
 
 	PRETRAINED LANGUAGE MODELS<br>
 	Invited Talk
