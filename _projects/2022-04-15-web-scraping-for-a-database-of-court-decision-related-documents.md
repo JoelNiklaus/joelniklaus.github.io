@@ -5,7 +5,7 @@ title: "Web Scraping for a Database of Court Decision Related Documents"
 Web Scraping for a Database of Court Decision Related Documents
 ---------------------------------------------------------------
 
-This project is available as a Seminar or Bachelor's project. This project is also available as a group project.
+This project is available as a Seminar or Bachelor's project. This project is also available as a group project.
 
 ### Introduction
 
@@ -22,7 +22,7 @@ List of possible data sources:
 *   Online phone books (e.g. local.ch)
 *   Social Media (e.g. Twitter, Facebook)
 *   Government documents
-*   Trade registers/Business register (e.g. Moneyhouse)
+*   Trade registers/Business register (e.g. Moneyhouse)
 *   Map Information systems/Land register
 
 ### Research Questions

@@ -3,10 +3,6 @@ layout: page
 title: News
 ---
 
-* **Lorem ipsum dolor sit amet** - consectetur adipisicing elit.
+* **11 July 2020 I started my PhD at the University of Bern**
 
-	Lorem Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-
-* **Lorem ipsum dolor sit amet** - consectetur adipisicing elit.
-
-	Lorem Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+* **1 March 2022 I started my internship at Thomson Reuters**
