@@ -16,9 +16,8 @@ author:
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/JoelNiklaus/joelniklaus.github.io
-
+github-repo:           https://github.com/JoelNiklaus/joelniklaus.github.io
+github-version:     refs/heads/main
 
 collections:
   pages:
