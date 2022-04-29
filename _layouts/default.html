@@ -4,10 +4,10 @@
 
 	<body>
 		{% include sidebar.html %}
-		<!-- <div class="hero-image">
-			<img src="{{ "/files/banner_1584x396.jpeg" | relative_url }}" alt="" class="banner-image">
-		</div> -->
 		<div class="content container">
+			<div class="hero-image">
+				<img src="{{ "/files/banner_1584x396.jpeg" | relative_url }}" alt="" class="banner-image" style="max-width: 100%;">
+			</div>
 			{{ content }}
 		</div>
 	</body>
