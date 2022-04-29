@@ -1,5 +1,7 @@
 ---
 title: "Transformers for the Swiss Card Game Jass"
+dataset: "#"
+code: "#"
 ---
 
 ### Introduction

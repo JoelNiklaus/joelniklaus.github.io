@@ -10,7 +10,11 @@ title: Projects list
 				{{ project.title }}
 			</a>
 		</h1>
-		<span class="post-date">{{ project.date | date_to_string }}</span>
+		<p>
+			<a href="{{ project.dataset }}" target="_blank" type="button" class="btn">🤗 Dataset</a>
+			<a href="{{ project.code }}" target="_blank" type="button" class="btn">
+				<i class="ai ai-open-materials"></i> Code</a>
+		</p>
 	</div>
 	{% endfor %}
 </div>
