@@ -1,7 +1,10 @@
 ---
 title: "Explainability Annotations for Legal Judgment Prediction in Switzerland"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

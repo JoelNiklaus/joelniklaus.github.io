@@ -1,7 +1,10 @@
 ---
 title: "Transformers for the Swiss Card Game Jass"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

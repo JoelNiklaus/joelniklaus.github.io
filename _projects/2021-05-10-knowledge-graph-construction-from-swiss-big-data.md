@@ -1,7 +1,10 @@
 ---
 title: "Knowledge Graph Construction from Swiss Big Data"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

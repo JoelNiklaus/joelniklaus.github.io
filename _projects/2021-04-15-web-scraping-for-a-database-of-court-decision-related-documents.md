@@ -1,7 +1,10 @@
 ---
 title: "Web Scraping for a Database of Court Decision Related Documents"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

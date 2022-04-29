@@ -1,7 +1,10 @@
 ---
 title: "Legal Area Prediction for Swiss Court Rulings"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

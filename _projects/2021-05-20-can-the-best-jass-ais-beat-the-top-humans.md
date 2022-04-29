@@ -1,7 +1,10 @@
 ---
 title: "Can the Best Jass AIs Beat the Top Humans"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

@@ -1,7 +1,10 @@
 ---
 title: "Judicial Person Extraction for Swiss Court Rulings"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

@@ -1,7 +1,10 @@
 ---
 title: "Negation Scope Resolution for the Multilingual Legal Domain"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction

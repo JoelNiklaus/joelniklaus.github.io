@@ -1,7 +1,10 @@
 ---
 title: "Zero-Shot and Few-Shot Natural Language Inference Models for Judgment Prediction"
+article: "#"
+print: "#"
 dataset: "#"
 code: "#"
+models: "#"
 ---
 
 ### Introduction
