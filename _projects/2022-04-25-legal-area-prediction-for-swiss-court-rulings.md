@@ -2,14 +2,7 @@
 title: "Legal Area Prediction for Swiss Court Rulings"
 ---
 
-Legal Area Prediction for Swiss Court Rulings
----------------------------------------------
-
-This project is available as a Seminar or Bachelor's project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 Big Courts like the Swiss Federal Supreme Court have many different departments and chambers each responsible for different legal areas. Therefore, an automatic system, which can route a new complaint directly to the responsible department would be very handy for these courts and free up secretaries' time for more important work. Since we do not have access to the complaints we take the facts of a case as a proxy and coin the task Legal Area Prediction, which predicts the legal area from the facts of a case.
 

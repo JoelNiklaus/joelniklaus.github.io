@@ -2,14 +2,7 @@
 title: "Judicial Person Extraction for Swiss Court Rulings"
 ---
 
-Judicial Person Extraction for Swiss Court Rulings
---------------------------------------------------
-
-This project is available as a Seminar project. This project is also available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html). We use methods of Natural Language Processing (NLP), a subfield of Artificial Intelligence (AI), Linguistics, and Computer Science.
 
 We group parties (with their legal counsels), lawyers, clerks, and judges involved in a court decision as _judicial persons_. We define the Judicial Person Extraction task as follows: Extracting judicial persons' names, gender, and occupation from court decisions. The results of this task can be used to study bias in the judicial system (e.g. lawyers of a specific gender are more successful at a specific court, are men more likely to go to prison?) This project will extract judicial persons from the rubrum (header) of Swiss court decisions.
 

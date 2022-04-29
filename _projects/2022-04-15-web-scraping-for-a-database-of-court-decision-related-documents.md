@@ -2,14 +2,7 @@
 title: "Web Scraping for a Database of Court Decision Related Documents"
 ---
 
-Web Scraping for a Database of Court Decision Related Documents
----------------------------------------------------------------
-
-This project is available as a Seminar or Bachelor's project. This project is also available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that in certain cases it is possible to re-identify companies involved in court decisions by linking the rulings with external data. Our project tries to go a step further by building an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 For a successful re-identification of involved people in a court decision, we need external data. This project has the goal of building a well-structured database of external data connected to Swiss federal court rulings.
 

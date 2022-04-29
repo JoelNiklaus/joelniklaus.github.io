@@ -2,14 +2,7 @@
 title: "Re-Identification with Data from the Swiss Transportation Safety Investigation Board"
 ---
 
-Re-Identification with Data from the Swiss Transportation Safety Investigation Board
-------------------------------------------------------------------------------------
-
-This project is available as a Seminar project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that in certain cases, it is possible to re-identify companies involved in court decisions by linking the rulings with external data. Our project tries to go a step further by building an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project, please [go here](./../../../../index_eng.html).
 
 There are court decisions tackling all kinds of accidents, such as accidents involving trains, cars, and airplanes. Such accidents are also described on the website of Swiss Transportation Safety Investigation Board (STSB). The aim of this project is to find out, to what extent this information can be used to re-identify entities occurring in court decisions.
 

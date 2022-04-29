@@ -2,14 +2,7 @@
 title: "Re-Identification in Court Decisions with Pretrained Language Models"
 ---
 
-Re-Identification in Court Decisions with Pretrained Language Models
---------------------------------------------------------------------
-
-This project is available as a Bachelor's or Master's project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 We propose to approach the general problem of re-identification (not only for a specific domain) with pretrained language models such as BERT or T5. Roberts et al. \[2\] have shown that T5 can be used to answer questions in a closed book way (without context, solely drawing from the parameters!). We plan to pretrain a large language model on a corpus of documents related to Swiss court decisions (e.g. newspapers) and then fine-tune it on a small dataset of re-identified court decisions. Then we will run it on not re-identified court decisions and analyze the results.
 

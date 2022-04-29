@@ -2,14 +2,7 @@
 title: "Data Augmentation for Legal NLP"
 ---
 
-Data Augmentation for Legal NLP
--------------------------------
-
-This project is available as a Bachelor's or Master's project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 Legal Judgment Prediction is an NLP task that automatically predicts the judgment outcome based on the facts of a case. In our dataset, we only have around 4K Italian decisions but more than 31K French decisions and almost 50K German decisions. As can be expected, the performance on the Italian dataset is much worse compared to the French and German dataset. In this project, you will experiment with data augmentation techniques \[2\] such as back-translation or machine-translating decisions from high-resource (many data points) languages (German and French in our case) to low-resource (few data points) languages (Italian in our case).
 

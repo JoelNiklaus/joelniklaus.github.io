@@ -2,14 +2,7 @@
 title: "Section Splitting for Swiss Court Rulings"
 ---
 
-Section Splitting for Swiss Court Rulings
------------------------------------------
-
-This project is available as a Seminar or Bachelor's project. This project is also available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html). We use methods of Natural Language Processing (NLP), a subfield of Artificial Intelligence (AI), Linguistics, and Computer Science.
 
 Section splitting (aka text segmentation or text zoning) is an NLP task that splits a larger text into several coherent subunits. In our case, we want to split Swiss court decisions into the sections _rubrum, facts, considerations,_ and _rulings_. These sections serve different purposes and are required for downstream tasks such as legal judgment prediction or citation prediction.
 

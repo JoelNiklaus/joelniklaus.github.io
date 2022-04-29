@@ -2,14 +2,7 @@
 title: "Explainability Annotations for Legal Judgment Prediction in Switzerland"
 ---
 
-Explainability Annotations for Legal Judgment Prediction in Switzerland
------------------------------------------------------------------------
-
-This project is available as a Bachelor's or Master's project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project, please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 We recently presented a dataset for Legal Judgment Prediction (you try to predict the outcome of a case based on its facts) including 85K Swiss Federal Supreme Court decisions \[2\]. Although we achieved up to 80% Macro-F1 Score, the models still work as black boxes and are thus not interpretable. In this project, you will work together with a legal student, to annotate some decisions in the dataset for explainability. You will use the annotation tool [Prodigy](https://prodi.gy/) and write annotation guidelines for collecting high-quality annotations.
 

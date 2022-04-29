@@ -2,14 +2,7 @@
 title: "Negation Scope Resolution for the Multilingual Legal Domain"
 ---
 
-Negation Scope Resolution for the Multilingual Legal Domain
------------------------------------------------------------
-
-This project is available as a Seminar or Bachelor's project. This project is available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project, please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 Negation Scope Resolution describes the task of finding the scope of a negation cue (e.g. "not") in a sentence (see example below). Recent transfer learning techniques such as BERT have been successfully applied on the Negation Scope Resolution task \[2\]. Negation Scope Resolution has been investigated on multilingual data \[3\], but, to the best of our knowledge, not yet in the legal domain.
 

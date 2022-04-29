@@ -2,14 +2,7 @@
 title: "Explainability Methods for Legal Judgment Prediction in Switzerland"
 ---
 
-Explainability Methods for Legal Judgment Prediction in Switzerland
--------------------------------------------------------------------
-
-This project is available as a Seminar or Bachelor's project. It is available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project, please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 We recently presented a dataset for [Legal Judgment Prediction](https://github.com/joelniklaus/swissjudgementprediction) (you try to predict the outcome of a case based on its facts) including 85K Swiss Federal Supreme Court decisions \[2\]. Although we achieved up to 70% Macro-F1 Score, the models still work as black boxes and are thus not interpretable. In this project, you will venture in the realm of explainable Machine Learning to understand the predictions better the models made on the Legal Judgment Prediction dataset. There are many explainability methods that can be tried and compared such as [SHAP](https://github.com/slundberg/shap), [LIME](https://github.com/marcotcr/lime/issues/356), [Diverse Counterfactual Explanations](https://github.com/interpretml/DiCE), Integrated Gradients, [using Attention](https://medium.com/analytics-vidhya/explainability-of-bert-through-attention-7dbbab8a7062), or using [Probes](https://youtu.be/HJn-OTNLnoE) to predict the legal area, origin cantons or citations.
 

@@ -2,14 +2,7 @@
 title: "Developing a Tool to Classify Types of Information from Comments"
 ---
 
-Developing a Tool to Classify Types of Information from Comments
-----------------------------------------------------------------
-
-This project is available for Seminar students. It is available as a group project.
-
 ### Introduction
-
-Developers write various types of information in code comments such as summary of the class, authors of the class, or description of its methods and variables in comments. These information types help developers in understanding and modifying the code. However, identifying these information types is not a trivial task as they are written in natural language form without a strict syntax.
 
 In our previous works, we developed a command-line based pipeline in Java to identify various information types from class comments \[1\]. The pipeline preprocesses the comments stored in database, process them, and prepares a machine-learning based classification model.  In another follow-up work \[2\], we developed a JavaScript-based web browser plugin that identifies the comments from a file in a GitHub repository and classify it into various categories or information types.
 

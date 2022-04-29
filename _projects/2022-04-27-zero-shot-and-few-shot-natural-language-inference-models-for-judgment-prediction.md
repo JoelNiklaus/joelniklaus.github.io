@@ -2,14 +2,7 @@
 title: "Zero-Shot and Few-Shot Natural Language Inference Models for Judgment Prediction"
 ---
 
-Zero-Shot and Few-Shot Natural Language Inference Models for Judgment Prediction
---------------------------------------------------------------------------------
-
-This project is available as a Seminar project. This project is also available as a group project.
-
 ### Introduction
-
-Swiss court decisions are anonymized to protect the privacy of the involved people (parties, victims, etc.). Previous research \[1\] has shown that it is possible to re-identify companies involved in court decisions by linking the rulings with external data in certain cases. Our project tries to further build an automated system for re-identifying involved people from court rulings. This system can then be used as a test for the anonymization practice of Swiss courts. For more information regarding the overarching research project please [go here](https://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html).
 
 Formulating text classification as a Natural Language Inference (NLI) task \[2\] enables strong Zero-Shot and Few-Shot performance in text classification tasks. The aim of this project is to apply this method to the multilingual Swiss Judgment Prediction benchmark \[3\].
 
