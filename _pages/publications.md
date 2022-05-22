@@ -3,9 +3,6 @@ layout: page
 title: Publications
 ---
 
-Publications
-============
-
 For a complete, up-to-date list, please find me on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 * **J. Niklaus**, I. Chalkidis, M. Stürmer "Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction       Benchmark" - International  Conference on Empirical Methods in Natural Language Processing [(Presentation)](https://drive.google.com/file/d/1p68rB4A-EmirVqjvzPnmGNUo1qTqNxUI/view?usp=sharing)

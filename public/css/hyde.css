@@ -128,9 +128,13 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
+  }
+
+  .banner-image {
+    margin-left: 18rem;
   }
 }
 
@@ -249,11 +253,14 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Dark Blue */
+/*
+Dark Blue
+For the favicons, created on https://www.hoststar.ch/de/tools/favicon-generator, the color #2535D9 has been used
+*/
 .theme-base-1a .sidebar {
-  background-color: #00008b;
+  background-color: #08153A;
 }
 .theme-base-1a .content a,
 .theme-base-1a .related-posts li a:hover {
-  color: #00008b;
+  color: #0032ff;
 }

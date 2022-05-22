@@ -3,9 +3,6 @@ layout: page
 title: Talks
 ---
 
-Talks
-============
-
 ## Invited Talks
 
 * Künstliche Intelligenz mit der menschlichen Sprache @ **ICT Warrior Academy, Armed Forces Command Support Organisation, Swiss Army**, Bern & online, 27th of April 2022

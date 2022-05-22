@@ -3,10 +3,8 @@
 	{% include head.html %}
 	<body class="theme-base-1a">
 		{% include sidebar.html %}
+		<img src="{{ '/public/banner_1584x396.jpeg' | relative_url }}" alt="" class="banner-image" style="max-width: 100%;">
 		<div class="content container">
-			<div class="hero-image">
-				<img src="{{ '/public/banner_1584x396.jpeg' | relative_url }}" alt="" class="banner-image" style="max-width: 100%;">
-			</div>
 			{{ content }}
 		</div>
 	</body>
