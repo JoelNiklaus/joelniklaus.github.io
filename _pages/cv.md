@@ -57,7 +57,7 @@ line. It is intended to be used for contact details -->
 
 ## Selected Publications
 
-#### For a comprehensive list, please refer to [myGoogle Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
+#### For a comprehensive list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 * **An Empirical Study on Cross‑Lingual and Cross‑Domain Transfer for Legal Judgment Prediction** - Seattle, United States Jul. 2022
 

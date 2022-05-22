@@ -1,23 +1,24 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: kramdown
+highlighter: pygments
 
 # Setup
-title:            Joel Niklaus
-tagline:          'PHD STUDENT | COMPUTATiONAL LiNGUiSTiCS'
-description:      'I am passionate about driving innovation in the field of Artificial Intelligence.'
-url:              https://joelniklaus.github.io
-baseurl:          /
+title: Joel Niklaus
+tagline: 'PhD Student | Computational Linguistics'
+description: 'I like applying the latest transformers on multilingual legal documents.'
+url: https://joelniklaus.github.io
+baseurl: /
 
 author:
-  name:           'Joel Niklaus'
-  url:            https://twitter.com/joelniklaus
+  name: 'Joel Niklaus'
+  url: https://twitter.com/joelniklaus
 
 # Custom vars
-version:          2.1.0
+encoding: UTF-8
+version: 2.1.0
 
-github-repo:           https://github.com/JoelNiklaus/joelniklaus.github.io
-github-version:     refs/heads/main
+github-repo: https://github.com/JoelNiklaus/joelniklaus.github.io
+github-version: refs/heads/main
 
 collections:
   pages:
@@ -28,20 +29,17 @@ collections:
     permalink: "/project/:slug"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
 
-  -
-    scope:
+  - scope:
       path: ""
       type: "projects"
     values:
@@ -52,4 +50,4 @@ plugins:
   - github-pages
   - jekyll-sitemap
 
-github: [metadata]
+github: [ metadata ]
