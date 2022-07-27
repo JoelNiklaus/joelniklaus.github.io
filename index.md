@@ -9,4 +9,4 @@ How to find me on the internet and social media:
 
 [Website](https://joelniklaus.ch/), [Twitter](https://twitter.com/joelniklaus), [LinkedIn](https://www.linkedin.com/in/joelniklaus/), [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao), [GitHub](https://github.com/JoelNiklaus)
 
-I am currently looking for collaborators on the [Swiss Court Rulings Corpus project](https://www.digitale-nachhaltigkeit.unibe.ch/research/artificial_intelligence/swiss_court_rulings_corpus/index_eng.html). Please drop me an email if you are interested.
+Currently, I am not available for consulting projects due to a very high load.
