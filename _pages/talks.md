@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* Entwicklungen der KI für automatische Sprachverarbeitung @ **BFH Digital Snack**, Bern & online, 28th of September 2022 ([Video](https://www.youtube.com/watch?v=84Ha_b68hco&t=15s))
 * Künstliche Intelligenz mit der menschlichen Sprache @ **ICT Warrior Academy, Armed Forces Command Support Organisation, Swiss Army**, Bern & online, 27th of April 2022 ([Video](https://vimeo.com/709376529/35b7d627ca))
 * Pretrained Language Models @ **CAS Advanced Machine Learning: Introduction to NLP, University of Bern**, Bern, 2nd of February 2022
 * Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark @ **AI and Law Conference by recode.law**, online, 20th of January 2022
