@@ -5,6 +5,7 @@ title: Publications
 
 For a complete, up-to-date list, please find me on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* **J. Niklaus**, M. Stürmer, I. Chalkidis, "An Empirical Study on Cross-X Transfer for Legal Judgment Prediction" - The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 12th International Joint Conference on Natural Language Processing (IJCNLP) ([Presentation](https://docs.google.com/presentation/d/1oj14b80z03s5qpHrgfeR4-rRNl4vdEnKDiZ0qV9yJtk/edit?usp=sharing), [Video](https://youtu.be/_swVKrF3lFA))
 * **J. Niklaus**, I. Chalkidis, M. Stürmer, "Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark" - Natural Legal Language Processing Workshop (NLLP) @ International Conference on Empirical Methods in Natural Language Processing (EMNLP) ([Presentation](https://drive.google.com/file/d/1p68rB4A-EmirVqjvzPnmGNUo1qTqNxUI/view?usp=sharing), [Video](https://youtu.be/nfGbywb2wHI))
 * C. Krebs, M. Falkner, **J. Niklaus**, L. Persello, S. Klöppel, T. Nef, P. Urwyler, "Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot Observational Study in Older Adults" - JMIR serious games 9
 * **J. Niklaus**, M. Alberti, R. Ingold, M. Stolze, T. Koller, "Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass" - International Conference on Artificial Intelligence and Soft Computing (ICAISC)
