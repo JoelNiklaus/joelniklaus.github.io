@@ -17,6 +17,7 @@ title: Collaborations
 
 Alex Nyffenegger ([Re-Identification in Court Decisions with Pretrained Language Models](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_in_court_decisions_with_pretrained_language_models/index_eng.html))
 
+
 ### Bachelor's
 
 Alec Schürmann ([Web Scraping for a Database of Court Decision Related Documents](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/web_scraping_for_a_database_of_court_decision_related_documents/index_eng.html), [Thesis](https://zenodo.org/record/7305324))
@@ -38,9 +39,8 @@ Ramona Christen ([Negation Scope Resolution for the Multilingual Legal Domain](h
 
 ### Seminar
 
+#### Autumn 2021
 Thirith Yang ([Dataset Construction for Legal Multilingual Language Models](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/dataset_construction_for_legal_multilingual_language_models/index_eng.html))
-
-Atefeh Fakhari ([Re-Identification with Data from the Swiss Transportation Safety Investigation Board](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_with_data_from_the_swiss_transportation_safety_investigation_board/index_eng.html))
 
 Alexandra-Carmen Kovacs ([Section Splitting for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/section_splitting_for_swiss_court_rulings/index_eng.html), [GitHub](https://github.com/JoelNiklaus/SwissCourtRulingCorpus))
 
@@ -48,11 +48,16 @@ Christian Kissling, Nidhi Mishra ([Judgment Outcome Extraction for Swiss Court R
 
 Benjamin Bläsi, Seyedehsharareh Mirzargar, Alex Nyffenegger ([Judicial Person Extraction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/judicial_person_extraction_for_swiss_court_rulings/index_eng.html), [GitHub](https://github.com/JoelNiklaus/SwissCourtRulingCorpus))
 
-Boris Mottet, Tunahan Öszoy ([Zero-Shot and Few-Shot Natural Language Inference Models for Judgment Prediction](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/zero_shot_and_few_shot_natural_language_inference_models_for_judgment_prediction/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Zero-Shot-and-Few-Shot-Natural-Language-Inference-Models-for-Judgment-Prediction))
+#### Spring 2022
 
-Ying Ying Lee, Xinwei Li, Bohua Chen ([Explainability Methods for Legal Judgment Prediction in Switzerland](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_methods_for_legal_judgment_prediction_in_switzerland/index_eng.html))
+Atefeh Fakhari ([Re-Identification with Data from the Swiss Transportation Safety Investigation Board](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_with_data_from_the_swiss_transportation_safety_investigation_board/index_eng.html))
 
-Dominik Ummel, Marius Asadauskas, Renato Rao ([Topic Modeling for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/topic_modeling_for_swiss_court_rulings/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Topic-Modeling-for-Swiss-Court-Rulings))
+Dominik Ummel, Marius Asadauskas, Renato Rao ([Topic Modeling for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/topic_modeling_for_swiss_court_rulings/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Topic-Modeling-for-Swiss-Court-Rulings), [Poster](https://github.com/JoelNiklaus/Topic-Modeling-for-Swiss-Court-Rulings/blob/main/Poster.pdf))
+
+Boris Mottet, Tunahan Öszoy ([Zero-Shot and Few-Shot Natural Language Inference Models for Judgment Prediction](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/zero_shot_and_few_shot_natural_language_inference_models_for_judgment_prediction/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Zero-Shot-and-Few-Shot-Natural-Language-Inference-Models-for-Judgment-Prediction), [Poster](https://github.com/JoelNiklaus/Zero-Shot-and-Few-Shot-Natural-Language-Inference-Models-for-Judgment-Prediction/blob/main/Poster.pdf))
+
+Ying Ying Lee, Xinwei Li, Bohua Chen ([Explainability Methods for Legal Judgment Prediction in Switzerland](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_methods_for_legal_judgment_prediction_in_switzerland/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Explainability-Methods-for-Legal-Judgment-Prediction-in-Switzerland), [Poster](https://github.com/JoelNiklaus/Explainability-Methods-for-Legal-Judgment-Prediction-in-Switzerland/blob/main/Poster.pdf))
+
 
 
 ## Collaborators
