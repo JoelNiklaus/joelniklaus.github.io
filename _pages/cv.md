@@ -6,7 +6,7 @@ title: CV
 Joel Niklaus
 ============
 
-[[PDF]](http://joelniklaus.github.io/files/CV.pdf)
+PDFs: [[CV]](http://joelniklaus.github.io/files/CV.pdf) and [[Resume]](http://joelniklaus.github.io/files/Resume.pdf)
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
