@@ -22,15 +22,15 @@ Alex Nyffenegger ([Re-Identification in Court Decisions with Pretrained Language
 
 Alec Schürmann ([Web Scraping for a Database of Court Decision Related Documents](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/web_scraping_for_a_database_of_court_decision_related_documents/index_eng.html), [Thesis](https://zenodo.org/record/7305324))
 
-Marco Buchholz ([Judgment Outcome Extraction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/judgment_outcome_extraction_for_swiss_court_rulings/index_eng.html))
+Roman Martinez ([Can the Best Jass AIs Beat the Top Humans?](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/game_ais/can_the_best_jass_ais_beat_the_top_humans/index_eng.html), [Thesis](https://zenodo.org/record/7828893))
 
-Ronja Stern ([Criticality Prediction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html))
+Marco Buchholz ([Judgment Outcome Extraction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/judgment_outcome_extraction_for_swiss_court_rulings/index_eng.html), [Thesis](https://zenodo.org/record/7828858))
 
-Nina Baumgartner ([Explainability Annotations for Legal Judgment Prediction in Switzerland](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html))
+Nina Baumgartner ([Explainability Annotations for Legal Judgment Prediction in Switzerland](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html), [Thesis](https://zenodo.org/record/7828876))
 
 Tobias Brugger ([Sentence Boundary Detection for Multilingual Legal Text](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/sentence_boundary_detection_for_multilingual_legal_text/index_eng.html))
 
-Roman Martinez ([Can the Best Jass AIs Beat the Top Humans?](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/game_ais/can_the_best_jass_ais_beat_the_top_humans/index_eng.html))
+Ronja Stern ([Criticality Prediction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html))
 
 Vishvaksenan Rasiah ([Data Augmentation for Legal NLP](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/data_augmentation_for_legal_nlp/index_eng.html))
 
@@ -50,7 +50,7 @@ Benjamin Bläsi, Seyedehsharareh Mirzargar, Alex Nyffenegger ([Judicial Person E
 
 #### Spring 2022
 
-Atefeh Fakhari ([Re-Identification with Data from the Swiss Transportation Safety Investigation Board](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_with_data_from_the_swiss_transportation_safety_investigation_board/index_eng.html))
+Atefeh Fakhari ([Re-Identification with Data from the Swiss Transportation Safety Investigation Board](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_with_data_from_the_swiss_transportation_safety_investigation_board/index_eng.html), [Thesis](https://github.com/JoelNiklaus/SwissCourtDecisionReIdentification/blob/main/stsb/Re-Identification-with-STSB-Data-Report.pdf)) 
 
 Dominik Ummel, Marius Asadauskas, Renato Rao ([Topic Modeling for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/topic_modeling_for_swiss_court_rulings/index_eng.html), [GitHub](https://github.com/JoelNiklaus/Topic-Modeling-for-Swiss-Court-Rulings), [Poster](https://github.com/JoelNiklaus/Topic-Modeling-for-Swiss-Court-Rulings/blob/main/Poster.pdf))
 
