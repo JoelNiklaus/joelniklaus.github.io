@@ -29,35 +29,41 @@ line. It is intended to be used for contact details -->
 * **PhD Student in Computer Science** - University of Bern, Bern, Switzerland Jul. 2020 ‑ Jun. 2024
 
   NRP 77 "Open Justice vs. Privacy"<br>
-	Supervisors: PD Dr. Matthias Stürmer, Prof. Dr. Paolo Favaro, Prof. Dr. Thomas Myrach, Dr. Ilias Chalkidis<br>
-	Studying Swiss Court Decisions from a Natural Language Processing Perspective
-	Supervision of Bachelor and Master theses
+  Supervisors: PD Dr. Matthias Stürmer, Prof. Dr. Paolo Favaro, Prof. Dr. Thomas Myrach, Dr. Ilias Chalkidis<br>
+  Studying Swiss Court Decisions from a Natural Language Processing Perspective <br>
+  Supervision of Bachelor and Master theses
 
-* **Master of Science in Computer Science – insigni cum laude** - University of Bern, NEUCHÂTEL AND FRIBOURG, Bern, Switzerland Sep. 2018 ‑ Dec. 2019
+* **Master of Science in Computer Science – insigni cum laude** - University of Bern, Neuchâtel and Fribourg, Bern, Switzerland Sep. 2018 ‑ Dec. 2019
 
   Major 90: Computer Science with a specialization in Data Science (Grade average: **5.50/6**)<br>
-	Minor 30: Sports Science (Grade average: 4.96/6) and various additional courses<br>
-	Exchange Semester at Nanyang Technological University, Singapore (Spring 2019) (Grade average: 6/6)<br>
-	Thesis: [JassTheRipper – A High‑Human Artificial Intelligence for the Swiss Card Game Jass](/files/theses/Master_Thesis.pdf) (Grade: **6/6**)
+  Minor 30: Sports Science (Grade average: 4.96/6) and various additional courses<br>
+  Exchange Semester at Nanyang Technological University, Singapore (Spring 2019) (Grade average: 6/6)<br>
+  Thesis: [JassTheRipper – A High‑Human Artificial Intelligence for the Swiss Card Game Jass](/files/theses/Master_Thesis.pdf) (
+  Grade: **6/6**)
 
 
 * **Bachelor of Science in Computer Science – magna cum laude** - University of Bern, Bern, Switzerland Sep. 2013 ‑ Jun. 2018
 
   Major 90: Computer Science (Grade average: **5.41/6**)<br>
-	Minor 60: Sports Science (Grade average: 5.09/6)<br>
-	Minor 30: Mathematics<br>
-	Extracurricular Minor 15: Business Administration<br>
-	Exchange Semester at University of Exeter, England (Spring 2017) (Grade average: 5/6)<br>
-	Thesis: [Machine Learning for Indoor Positioning](/files/theses/Bachelor_Thesis.pdf) (Grade **6/6**)
+  Minor 60: Sports Science (Grade average: 5.09/6)<br>
+  Minor 30: Mathematics<br>
+  Extracurricular Minor 15: Business Administration<br>
+  Exchange Semester at University of Exeter, England (Spring 2017) (Grade average: 5/6)<br>
+  Thesis: [Machine Learning for Indoor Positioning](/files/theses/Bachelor_Thesis.pdf) (Grade **6/6**)
 
-* **Swiss Matura** - KANTONSSCHULE RYCHENBERG WINTERTHUR, Bern, Switzerland Aug. 2007 ‑ Jul. 2013
+* **Swiss Matura** - Kantonsschule Rychenberg Winterthur, Winterthur, Switzerland Aug. 2007 ‑ Jul. 2013
 
   Bilingual (German and English) with a focus on ancient languages (Greek & Latin) (Grade average: 4.96/6)<br>
-	Thesis: [ScholarCoach.ch – Das Internetportal für Nachhilfevermittlung](/files/theses/Matura_Thesis.pdf) (Grade **6/6**)
+  Thesis: [ScholarCoach.ch – Das Internetportal für Nachhilfevermittlung](/files/theses/Matura_Thesis.pdf) (Grade **6/6**)
 
 ## Experience
 
 ### RESEARCH
+
+* **PhD Resident** - Mountain View, USA Aug. 2023 ‑ Nov. 2023 <br>
+
+  GOOGLE X <br>
+  Legal Large Language Models
 
 * **Data Science Intern** - Zug, Switzerland Mar. 2022 ‑ Aug. 2022 <br>
 
@@ -74,9 +80,9 @@ line. It is intended to be used for contact details -->
 
   ARTORG CENTER FOR BIOMEDICAL ENGINEERING RESEARCH<br>
   Maintenance and extension of tele‑health applications<br>
-	Development of cognitive models from existing data<br>
-	Development of algorithms for dynamic difficulty adjustments for tele‑apps<br>
-	Analysis and presentation of complex datasets
+  Development of cognitive models from existing data<br>
+  Development of algorithms for dynamic difficulty adjustments for tele‑apps<br>
+  Analysis and presentation of complex datasets
 
 ### SOFTWARE DEVELOPMENT
 
@@ -93,7 +99,7 @@ line. It is intended to be used for contact details -->
 
 ### TEACHING
 
-* **Lecturer for Software Engineering** - Bern, Switzerland Aug. 2021 ‑ present <br>
+* **Lecturer for Software Engineering** - Bern, Switzerland Aug. 2021 ‑ Jul. 2023 <br>
 
   BERN UNIVERSITY OF APPLIED SCIENCES <br>
   I planned and conducted the technical part of the module Software Engineering (Code Management, DevOps, Web Technologies, etc.)
@@ -106,7 +112,7 @@ line. It is intended to be used for contact details -->
 * **High School Teacher for Computer Science & Robotics** - Bern, Switzerland Aug. 2019 ‑ Jul. 2020 <br>
 
   FREIES GYMNASIUM BERN<br>
-  I assembled the coursework material for the brand new course computer science as the first teacher; I conducted difficult conversations with parents and students.
+  I assembled the coursework material for the brand-new course computer science as the first teacher; I conducted difficult conversations with parents and students.
 
 * **High School Teacher for Information and Communication Technology** - Winterthur, Switzerland Feb. 2016 ‑ Aug. 2020 <br>
 
@@ -124,7 +130,7 @@ line. It is intended to be used for contact details -->
 ## Awards
 
 | 2021 | **Research Grant (60’000 CHF)**, Pretraining Swiss Long Legal BERT, Swiss Federal Supreme Court | Bern, Switzerland |
-| 2019 |**Nominee**, Best Master Thesis, University of Fribourg, Department of Computer Science|Fribourg, Switzerland|
+| 2019 | **Nominee**, Best Master Thesis, University of Fribourg, Department of Computer Science| Fribourg, Switzerland |
 | 2017 | **Winner**, Excellent Work in Computer Science (Bachelor Thesis), Joint Alumni Association of the Universities Bern, Neuchâtel & Fribourg | Bern, Switzerland |
 | 2017 | **2nd Place**, JassChallenge, Zühlke (Large Swiss Software Consulting Company) | Bern, Switzerland |
 | 2016 | **2nd Place**, RoboChallenge, Zühlke | Bern, Switzerland |
