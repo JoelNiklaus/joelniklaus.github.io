@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-TODO: add buttons for hf datasets, presentations, paper link etc.
+<!--- TODO: add buttons for hf datasets, presentations, paper link etc. -->
 
 For a complete, up-to-date list, please find me on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
