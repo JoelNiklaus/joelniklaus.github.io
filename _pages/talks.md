@@ -16,6 +16,7 @@ title: Talks
 
 ## Posters
 
+* BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch? @ **Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing Systems (NeurIPS)**, 2nd December 2022, New Orleans ([Poster](https://zenodo.org/record/7828790))
 * ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749467))
 * SCRC: Swiss Court Ruling Corpus @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749485))
 * ESRA: An End-to-End System for Re-identification and Anonymization for Swiss Court Rulings @ **Advanced Language Processing Winter School (ALPS) 2021**, January 2021
