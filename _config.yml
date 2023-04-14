@@ -5,7 +5,7 @@ highlighter: pygments
 # Setup
 title: Joel Niklaus
 tagline: 'PhD Student in Natural Language Processing'
-description: 'I like applying the latest transformers on multilingual legal documents.'
+description: 'I like training artificial and human neural networks.'
 url: https://joelniklaus.github.io
 baseurl: /
 

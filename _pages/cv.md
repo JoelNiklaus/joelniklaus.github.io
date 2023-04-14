@@ -10,14 +10,16 @@ PDFs: [[CV]](http://joelniklaus.github.io/files/CV.pdf) and [[Resume]](http://jo
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <i class="fa fa-address-card" aria-hidden="true"></i> Schwarztorstrasse 108, 3008 Bern, Switzerland
-- <i class="fa fa-birthday-cake" aria-hidden="true"></i> 05/09/1995
+<!--- <i class="fa fa-birthday-cake" aria-hidden="true"></i> 05/09/1995 -->
+<!--- <i class="fa fa-home" aria-hidden="true"></i> [joelniklaus.ch](http://joelniklaus.ch) -->
+<!--- <i class="fa fa-address-card" aria-hidden="true"></i> Schwarztorstrasse 108, 3008 Bern, Switzerland -->
+
 - <i class="fa fa-phone" aria-hidden="true"></i> (+41) 78 664 46 59
-- <i class="fa fa-envelope" aria-hidden="true"></i> me (at) joelniklaus (dot) ch
-<!--- <i class="fa fa-home" aria-hidden="true"></i> [joelniklaus.ch](http://joelniklaus.ch)-->
+- <i class="fa fa-envelope" aria-hidden="true"></i> joel (at) niklaus (dot) ai
 - <i class="fa-brands fa-github" aria-hidden="true"></i> [joelniklaus](https://github.com/joelniklaus)
 - <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> [joelniklaus](https://www.linkedin.com/in/joelniklaus)
 - <i class="fa-brands fa-twitter" aria-hidden="true"></i> [@joelniklaus](https://twitter.com/joelniklaus)
+- <i class="fa-brands fa-telegram" aria-hidden="true"></i> [@joelinho](https://t.me/Joelinho)
 
 ```
 "The secret of getting ahead is getting started." – Mark Twain
