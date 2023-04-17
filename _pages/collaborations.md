@@ -28,7 +28,7 @@ Marco Buchholz ([Judgment Outcome Extraction for Swiss Court Rulings](https://ww
 
 Nina Baumgartner ([Explainability Annotations for Legal Judgment Prediction in Switzerland](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html), [Thesis](https://zenodo.org/record/7828876))
 
-Tobias Brugger ([Sentence Boundary Detection for Multilingual Legal Text](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/sentence_boundary_detection_for_multilingual_legal_text/index_eng.html))
+Tobias Brugger ([Sentence Boundary Detection for Multilingual Legal Text](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/sentence_boundary_detection_for_multilingual_legal_text/index_eng.html), [Thesis](https://zenodo.org/record/7835211))
 
 Ronja Stern ([Criticality Prediction for Swiss Court Rulings](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/explainability_annotations_for_legal_judgment_prediction_in_switzerland/index_eng.html))
 
