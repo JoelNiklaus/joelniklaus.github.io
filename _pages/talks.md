@@ -5,6 +5,9 @@ title: Talks
 
 ## Invited Talks
 
+* Large Language Models @ **Pizza Seminar @ Bern University of Applied Sciences**, Bern, 9th of May 2023
+* Large Language Models @ **CAS Digitale Transformation @ University of Bern**, Bern, 28th of April 2023
+* AI for Software Development @ **[Fincons](https://www.finconsgroup.com/) Rowing Sessions**, Bern, 27th of April 2023
 * Entwicklungen der KI für automatische Sprachverarbeitung @ **BFH Digital Snack**, Bern & online, 28th of September 2022 ([Video](https://www.youtube.com/watch?v=84Ha_b68hco&t=15s))
 * Künstliche Intelligenz mit der menschlichen Sprache @ **ICT Warrior Academy, Armed Forces Command Support Organisation, Swiss Army**, Bern & online, 27th of April 2022 ([Video](https://vimeo.com/709376529/35b7d627ca))
 * Pretrained Language Models @ **CAS Advanced Machine Learning: Introduction to NLP, University of Bern**, Bern, 2nd of February 2022
