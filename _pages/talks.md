@@ -5,6 +5,8 @@ title: Talks
 
 ## Invited Talks
 
+* MultiLegalPile and LEXTREME: Pretraining and Evaluating Multilingual Legal Language Models @ **Interview @ E2 by Ari Massoudi**, online, 2nd of June 2023 ([Link](https://www.linkedin.com/posts/arimassoudi_ai-law-legal-activity-7071187242722963457-PECJ?utm_source=share&utm_medium=member_desktop))
+* MultiLegalPile and LEXTREME: Pretraining and Evaluating Multilingual Legal Language Models @ **Alumni Talk @ Thomson Reuters Labs**, Zug, 1st of June 2023 ([Presentation](https://docs.google.com/presentation/d/1Edb4PE5ce4USyhKvo-GdiMjakRbbdzGo2Ihv1d4PUEU/edit?usp=sharing))
 * Large Language Models @ **Pizza Seminar @ Bern University of Applied Sciences**, Bern, 9th of May 2023
 * Large Language Models @ **CAS Digitale Transformation @ University of Bern**, Bern, 28th of April 2023
 * AI for Software Development @ **[Fincons](https://www.finconsgroup.com/) Rowing Sessions**, Bern, 27th of April 2023
