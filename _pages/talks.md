@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* New Possibilities in Legal NLP: Pretraining and Evaluating LLMs with MultiLegalPile, LEXTREME, and SCALE @ **NLP Group Lunch @ Stanford University**, Stanford & online, 8th of June 2023 ([Presentation](https://docs.google.com/presentation/d/1HEkhN7_2aFoiM-E0M_ONV2OpNqLdozOItxGxbLsnY4Q/edit?usp=sharing))
 * MultiLegalPile and LEXTREME: Pretraining and Evaluating Multilingual Legal Language Models @ **Interview @ E2 by Ari Massoudi**, online, 2nd of June 2023 ([Link](https://www.linkedin.com/posts/arimassoudi_ai-law-legal-activity-7071187242722963457-PECJ?utm_source=share&utm_medium=member_desktop))
 * MultiLegalPile and LEXTREME: Pretraining and Evaluating Multilingual Legal Language Models @ **Alumni Talk @ Thomson Reuters Labs**, Zug, 1st of June 2023 ([Presentation](https://docs.google.com/presentation/d/1Edb4PE5ce4USyhKvo-GdiMjakRbbdzGo2Ihv1d4PUEU/edit?usp=sharing))
 * Large Language Models @ **Pizza Seminar @ Bern University of Applied Sciences**, Bern, 9th of May 2023
