@@ -13,16 +13,15 @@ Science from the University of Bern, specializing in Data Science, where he deve
 game Jass. Since 2016, Joel Niklaus is teaching at Swiss high schools and universities.
 
 How to find me on the internet and social media:
+
+<!-- TODO make buttons with icons also for publications
 <a href="https://twitter.com/joelniklaus">
 <img src="/public/icons/twitter.svg" alt="Twitter Logo" style="display: inline; margin-right: 10px;"/>
 joelniklaus
 </a>
+-->
 
-
-[Website](https://joelniklaus.ch/), [Twitter](https://twitter.com/joelniklaus)
-, [LinkedIn](https://www.linkedin.com/in/joelniklaus/)
-, [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao)
-, [GitHub](https://github.com/JoelNiklaus)
+[Twitter](https://twitter.com/joelniklaus), [LinkedIn](https://www.linkedin.com/in/joelniklaus/), [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao), [GitHub](https://github.com/JoelNiklaus)
 
 I'm currently operating at near capacity with my existing commitments, but I am still open to consulting on exceptional
 projects that pique my interest.
