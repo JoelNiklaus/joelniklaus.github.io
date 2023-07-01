@@ -12,10 +12,10 @@ companies specializing in the applications of modern NLP to legal challenges. He
 Science from the University of Bern, specializing in Data Science, where he developed a High-Human AI for the Swiss card
 game Jass. Since 2016, Joel Niklaus is teaching at Swiss high schools and universities.
 
-<a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa fa-twitter"></i> JoelNiklaus</a>
-<a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" type="button" class="btn"><i class="fa fa-linkedin"></i> JoelNiklaus</a>
+<a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-twitter"></i> JoelNiklaus</a>
+<a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" type="button" class="btn"><i class="fa-brands fa-linkedin"></i> JoelNiklaus</a>
 <a href="https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao" target="_blank" type="button" class="btn"><i class="ai ai-google-scholar"></i> JoelNiklaus</a>
-<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa fa-github"></i> JoelNiklaus</a>
+<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> JoelNiklaus</a>
 
 I'm currently operating at near capacity with my existing commitments, but I am still open to consulting on exceptional
 projects that pique my interest.
