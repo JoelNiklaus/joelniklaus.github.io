@@ -65,7 +65,7 @@ line. It is intended to be used for contact details -->
 * **PhD Resident** - Mountain View, USA Aug. 2023 ‑ Nov. 2023 <br>
 
   GOOGLE X <br>
-  Legal Large Language Models
+  Legal Reasoning with Large Language Models
 
 * **Data Science Intern** - Zug, Switzerland Mar. 2022 ‑ Aug. 2022 <br>
 
