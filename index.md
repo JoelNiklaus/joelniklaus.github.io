@@ -10,7 +10,7 @@ July, he will start a PhD residency at Google X, researching legal reasoning wit
 curation to train and evaluate language models multilingually for the legal domain. He serves as a consultant to
 companies specializing in the applications of modern NLP to legal challenges. He holds a Master's degree in Computer
 Science from the University of Bern, specializing in Data Science, where he developed a High-Human AI for the Swiss card
-game Jass. Since 2016, Joel Niklaus is teaching at Swiss high schools and universities.
+game Jass. Since 2015, Joel Niklaus is teaching at Swiss high schools and universities.
 
 <a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-twitter"></i> JoelNiklaus</a>
 <a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" type="button" class="btn"><i class="fa-brands fa-linkedin"></i> JoelNiklaus</a>
