@@ -40,8 +40,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot Observational Study in Older Adults"
   – JMIR serious games 9
 * **Joel Niklaus**, Michele Alberti, Rolf Ingold, Markus Stolze, Thomas Koller, "Challenging Human Supremacy: Evaluating
-  Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass" – Reinforcement Learning in Games (**
-  RLG**) @ Association for the Advancement of Artificial Intelligence (**AAAI**) 2020 & International Conference on
+  Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass" – Reinforcement Learning in Games 
+  (**RLG**) @ Association for the Advancement of Artificial Intelligence (**AAAI**) 2020 & International Conference on
   Artificial Intelligence and Soft Computing (**ICAISC**) 2020
 * **Joel Niklaus**, Michele Alberti, Vinay Pondenkandath, Rolf Ingold, Marcus Liwicki, "Survey of Artificial
   Intelligence for Card Games and Its Application to the Swiss Game Jass" – Swiss Conference on Data Science (**SDS**)
