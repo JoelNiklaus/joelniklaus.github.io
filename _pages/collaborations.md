@@ -15,7 +15,7 @@ title: Collaborations
 
 ### Master's
 
-Alex Nyffenegger ([Re-Identification in Court Decisions with Pretrained Language Models](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_in_court_decisions_with_pretrained_language_models/index_eng.html))
+Alex Nyffenegger ([Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/re_identification_in_court_decisions_with_pretrained_language_models/index_eng.html), [Thesis](https://zenodo.org/record/8331261))
 
 
 ### Bachelor's
@@ -34,7 +34,7 @@ Ronja Stern ([Criticality Prediction and Information Retrieval in Swiss Legal Da
 
 Vishvaksenan Rasiah ([Swiss Legal Benchmark for Classification and Generation](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/data_augmentation_for_legal_nlp/index_eng.html), [Thesis](https://zenodo.org/record/8139254))
 
-Ramona Christen ([Negation Scope Resolution for the Multilingual Legal Domain](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/negation_scope_resolution_for_the_multilingual_legal_domain/index_eng.html))
+Ramona Christen ([Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/negation_scope_resolution_for_the_multilingual_legal_domain/index_eng.html), [Thesis](https://zenodo.org/record/8331257))
 
 
 ### Seminar
