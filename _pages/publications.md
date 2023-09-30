@@ -58,4 +58,15 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * Zhongliang Zhao, Jose Carrera, **Joel Niklaus**, Torsten Braun, "Machine Learning-Based Real-Time Indoor Landmark
   Localization" – International Conference on Wired/Wireless Internet Communication (**WWIC**) 2018
 
+## Memberships
 
+- ACM
+- ACL
+
+## Reviewing
+
+- NLLP Workshop 2023
+- ARR August 2023
+- MLLD Workshop 2023
+- ARR April 2022
+- ARR February 2022
