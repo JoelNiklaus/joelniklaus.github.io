@@ -8,6 +8,10 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, "Automatic Anonymization of Swiss
+  Federal Supreme Court Rulings" - ArXiv Pre-Print
+* Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
+  Exploration of Negation Scope Resolution in Legal Documents" - ArXiv Pre-Print
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
   Galit Sarfaty, Gregory M Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, **Joel Niklaus**, John Nay,
