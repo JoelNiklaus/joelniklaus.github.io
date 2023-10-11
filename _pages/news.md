@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+* **7 October 2023** LEXTREME was accepted to EMNLP Findings
+* **31 July 2023** I started my AI residency at (Google) X
 * **29 March 2023** I finished my research visit at Stanford University
 * **17 October 2022** I started my research visit at Stanford University
 * **31 August 2022** I finished my internship at Thomson Reuters Labs
