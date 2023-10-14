@@ -3,6 +3,7 @@ layout: page
 title: News
 ---
 
+* **13 October 2023** Six papers got accepted to NLLP @ EMNLP
 * **7 October 2023** LEXTREME was accepted to EMNLP Findings
 * **31 July 2023** I started my AI residency at (Google) X
 * **29 March 2023** I finished my research visit at Stanford University

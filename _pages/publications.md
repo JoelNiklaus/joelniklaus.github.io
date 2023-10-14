@@ -8,26 +8,34 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
+  Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - Natural Legal Language Processing
+  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, "Automatic Anonymization of Swiss
-  Federal Supreme Court Rulings" - ArXiv Pre-Print
+  Federal Supreme Court Rulings" - Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
+  Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
-  Exploration of Negation Scope Resolution in Legal Documents" - ArXiv Pre-Print
+  Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
   Galit Sarfaty, Gregory M Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, **Joel Niklaus**, John Nay,
   Jonathan H Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam
   Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua
-  Li, "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models" - ArXiv
-  Preprint
+  Li, "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models" - NeurIPS
+  Datasets and Benchmarks 2023
 * Alex Nyffenegger, Matthias Stürmer, **Joel Niklaus**, "Anonymity at Risk? Assessing Re-Identification Capabilities of
   Large Language Models" - ArXiv Pre-Print
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
-  SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – ArXiv Pre-Print
+  SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
+  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
-  Machine Learning (**ICML**) 2023
+  Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
+  Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, "LEXTREME: A
-  Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – ArXiv Pre-Print
+  Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – Natural Legal Language Processing Workshop (**NLLP**) @
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, EMNLP Findings 2023
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, "MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection
   Dataset" – International Conference on AI and Law (ICAIL)
   2023 [Presentation](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
