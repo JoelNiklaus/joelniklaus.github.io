@@ -8,6 +8,8 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, "Re-Identifizierung in Gerichtsurteilen mit Simap
+  Daten" - Pre-Print
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
   Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
