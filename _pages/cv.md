@@ -32,7 +32,7 @@ line. It is intended to be used for contact details -->
 
   NRP 77 "Open Justice vs. Privacy"<br>
   Supervisors: PD Dr. Matthias Stürmer, Prof. Dr. Paolo Favaro, Prof. Dr. Thomas Myrach, Dr. Ilias Chalkidis<br>
-  Studying Swiss Court Decisions from a Natural Language Processing Perspective <br>
+  Thesis: [Decoding Legalese Without Borders: Multilingual Evaluation of Language Models on Long Legal Texts](/files/theses/PhD_Thesis.pdf) <br>
   Supervision of Bachelor and Master theses
 
 * **Master of Science in Computer Science – insigni cum laude** - University of Bern, Neuchâtel and Fribourg, Bern, Switzerland Sep. 2018 ‑ Dec. 2019
