@@ -20,7 +20,7 @@ line. It is intended to be used for contact details -->
 - 🤗 [joelniklaus](https://huggingface.co/joelniklaus)
 - <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> [joelniklaus](https://www.linkedin.com/in/joelniklaus)
 - <i class="fa-brands fa-twitter" aria-hidden="true"></i> [@joelniklaus](https://twitter.com/joelniklaus)
-- <i class="fa-brands fa-telegram" aria-hidden="true"></i> [@joelinho](https://t.me/Joelinho)
+- <i class="fa-brands fa-telegram" aria-hidden="true"></i> [@joelniklaus](https://t.me/joelniklaus)
 
 ```
 "The secret of getting ahead is getting started." – Mark Twain
