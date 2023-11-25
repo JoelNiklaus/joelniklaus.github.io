@@ -17,6 +17,7 @@ line. It is intended to be used for contact details -->
 - <i class="fa fa-phone" aria-hidden="true"></i> (+41) 78 664 46 59
 - <i class="fa fa-envelope" aria-hidden="true"></i> joel (at) niklaus (dot) ai
 - <i class="fa-brands fa-github" aria-hidden="true"></i> [joelniklaus](https://github.com/joelniklaus)
+- 🤗 [joelniklaus](https://huggingface.co/joelniklaus)
 - <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> [joelniklaus](https://www.linkedin.com/in/joelniklaus)
 - <i class="fa-brands fa-twitter" aria-hidden="true"></i> [@joelniklaus](https://twitter.com/joelniklaus)
 - <i class="fa-brands fa-telegram" aria-hidden="true"></i> [@joelinho](https://t.me/Joelinho)

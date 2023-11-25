@@ -37,7 +37,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Empirical Methods in Natural Language Processing (**EMNLP**) 2023
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, "LEXTREME: A
   Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – Natural Legal Language Processing Workshop (**NLLP**) @
-  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, EMNLP Findings 2023
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, EMNLP Findings
+  2023 [Presentation](https://youtu.be/-luWTu8E78c)
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, "MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection
   Dataset" – International Conference on AI and Law (ICAIL)
   2023 [Presentation](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
