@@ -12,13 +12,16 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Daten" - Pre-Print
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
   Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - Natural Legal Language Processing
-  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023 [Slides](https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing)
 * **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, "Automatic Anonymization of Swiss
   Federal Supreme Court Rulings" - Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
-  Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023 [Slides](https://docs.google.com/presentation/d/17zBuTRlS71r61H6nxIfd1SiBwLT28DXbL_ycp3cE4gw/edit?usp=sharing)
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
-  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023 [Slides](https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing)
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
   Galit Sarfaty, Gregory M Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, **Joel Niklaus**, John Nay,
@@ -30,18 +33,20 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Large Language Models" - ArXiv Pre-Print
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
   SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
-  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023 [Slides](https://docs.google.com/presentation/d/1Uf3Qnp-0gznFrofiIIEUBeA8jfIVIuliKVrVbtyUw9E/edit?usp=sharing)
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
   Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
-  Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023 [Slides](https://docs.google.com/presentation/d/1fUpXOwUxMCm2RiWc4Pn8x3QFF631d6OzEyL-WWN3z_A/edit?usp=sharing)
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, "LEXTREME: A
   Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, EMNLP Findings
-  2023 [Presentation](https://youtu.be/-luWTu8E78c)
+  2023 [Slides](https://docs.google.com/presentation/d/1crQ-No1xZQkSDMewiPmqFaPcNfga1KpgHHE8M34xlec/edit?usp=sharing) [Video](https://youtu.be/-luWTu8E78c)
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, "MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection
   Dataset" – International Conference on AI and Law (ICAIL)
-  2023 [Presentation](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
+  2023 [Slides](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
 * **Joel Niklaus**, Daniele Giofré, "BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From
   Scratch?" – Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing
   Systems (**NeurIPS**) 2022 & Workshop on Simple and Efficient Natural Language Processing (**SustaiNLP**) @ Annual
@@ -53,13 +58,11 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * **Joel Niklaus**, Matthias Stürmer, Ilias Chalkidis, "An Empirical Study on Cross-X Transfer for Legal Judgment
   Prediction" – Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (**AACL**) and
   International Joint Conference on Natural Language Processing (**IJCNLP**)
-  2022 ([Presentation](https://docs.google.com/presentation/d/1oj14b80z03s5qpHrgfeR4-rRNl4vdEnKDiZ0qV9yJtk/edit?usp=sharing)
-  , [Video](https://youtu.be/_swVKrF3lFA))
+  2022 [Slides](https://docs.google.com/presentation/d/1oj14b80z03s5qpHrgfeR4-rRNl4vdEnKDiZ0qV9yJtk/edit?usp=sharing) [Video](https://youtu.be/_swVKrF3lFA)
 * **Joel Niklaus**, Ilias Chalkidis, Matthias Stürmer, "Swiss-Judgment-Prediction: A Multilingual Legal Judgment
   Prediction Benchmark" – Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical
   Methods in Natural Language Processing (**EMNLP**)
-  2021 ([Presentation](https://drive.google.com/file/d/1p68rB4A-EmirVqjvzPnmGNUo1qTqNxUI/view?usp=sharing)
-  , [Video](https://youtu.be/nfGbywb2wHI))
+  2021 [Slides](https://docs.google.com/presentation/d/1XmiwEEuwH4dSQmGGQs1yxjFb3-9Avc6ylx0SrmkYnLE/edit?usp=sharing) [Video](https://youtu.be/nfGbywb2wHI)
 * Christine Krebs, Michael Falkner, **Joel Niklaus**, Luca Persello, Stefan Klöppel, Tobias Nef, Prabitha Urwyler, "
   Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot Observational Study in Older Adults"
   – JMIR serious games 9
