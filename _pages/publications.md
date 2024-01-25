@@ -8,6 +8,9 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Dor Bernsohn, Ben Hagag, Yaron Vazana, **Joel Niklaus**, "LegalLens: Leveraging LLMs for Legal Violation
+  Identification in Unstructured Text" - European Chapter of the Association for Computational Linguistics (**EACL**)
+  2024
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, "Re-Identifizierung in Gerichtsurteilen mit Simap
   Daten" - Pre-Print
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
