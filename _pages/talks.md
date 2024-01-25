@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* Decoding Legalese Without Borders: Multilingual Evaluation of Language Models on Long Legal Texts @ **PhD Defense @ University of Bern**, Bern & online, 24th of January 2024 ([Presentation](https://docs.google.com/presentation/d/1jk48MbF2xb9V8KRkiX5oW-fCDSUEZhGO5i7K-QRAzLI/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=2jCh54G8XwA))
 * New Possibilities in Legal NLP: Pretraining and Evaluating LLMs with MultiLegalPile, LEXTREME, and SCALE @ **NLP Circle @ Bern University of Applied Sciences**, Bern & online, 17th of July 2023 ([Presentation](https://docs.google.com/presentation/d/1HEkhN7_2aFoiM-E0M_ONV2OpNqLdozOItxGxbLsnY4Q/edit?usp=sharing))
 * New Possibilities in Legal NLP: Pretraining and Evaluating LLMs with MultiLegalPile, LEXTREME, and SCALE @ **NLP Group Lunch @ Stanford University**, Stanford & online, 8th of June 2023 ([Presentation](https://docs.google.com/presentation/d/1HEkhN7_2aFoiM-E0M_ONV2OpNqLdozOItxGxbLsnY4Q/edit?usp=sharing))
 * MultiLegalPile and LEXTREME: Pretraining and Evaluating Multilingual Legal Language Models @ **Interview @ E2 by Ari Massoudi**, online, 2nd of June 2023 ([Video](https://www.linkedin.com/posts/arimassoudi_ai-law-legal-activity-7071187242722963457-PECJ?utm_source=share&utm_medium=member_desktop))
