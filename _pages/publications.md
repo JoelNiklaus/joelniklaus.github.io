@@ -8,22 +8,24 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
-* Dor Bernsohn, Ben Hagag, Yaron Vazana, **Joel Niklaus**, "LegalLens: Leveraging LLMs for Legal Violation
-  Identification in Unstructured Text" - European Chapter of the Association for Computational Linguistics (**EACL**)
-  2024
+* Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi "LegalLens:
+  Leveraging LLMs for Legal Violation Identification in Unstructured Text" - Conference of the European Chapter of the
+  Association for Computational Linguistics (**EACL**) 2024
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, "Re-Identifizierung in Gerichtsurteilen mit Simap
   Daten" - Pre-Print
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
   Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
-  2023 [Slides](https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing)
+  2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**)
+  2024 [Slides](https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing)
 * **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, "Automatic Anonymization of Swiss
   Federal Supreme Court Rulings" - Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
   Empirical Methods in Natural Language Processing (**EMNLP**)
   2023 [Slides](https://docs.google.com/presentation/d/17zBuTRlS71r61H6nxIfd1SiBwLT28DXbL_ycp3cE4gw/edit?usp=sharing)
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
-  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Joint International
+  Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
   2023 [Slides](https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing)
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
@@ -33,10 +35,13 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Li, "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models" - NeurIPS
   Datasets and Benchmarks 2023
 * Alex Nyffenegger, Matthias Stürmer, **Joel Niklaus**, "Anonymity at Risk? Assessing Re-Identification Capabilities of
-  Large Language Models" - ArXiv Pre-Print
+  Large Language Models" - Annual Conference of the North American Chapter of the Association for Computational
+  Linguistics (**NAACL**) Findings 2024
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
   SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023, Data-centric Machine Learning Workshop (**DMLR**) @ International Conference on Learning Representations
+  (**ICLR**)
   2023 [Slides](https://docs.google.com/presentation/d/1Uf3Qnp-0gznFrofiIIEUBeA8jfIVIuliKVrVbtyUw9E/edit?usp=sharing)
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
@@ -86,6 +91,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 ## Reviewing
 
+- ARR December 2023
 - NLLP Workshop 2023
 - ARR August 2023
 - MLLD Workshop 2023

@@ -3,6 +3,11 @@ layout: page
 title: News
 ---
 
+* **13 March 2024** Anonymity at Risk? was accepted to NAACL Findings
+* **4 March 2024**SCALE was accepted to DMLR @ ICLR
+* **20 February 2024** Two papers got accepted to LREC-COLING
+* **14 February 2024** LegalLens was accepted at EACL Main
+* **24 January 2024** I successfully defended my PhD
 * **13 October 2023** Six papers got accepted to NLLP @ EMNLP
 * **7 October 2023** LEXTREME was accepted to EMNLP Findings
 * **31 July 2023** I started my AI residency at (Google) X
