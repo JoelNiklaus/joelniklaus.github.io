@@ -4,7 +4,7 @@ highlighter: pygments
 
 # Setup
 title: Joel Niklaus
-tagline: 'PhD Student in Natural Language Processing'
+tagline: 'NLP Researcher'
 description: 'I like training artificial and human neural networks.'
 url: https://joelniklaus.github.io
 baseurl: /
