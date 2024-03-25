@@ -8,9 +8,17 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+
+<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Slides</a>
+<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Poster</a>
+
+
 * Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi "LegalLens:
   Leveraging LLMs for Legal Violation Identification in Unstructured Text" - Conference of the European Chapter of the
   Association for Computational Linguistics (**EACL**) 2024
+  <a href="https://arxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/darrow-labs/LegalLens" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/darrow-ai" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, "Re-Identifizierung in Gerichtsurteilen mit Simap
   Daten" - Pre-Print
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
@@ -88,9 +96,11 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 - ACM
 - ACL
+- ELRA
 
 ## Reviewing
 
+- ARR February 2024
 - ARR December 2023
 - NLLP Workshop 2023
 - ARR August 2023
