@@ -3,38 +3,50 @@ layout: page
 title: Publications
 ---
 
-<!--- TODO: add buttons for hf datasets, presentations, paper link etc. -->
-
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+<!-- This feels a bit weird
+## Posters
 
-<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Slides</a>
-<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Poster</a>
+* BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch? @ **Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing Systems (NeurIPS)**, 2nd December 2022, New Orleans ([Poster](https://zenodo.org/record/7828790))
+* ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Doctoral Consortium International Conference for Artificial Intelligence and Law (ICAIL)**, online, 25th June 2021
+* ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749467))
+* SCRC: Swiss Court Ruling Corpus @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749485))
+* Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass @ **AAAI Workshop on Reinforcement Learning in Games (RLG)**, February 2020 ([Poster](https://zenodo.org/record/5769551))
+
+<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
+-->
 
 
-* Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi "LegalLens:
-  Leveraging LLMs for Legal Violation Identification in Unstructured Text" - Conference of the European Chapter of the
-  Association for Computational Linguistics (**EACL**) 2024
+* Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi, 
+  "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
+  Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024
   <a href="https://arxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/darrow-labs/LegalLens" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
-  <a href="https://huggingface.co/darrow-ai" target="_blank" type="button" class="btn">🤗 Dataset</a>
-* **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, "Re-Identifizierung in Gerichtsurteilen mit Simap
-  Daten" - Pre-Print
-* Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, "Towards Explainability and
-  Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - Natural Legal Language Processing
-  Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  <a href="https://huggingface.co/collections/joelniklaus/legallens-datasets-6601a17a92e663923265c845" target="_blank" type="button" class="btn">🤗 Dataset</a>
+* **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, 
+  "Re-Identifizierung in Gerichtsurteilen mit Simap Daten" - Pre-Print
+  <a href="https://zenodo.org/records/10032009" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+* Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, 
+  "Towards Explainability and Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - 
+  Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
   2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**)
-  2024 [Slides](https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing)
-* **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, "Automatic Anonymization of Swiss
-  Federal Supreme Court Rulings" - Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
-  Empirical Methods in Natural Language Processing (**EMNLP**)
-  2023 [Slides](https://docs.google.com/presentation/d/17zBuTRlS71r61H6nxIfd1SiBwLT28DXbL_ycp3cE4gw/edit?usp=sharing)
+  2024
+  <a href="https://arxiv.org/abs/2402.17013" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://huggingface.co/collections/joelniklaus/explainability-datasets-6601a0ffa4bca9c75dbc57b0" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+* **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, 
+  "Automatic Anonymization of Swiss Federal Supreme Court Rulings" - 
+  Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+  2023
+  <a href="https://docs.google.com/presentation/d/17zBuTRlS71r61H6nxIfd1SiBwLT28DXbL_ycp3cE4gw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Joint International
   Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
-  2023 [Slides](https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing)
+  2023 
+  <a href="https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
   Galit Sarfaty, Gregory M Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, **Joel Niklaus**, John Nay,

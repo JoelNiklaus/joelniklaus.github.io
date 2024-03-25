@@ -20,14 +20,3 @@ title: Talks
 * Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark @ **Digitale Texte im Dialog, Digital Humanities, University of Bern**, Bern & online, 20th of October 2021 ([Slides](https://docs.google.com/presentation/d/1Q2Dy8MQk0j4_hOFOTL3fN8WbCD8WCtGH2j8D-Sf_ubc/edit?usp=sharing), [NLP Basics Colab](https://colab.research.google.com/drive/1mH87XpAV01Jgan5meg8aus6WL0XL64Zw?usp=sharing), [NLP Training NER Colab](https://colab.research.google.com/drive/1fQ-vghTxWfN9MG4tr2qcu_yVN5lX3XO5?usp=sharing))
 * Pediatric Boneage Prediction @ **PyData Zürich**, Zürich, November 2018 ([GitHub Repository](https://github.com/lukaszbinden/pediatric-bone-age-prediction))
 
-<!-- This feels a bit weird
-## Posters
-
-* BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch? @ **Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing Systems (NeurIPS)**, 2nd December 2022, New Orleans ([Poster](https://zenodo.org/record/7828790))
-* ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Doctoral Consortium International Conference for Artificial Intelligence and Law (ICAIL)**, online, 25th June 2021
-* ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749467))
-* SCRC: Swiss Court Ruling Corpus @ **Bern Data Science Day**, 23th April 2021, Bern, online ([Poster](https://zenodo.org/record/4749485))
-* ESRA: An End-to-End System for Re-identification and Anonymization for Swiss Court Rulings @ **Advanced Language Processing Winter School (ALPS) 2021**, January 2021
-* Challenging Human Supremacy: Evaluating Monte Carlo Tree Search and Deep Learning for the Trick Taking Card Game Jass @ **AAAI Workshop on Reinforcement Learning in Games (RLG)**, February 2020 ([Poster](https://zenodo.org/record/5769551))
-* Comparing Learning and Search Algorithms in the Swiss Card Game Jass @ **Applied Machine Learning Days (AMLD)**, January 2020
--->
