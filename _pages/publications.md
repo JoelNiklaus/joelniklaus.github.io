@@ -6,8 +6,7 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
-<!-- This feels a bit weird
-## Posters
+<!-- Posters
 
 * BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch? @ **Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing Systems (NeurIPS)**, 2nd December 2022, New Orleans ([Poster](https://zenodo.org/record/7828790))
 * ESRA: An End-to-End System for Re-Identification and Anonymization of Swiss Court Decisions @ **Doctoral Consortium International Conference for Artificial Intelligence and Law (ICAIL)**, online, 25th June 2021
@@ -28,6 +27,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, 
   "Re-Identifizierung in Gerichtsurteilen mit Simap Daten" - Pre-Print
   <a href="https://zenodo.org/records/10032009" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/SwissCourtDecisionReIdentification" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, 
   "Towards Explainability and Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
@@ -47,6 +47,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
   2023
   <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
@@ -56,10 +57,12 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Li, "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models" - NeurIPS
   Datasets and Benchmarks 2023
   <a href="https://nips.cc/virtual/2023/poster/73565" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/HazyResearch/legalbench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * Alex Nyffenegger, Matthias Stürmer, **Joel Niklaus**, "Anonymity at Risk? Assessing Re-Identification Capabilities of
   Large Language Models" - Annual Conference of the North American Chapter of the Association for Computational
   Linguistics (**NAACL**) Findings 2024
   <a href="https://arxiv.org/abs/2308.11103" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/Skatinger/Anonymity-at-Risk-Assessing-Re-Identification-Capabilities-of-Large-Language-Models" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
   SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
@@ -72,17 +75,20 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
   Empirical Methods in Natural Language Processing (**EMNLP**) 2023
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   [Slides](https://docs.google.com/presentation/d/1fUpXOwUxMCm2RiWc4Pn8x3QFF631d6OzEyL-WWN3z_A/edit?usp=sharing)
-* **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, "LEXTREME: A
-  Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – Natural Legal Language Processing Workshop (**NLLP**) @
-  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, EMNLP Findings 2023
+* **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, 
+  "LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – 
+  Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023 & EMNLP Findings 2023
   <a href="https://aclanthology.org/2023.findings-emnlp.200/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/LEXTREME" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   [Slides](https://docs.google.com/presentation/d/1crQ-No1xZQkSDMewiPmqFaPcNfga1KpgHHE8M34xlec/edit?usp=sharing) 
   [Video](https://youtu.be/-luWTu8E78c)
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, 
   "MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection Dataset" – 
   International Conference on AI and Law (ICAIL) 2023
   <a href="https://dl.acm.org/doi/10.1145/3594536.3595132" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/tobiasbrugger/multilegalsbd" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   [Slides](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
 * **Joel Niklaus**, Daniele Giofré, "BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From
   Scratch?" – Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing
@@ -94,17 +100,20 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Legal Judgment Prediction of Class Action Cases in the US" – Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2022
   <a href="https://aclanthology.org/2022.nllp-1.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/darrow-labs/ClassActionPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * **Joel Niklaus**, Matthias Stürmer, Ilias Chalkidis, 
   "An Empirical Study on Cross-X Transfer for Legal Judgment Prediction" –
   Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (**AACL**) and 
   International Joint Conference on Natural Language Processing (**IJCNLP**) 2022
   <a href="https://aclanthology.org/2022.aacl-main.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/SwissJudgementPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   [Slides](https://docs.google.com/presentation/d/1oj14b80z03s5qpHrgfeR4-rRNl4vdEnKDiZ0qV9yJtk/edit?usp=sharing) 
   [Video](https://youtu.be/_swVKrF3lFA)
 * **Joel Niklaus**, Ilias Chalkidis, Matthias Stürmer, 
   "Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark" – 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2021
   <a href="https://aclanthology.org/2021.nllp-1.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/SwissJudgementPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   [Slides](https://docs.google.com/presentation/d/1XmiwEEuwH4dSQmGGQs1yxjFb3-9Avc6ylx0SrmkYnLE/edit?usp=sharing) 
   [Video](https://youtu.be/nfGbywb2wHI)
 * Christine Krebs, Michael Falkner, **Joel Niklaus**, Luca Persello, Stefan Klöppel, Tobias Nef, Prabitha Urwyler, 
@@ -116,6 +125,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Reinforcement Learning in Games (**RLG**) @ Association for the Advancement of Artificial Intelligence (**AAAI**) 2020 & 
   International Conference on Artificial Intelligence and Soft Computing (**ICAISC**) 2020
   <a href="https://link.springer.com/chapter/10.1007/978-3-030-61534-5_45" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/JassTheRipper" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * **Joel Niklaus**, Michele Alberti, Vinay Pondenkandath, Rolf Ingold, Marcus Liwicki, 
   "Survey of Artificial Intelligence for Card Games and Its Application to the Swiss Game Jass" – 
   Swiss Conference on Data Science (**SDS**) 2019
