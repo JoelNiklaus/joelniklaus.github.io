@@ -31,8 +31,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, 
   "Towards Explainability and Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
-  2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**)
-  2024
+  2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
   <a href="https://arxiv.org/abs/2402.17013" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/collections/joelniklaus/explainability-datasets-6601a0ffa4bca9c75dbc57b0" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
@@ -48,6 +47,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   2023
   <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/rcds/MultiLegalNeg" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
@@ -58,17 +58,20 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Datasets and Benchmarks 2023
   <a href="https://nips.cc/virtual/2023/poster/73565" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/HazyResearch/legalbench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/nguha/legalbench" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Alex Nyffenegger, Matthias Stürmer, **Joel Niklaus**, "Anonymity at Risk? Assessing Re-Identification Capabilities of
   Large Language Models" - Annual Conference of the North American Chapter of the Association for Computational
   Linguistics (**NAACL**) Findings 2024
   <a href="https://arxiv.org/abs/2308.11103" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/Skatinger/Anonymity-at-Risk-Assessing-Re-Identification-Capabilities-of-Large-Language-Models" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/collections/joelniklaus/anonymity-at-risk-datasets-6535f7c1b3852ed1cef487ff" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
   SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
   2023, Data-centric Machine Learning Workshop (**DMLR**) @ International Conference on Learning Representations
   (**ICLR**) 2023
   <a href="https://arxiv.org/abs/2306.09237" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://huggingface.co/collections/joelniklaus/scale-datasets-6535da6123e0af0e0da0b142" target="_blank" type="button" class="btn">🤗 Dataset</a>
   [Slides](https://docs.google.com/presentation/d/1Uf3Qnp-0gznFrofiIIEUBeA8jfIVIuliKVrVbtyUw9E/edit?usp=sharing)
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
@@ -76,12 +79,14 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Empirical Methods in Natural Language Processing (**EMNLP**) 2023
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/collections/joelniklaus/multilegalpile-datasets-6535db705f5e918bdc17ecc7" target="_blank" type="button" class="btn">🤗 Dataset</a>
   [Slides](https://docs.google.com/presentation/d/1fUpXOwUxMCm2RiWc4Pn8x3QFF631d6OzEyL-WWN3z_A/edit?usp=sharing)
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, 
   "LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023 & EMNLP Findings 2023
   <a href="https://aclanthology.org/2023.findings-emnlp.200/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LEXTREME" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/joelniklaus/lextreme" target="_blank" type="button" class="btn">🤗 Dataset</a>
   [Slides](https://docs.google.com/presentation/d/1crQ-No1xZQkSDMewiPmqFaPcNfga1KpgHHE8M34xlec/edit?usp=sharing) 
   [Video](https://youtu.be/-luWTu8E78c)
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, 
@@ -89,6 +94,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   International Conference on AI and Law (ICAIL) 2023
   <a href="https://dl.acm.org/doi/10.1145/3594536.3595132" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/tobiasbrugger/multilegalsbd" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/rcds/MultiLegalSBD" target="_blank" type="button" class="btn">🤗 Dataset</a>
   [Slides](https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing)
 * **Joel Niklaus**, Daniele Giofré, "BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From
   Scratch?" – Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing
@@ -101,6 +107,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2022
   <a href="https://aclanthology.org/2022.nllp-1.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/darrow-labs/ClassActionPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/collections/joelniklaus/classactionprediction-datasets-6535f61799d8bba2945649f2" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Matthias Stürmer, Ilias Chalkidis, 
   "An Empirical Study on Cross-X Transfer for Legal Judgment Prediction" –
   Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (**AACL**) and 
@@ -114,6 +121,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2021
   <a href="https://aclanthology.org/2021.nllp-1.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/SwissJudgementPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/rcds/swiss_judgment_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
   [Slides](https://docs.google.com/presentation/d/1XmiwEEuwH4dSQmGGQs1yxjFb3-9Avc6ylx0SrmkYnLE/edit?usp=sharing) 
   [Video](https://youtu.be/nfGbywb2wHI)
 * Christine Krebs, Michael Falkner, **Joel Niklaus**, Luca Persello, Stefan Klöppel, Tobias Nef, Prabitha Urwyler, 
