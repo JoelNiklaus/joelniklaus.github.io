@@ -21,11 +21,13 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi, 
   "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
   Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024
+  <br>
   <a href="https://arxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/darrow-labs/LegalLens" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/legallens-datasets-6601a17a92e663923265c845" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, 
   "Re-Identifizierung in Gerichtsurteilen mit Simap Daten" - Pre-Print
+  <br>
   <a href="https://zenodo.org/records/10032009" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/SwissCourtDecisionReIdentification" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, 
