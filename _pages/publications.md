@@ -33,6 +33,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://aclanthology.org/2023.nllp-1.16/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://docs.google.com/presentation/d/17zBuTRlS71r61H6nxIfd1SiBwLT28DXbL_ycp3cE4gw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://huggingface.co/joelniklaus/legal-swiss-roberta-base" target="_blank" type="button" class="btn">🤗 Models</a>
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Joint International
@@ -42,6 +43,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/rcds/MultiLegalNeg" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://huggingface.co/rcds/neg-xlm-roberta-base" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
@@ -69,6 +71,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://arxiv.org/abs/2306.09237" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/collections/joelniklaus/scale-datasets-6535da6123e0af0e0da0b142" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://huggingface.co/collections/joelniklaus/scale-models-6535da25badc4978079f88ab" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://docs.google.com/presentation/d/1Uf3Qnp-0gznFrofiIIEUBeA8jfIVIuliKVrVbtyUw9E/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
@@ -78,6 +81,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/multilegalpile-datasets-6535db705f5e918bdc17ecc7" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://huggingface.co/collections/joelniklaus/legallms-65303ccfc2f20ed637f17cb6" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://docs.google.com/presentation/d/1fUpXOwUxMCm2RiWc4Pn8x3QFF631d6OzEyL-WWN3z_A/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, 
   "LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – 
@@ -95,6 +99,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://dl.acm.org/doi/10.1145/3594536.3595132" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/tobiasbrugger/multilegalsbd" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/rcds/MultiLegalSBD" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://huggingface.co/collections/rcds/multilegalsbd-models-6535d92499d8bba29452fb10" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://docs.google.com/presentation/d/1ccDJEsJPxu62CzAYo7v6IfW0sLaOWBjYz3oTZm_Epko/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * **Joel Niklaus**, Daniele Giofré, "BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From
   Scratch?" – Efficient Natural Language and Speech Processing Workshop (ENLSP) @ Neural Information Processing
@@ -103,6 +108,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://aclanthology.org/2023.sustainlp-1.11/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://zenodo.org/record/7828790" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
+  <a href="https://huggingface.co/thomsonreuters/budgetlongformer-diverse" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://recorder-v3.slideslive.com/?share=76454&s=f045ba56-af85-4c8d-ac5c-f00b0c7e3b23" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * Gil Semo, Dor Bernsohn, Ben Hagag, Gila Hayat, **Joel Niklaus**, "ClassActionPrediction: A Challenging Benchmark for
   Legal Judgment Prediction of Class Action Cases in the US" – Natural Legal Language Processing Workshop (**NLLP**) @
