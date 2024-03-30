@@ -87,7 +87,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://github.com/JoelNiklaus/LEXTREME" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/joelniklaus/lextreme" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1crQ-No1xZQkSDMewiPmqFaPcNfga1KpgHHE8M34xlec/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
-  [Video](https://youtu.be/-luWTu8E78c)
+  <a href="https://youtu.be/-luWTu8E78c" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * Tobias Brugger, Matthias Stürmer, **Joel Niklaus**, 
   "MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection Dataset" – 
   International Conference on AI and Law (ICAIL) 2023
@@ -103,7 +103,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://aclanthology.org/2023.sustainlp-1.11/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://zenodo.org/record/7828790" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
-  [Video](https://recorder-v3.slideslive.com/?share=76454&s=f045ba56-af85-4c8d-ac5c-f00b0c7e3b23)
+  <a href="https://recorder-v3.slideslive.com/?share=76454&s=f045ba56-af85-4c8d-ac5c-f00b0c7e3b23" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * Gil Semo, Dor Bernsohn, Ben Hagag, Gila Hayat, **Joel Niklaus**, "ClassActionPrediction: A Challenging Benchmark for
   Legal Judgment Prediction of Class Action Cases in the US" – Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2022
@@ -119,7 +119,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://aclanthology.org/2022.aacl-main.3/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/SwissJudgementPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://docs.google.com/presentation/d/1oj14b80z03s5qpHrgfeR4-rRNl4vdEnKDiZ0qV9yJtk/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
-  [Video](https://youtu.be/_swVKrF3lFA)
+  <a href="https://youtu.be/_swVKrF3lFA" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * **Joel Niklaus**, Ilias Chalkidis, Matthias Stürmer, 
   "Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark" – 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2021
@@ -128,7 +128,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://github.com/JoelNiklaus/SwissJudgementPrediction" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_judgment_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1XmiwEEuwH4dSQmGGQs1yxjFb3-9Avc6ylx0SrmkYnLE/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
-  [Video](https://youtu.be/nfGbywb2wHI)
+  <a href="https://youtu.be/nfGbywb2wHI" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * Christine Krebs, Michael Falkner, **Joel Niklaus**, Luca Persello, Stefan Klöppel, Tobias Nef, Prabitha Urwyler, 
   "Application of Eye Tracking in Puzzle Games for Adjunct Cognitive Markers: Pilot Observational Study in Older Adults"
   – JMIR serious games 9
