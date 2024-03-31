@@ -56,6 +56,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://nips.cc/virtual/2023/poster/73565" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/HazyResearch/legalbench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/nguha/legalbench" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/73565.png?t=1702308429.6880481" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
 * Alex Nyffenegger, Matthias Stürmer, **Joel Niklaus**, "Anonymity at Risk? Assessing Re-Identification Capabilities of
   Large Language Models" - Annual Conference of the North American Chapter of the Association for Computational
   Linguistics (**NAACL**) Findings 2024
