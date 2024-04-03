@@ -6,7 +6,12 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
-
+* **Joel Niklaus**, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning,
+  "FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2404.02127" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/LawInstruct" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/lawinstruct/lawinstruct" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi, 
   "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
   Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024
