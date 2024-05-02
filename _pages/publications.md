@@ -50,6 +50,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://huggingface.co/datasets/rcds/MultiLegalNeg" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://huggingface.co/rcds/neg-xlm-roberta-base" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://niklaus.ai/files/publications/legalese/Video.mp4" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * Neel Guha, Julian Nyarko, Daniel E Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin
   Peters, Brandon Waldon, Daniel N Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan,
   Galit Sarfaty, Gregory M Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, **Joel Niklaus**, John Nay,
