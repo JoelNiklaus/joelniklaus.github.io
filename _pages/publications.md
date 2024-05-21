@@ -84,7 +84,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * **Joel Niklaus**, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, "MultiLegalPile: A 689GB
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
   Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
-  Empirical Methods in Natural Language Processing (**EMNLP**) 2023
+  Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024
   <br>
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
