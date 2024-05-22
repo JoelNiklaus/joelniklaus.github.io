@@ -27,7 +27,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * Santosh T.Y.S.S, Nina Baumgartner, Matthias Stürmer, Matthias Grabmair, **Joel Niklaus**, 
   "Towards Explainability and Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset" - 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
-  2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
+  2023, Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 Poster
   <br>
   <a href="https://arxiv.org/abs/2402.17013" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/collections/joelniklaus/explainability-datasets-6601a0ffa4bca9c75dbc57b0" target="_blank" type="button" class="btn">🤗 Dataset</a>
@@ -41,9 +41,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://huggingface.co/joelniklaus/legal-swiss-roberta-base" target="_blank" type="button" class="btn">🤗 Models</a>
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
-  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Joint International
-  Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024
-  2023
+  International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, Joint International
+  Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 Oral
   <br>
   <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
