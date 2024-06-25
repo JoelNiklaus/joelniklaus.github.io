@@ -4,7 +4,7 @@ title: News
 ---
 
 * **13 March 2024** Anonymity at Risk? was accepted to NAACL Findings
-* **4 March 2024**SCALE was accepted to DMLR @ ICLR
+* **4 March 2024** SCALE was accepted to DMLR @ ICLR
 * **20 February 2024** Two papers got accepted to LREC-COLING
 * **14 February 2024** LegalLens was accepted at EACL Main
 * **24 January 2024** I successfully defended my PhD

@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+## Media Coverage
+
+- Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
+  "Echo der Zeit" by the Swiss National Radio and Television (SRF) on 
+  [June 23rd, 2024](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581).
+
+## Publication List
+
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 

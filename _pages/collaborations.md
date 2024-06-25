@@ -62,7 +62,7 @@ Ying Ying Lee, Xinwei Li, Bohua Chen ([Explainability Methods for Legal Judgment
 
 ## Collaborators
 
-Prof. Dr. Thomas Koller
-
 Darrow AI Ltd.
+
+Swiss Federal Supreme Court
 
