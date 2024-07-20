@@ -22,7 +22,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://huggingface.co/datasets/lawinstruct/lawinstruct" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi, 
   "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
-  Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024
+  Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024 **oral**
   <br>
   <a href="https://arxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/darrow-labs/LegalLens" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
@@ -50,7 +50,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 * Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, **Joel Niklaus**, "Resolving Legalese: A Multilingual
   Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @
   International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, Joint International
-  Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 Oral
+  Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 **oral**
   <br>
   <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
@@ -92,7 +92,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
   Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
   Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
-  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral**
   <br>
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
