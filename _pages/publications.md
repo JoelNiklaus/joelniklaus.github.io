@@ -95,10 +95,13 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral**
   <br>
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
-  <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Dataset Code</a>
+  <a href="https://github.com/JoelNiklaus/MultilingualLegalLMPretraining" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Pretraining Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/multilegalpile-datasets-6535db705f5e918bdc17ecc7" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://huggingface.co/collections/joelniklaus/legallms-65303ccfc2f20ed637f17cb6" target="_blank" type="button" class="btn">🤗 Models</a>
-  <a href="https://docs.google.com/presentation/d/1fUpXOwUxMCm2RiWc4Pn8x3QFF631d6OzEyL-WWN3z_A/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://docs.google.com/presentation/d/1nWCTS3H9w1Mm64hz-K4ZZhOZyWcOb61BXMG-tTqxrJE/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://zenodo.org/records/12837276" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
+  <a href="https://youtu.be/DLT55Hep7TE" target="_blank" type="button" class="btn"><i class="fa-solid fa-video"></i> Video</a>
 * **Joel Niklaus**, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis, 
   "LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain" – 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023 & EMNLP Findings 2023
