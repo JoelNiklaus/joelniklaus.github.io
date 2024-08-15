@@ -92,7 +92,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Multilingual Legal Corpus" – Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on
   Machine Learning (**ICML**) 2023, Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on
   Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
-  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral**
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral** and 
+  **Outstanding Paper Award** (top 2% of accepted papers)
   <br>
   <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Dataset Code</a>
@@ -186,7 +187,9 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 ## Reviewing
 
+- ARR August 2024
 - NeurIPS 2024
+- ARR June 2024
 - ARR April 2024
 - ARR February 2024
 - ARR December 2023

@@ -3,6 +3,7 @@ layout: page
 title: News
 ---
 
+* **14 August 2024** MultiLegalPile won an Outstanding Paper Award at ACL
 * **13 March 2024** Anonymity at Risk? was accepted to NAACL Findings
 * **4 March 2024** SCALE was accepted to DMLR @ ICLR
 * **20 February 2024** Two papers got accepted to LREC-COLING
