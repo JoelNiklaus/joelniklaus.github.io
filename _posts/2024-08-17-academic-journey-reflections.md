@@ -1,7 +1,7 @@
 ---
-layout: page 
+layout: post 
 title: Reflections on my Academic Journey 
-date: 2024-08-17
+date: 2024-08-17 00:00:00 +0000
 ---
 
 # Reflections on my Last Conference and Academic Journey
