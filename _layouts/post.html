@@ -3,8 +3,18 @@ layout: default
 ---
 <div class="post">
 	<h1 class="post-title">{{ page.title }}</h1>
+
+	{% assign words = content | number_of_words %}
+	{% assign reading_time = words | divided_by: 200 %}
+	{% if reading_time < 1 %}
+	<p class="reading-time">Reading time: Less than a minute</p>
+	{% else %}
+	<p class="reading-time">Reading time: {{ reading_time | ceil }} minute{% if reading_time > 1 %}s{% endif %}</p>
+	{% endif %}
+
 	{{ content }}
 </div>
+
 {% if site.related_posts and site.related_posts.size > 0 %}
 <div class="related">
 	<h2>Related Posts</h2>
