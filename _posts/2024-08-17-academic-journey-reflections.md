@@ -4,7 +4,7 @@ title: Reflections on my Last Conference and Academic Journey
 date: 2024-08-17 00:00:00 +0000
 ---
 
-With the conclusion of #ACL2024 some reflections on my last conference of my PhD and the academic journey over the past
+With the conclusion of #ACL2024 some reflections on the last conference of my PhD and the academic journey over the past
 four years.
 
 ## 🤝 Conference
