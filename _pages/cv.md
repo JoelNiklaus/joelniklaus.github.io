@@ -29,7 +29,7 @@ line. It is intended to be used for contact details -->
 
 ## Education
 
-* **PhD Student in Computer Science** - University of Bern, Bern, Switzerland Jul. 2020 ‑ Jun. 2024
+* **PhD Student in Computer Science** - University of Bern, Bern, Switzerland Jul. 2020 ‑ Jan. 2024
 
   NRP 77 "Open Justice vs. Privacy"<br>
   Supervisors: PD Dr. Matthias Stürmer, Prof. Dr. Paolo Favaro, Prof. Dr. Thomas Myrach, Dr. Ilias Chalkidis<br>
@@ -62,6 +62,16 @@ line. It is intended to be used for contact details -->
 ## Experience
 
 ### RESEARCH
+
+* **Research Scientist** - San Francisco, USA Sep. 2024 ‑ present <br>
+
+  HARVEY <br>
+  Developing and evaluating LLM systems in the legal domain
+
+* **Postdoc** - Bern, Switzerland Feb. 2024 ‑ Aug. 2024 <br>
+
+  UNIVERSITY OF BERN <br>
+  Wrapping up projects and presenting papers at academic conferences
 
 * **PhD Resident** - Mountain View, USA Aug. 2023 ‑ Nov. 2023 <br>
 
