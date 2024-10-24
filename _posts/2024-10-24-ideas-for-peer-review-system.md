@@ -25,53 +25,80 @@ One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial 
 
 ## What is the Problem?
 
-During my four years in academia, I submitted numerous papers to academic conferences and made two attempts at journal publication, though neither proved successful. 
-All told, I made 32 submissions across 15 papers, meaning each paper was submitted at least twice on average. 
-While some fortunate manuscripts found their home on the first try, one particular paper went through four submission cycles and still remains unpublished. 
-Ironically, that one was among my favorites and what I considered some of my best work. However, time hasn't been kind to it—the paper is now outdated and would require additional experiments to be competitive for submission again.
+During my four years in academia, I submitted numerous papers to academic conferences and made two attempts at journal
+publication, though neither proved successful. All told, I made 32 submissions across 15 papers, meaning each paper was
+submitted at least twice on average. While some fortunate manuscripts found their home on the first try, one particular
+paper went through four submission cycles and still remains unpublished. Ironically, that one was among my favorites and
+what I considered some of my best work. However, time hasn't been kind to it—the paper is now outdated and would require
+additional experiments to be competitive for submission again.
 
-I would say most academics know the bad feeling that negative reviews evoke. 
-But in my opinion, the most frustrating experience in the entire process are reviews that ask for nonsense "improvements", only list as weaknesses points we openly discuss in the limitations or give low scores while criticizing minor details.
-In general, I think the field of NLP/ML/AI is quite progressive, compared to other fields.
-For example, most top-tier publications are open-access and the review process is fast (2-4 months vs more than a year for other fields).
-The ACL Rolling Review (ARR) even [conducts polls](https://www.aclweb.org/portal/content/survey-anonymity-period-policy) regarding changes to the review process and then actually [changes the process quickly](https://aclrollingreview.org/anonymity) based on the results!
+Most academics are intimately familiar with the sting of negative reviews. Yet in my experience, the truly frustrating
+aspects of peer review aren't the criticisms themselves, but rather reviews that demand nonsensical "improvements,"
+point out supposed weaknesses that we've already openly acknowledged in our limitations section, or assign low scores
+while fixating on minor details. That said, I believe the NLP/ML/AI field stands out for its progressive approach to
+academic publishing. Unlike many disciplines, most top-tier venues offer open access to publications, and the review
+process moves at a comparatively brisk pace - typically 2-4 months versus the year-plus timeline common in other fields.
+The ACL Rolling Review (ARR) system particularly exemplifies this forward-thinking attitude. Not only do they actively
+[solicit community input through polls](https://www.aclweb.org/portal/content/survey-anonymity-period-policy) about
+potential process changes, but they also implement corresponding reforms swiftly, as demonstrated by
+their [recent updates to anonymity policies](https://aclrollingreview.org/anonymity). This responsive approach to
+improving the publication process sets a valuable example for academia at large.
 
-However, with the advent of ChatGPT and the recent surge of submission in the field of NLP/ML/AI (see [NeurIPS](https://papercopilot.com/statistics/neurips-statistics) and [ICLR](https://papercopilot.com/statistics/iclr-statistics)) I feel like the review quality is dropping further. 
-I get it, people are busy and have many other priorities. In addition, reviewing is often anonymous and not paid.
-It is great to see such a huge inflow of people into the field, but it exacerbates the peer review problem due to record-breaking submission numbers every year.
-Currently, the cost of making a submission is quite small. One way of getting more reviewers is requiring authors to review when submitting papers, as recently enacted by [ARR](https://aclrollingreview.org/reviewing-workload-requirement) and [CVPR](https://cvpr.thecvf.com/Conferences/2025/CVPRChanges).
-While this may alleviate the problem, I am not sure, it solves it. I could imagine that authors forced to review may see it as a unwanted chore, possibly leading to low-quality reviews. 
-As far as I know, there is no quality control process in place leading to desk-rejection of author's papers in case their reviews are of low quality.
-There are other ideas for improving the peer review system like [giving more credit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029384) [to reviewers](https://blog.degruyter.com/the-ideal-future-of-peer-review-through-the-editors-lens) or assisting the process through [AI tools](https://www.researchinformation.info/feature/how-do-we-improve-peer-review) (apart from that, I haven't really seen much discussion around this online). 
-However, I believe we need more drastic structural changes for sustainable change.
+With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions (
+see [NeurIPS](https://papercopilot.com/statistics/neurips-statistics)
+and [ICLR](https://papercopilot.com/statistics/iclr-statistics) statistics), review quality seems to be declining
+further. This is understandable – reviewers are overwhelmed with competing priorities, and the work is both anonymous
+and unpaid. While the field's growing popularity is exciting, the record-breaking submission numbers each year intensify
+the peer review challenges. Currently, submitting a paper requires minimal effort. Some venues
+like [ARR](https://aclrollingreview.org/reviewing-workload-requirement)
+and [CVPR](https://cvpr.thecvf.com/Conferences/2025/CVPRChanges) have attempted to address reviewer shortages by
+requiring authors to serve as reviewers. However, this approach may not be a complete solution. Authors who view
+reviewing as an unwanted obligation might produce low-quality reviews. To my knowledge, there's no quality control
+system in place that would desk-reject papers from authors who submit subpar reviews. Other proposed improvements to the
+peer review system include
+providing [more recognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029384) [for reviewers](https://blog.degruyter.com/the-ideal-future-of-peer-review-through-the-editors-lens)
+and incorporating [AI-assisted tools](https://www.researchinformation.info/feature/how-do-we-improve-peer-review).
+Beyond these suggestions, I haven't seen much public discourse on this topic. In my view, achieving sustainable
+improvement will require more fundamental structural changes to the system.
 
 ## A Potential Solution
 
-We need to associate a cost to a submission. In Switzerland, where I live, the [Polluter Pays Principle](https://en.wikipedia.org/wiki/Polluter_pays_principle) (Verursacherprinzip in German) is important and often followed in political discourse.
-It says that the people who cause the damages to a common good (i.e., make submissions) should pay the costs (i.e., review). 
-Currently, in most peer reviewed venues there is no direct connection, to my knowledge.
+In Switzerland, where I live, the [Polluter Pays Principle](https://en.wikipedia.org/wiki/Polluter_pays_principle) (
+Verursacherprinzip in German) plays a significant role in political discourse. This principle states that those who
+generate costs by using common resources should bear those costs. Applied to academic publishing, this would suggest
+that authors submitting papers (the "polluters") should compensate for the review effort they necessitate. However, to
+my knowledge, most peer-reviewed venues currently lack such a direct cost-responsibility connection.
 
-Here is how I imagine the system:
-Submitting a paper costs 1000 USD. From that we can pay 200 USD per reviewer (4 times), 150 USD for the meta-reviewer and 50 USD for the program-chair.  
-1000 USD is a drop in the bucket for most universities compared to the costs of actually producing the research.
-However, 200 USD for writing a review is a welcome addition for many PhD students doing most of the reviewing. 
-Since we now have a monetary reward for reviewing services, it makes reviewing attractive, and it allows us to put quality controls in place. 
-For example, we may only want to pay out the reward if the meta-reviewer and/or the authors rate the review as sufficient.
+The proposed system works as follows: Authors pay 1000 USD to submit a paper. This fee is distributed among the review
+team - 200 USD for each of the four reviewers, 150 USD for the meta-reviewer, and 50 USD for the program chair. While
+1000 USD represents a minimal expense for universities compared to the actual cost of conducting research, the 200 USD
+reviewer payment provides meaningful compensation for PhD students, who typically handle most reviews. By introducing
+this monetary incentive, reviewing becomes an attractive task. Moreover, the payment structure enables quality control
+measures - for instance, we could make payment contingent on the meta-reviewer's or authors' assessment of the review
+quality.
 
-This idea does not come completely out of the blue: In court proceedings we also pay professionals for expert opinions.
-Like in law, in science we build a network of precedence, so ensuring this body is of high quality, should be of utmost importance.
+The concept has established precedent: courts routinely compensate professionals for their expert opinions. Just as
+legal systems rely on case law and precedent, science builds upon a network of prior work. Therefore, ensuring the
+quality of this foundational knowledge should be paramount. While conferences like CVPR and ARR already require authors
+to review papers, paid reviewing offers distinct advantages:
 
-As mentioned above, CVPR and ARR already make authors review. So how is it different to just forcing authors to review?
-- The submitting authors might not be motivated or suited to review
-- Due to pay for reviewers we have more leverage to expect quality reviews
-- Since there is a market, it allows for more efficient allocation of time globally
+- Rather than depending on potentially unmotivated or unsuitable authors for reviews, we can select qualified reviewers
+- Financial compensation provides leverage to demand and enforce high-quality reviews
+- Creating a market for reviews enables more efficient global allocation of expertise and time
+
+The result is more thoughtful, robust peer review that better serves the scientific community.
 
 ## Further Thoughts
-1000 USD might not be a lot for an ivy league university, but it might be for universities in developing countries for example. 
-Also, 200 USD is a lot of money in many countries, but we may need to compensate researchers more in places with high living costs. 
-It might be worth thinking about how we can adjust these numbers based on the institutions people work at and places people live in.
 
-Another potential problem might be the following:
-When the cost of a submission rises, the quality of submitted papers likely rises alongside, so the acceptance rate may need to rise with it. This means the venue may be seen as less selective and prestigious. 
-There I would propose a system similar to Findings in the NLP community, where the main review process ensures that the accepted papers are sound. 
-The conferences then further select the exciting papers from all sound papers to be presented at the conference.
+The significance of a 1,000 USD submission fee varies greatly across academic institutions. While this might be a
+negligible amount for Ivy League universities, it could pose a substantial barrier for universities in developing
+nations. Similarly, while 200 USD may seem modest in some regions, it represents a significant sum in others. We should
+consider implementing a flexible fee structure that accounts for both institutional resources and regional cost of
+living when determining appropriate compensation for researchers.
+
+An additional consideration emerges regarding submission fees and paper quality. As submission costs increase, we
+expect to observe a corresponding rise in paper quality, which may necessitate higher acceptance rates. This could
+potentially diminish the perceived selectivity and prestige of the venue. To address this, we might adopt an approach
+similar to the "Findings" model used in the NLP community. Under this system, the primary review process would focus on
+ensuring scientific soundness across all accepted papers, while conferences would then select particularly innovative or
+impactful works from this pool for presentation.
