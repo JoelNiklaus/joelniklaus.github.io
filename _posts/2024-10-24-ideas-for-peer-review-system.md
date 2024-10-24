@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: The Broken Peer Review System: Some Ideas for fixing it 
 date: 2024-08-17
 ---
