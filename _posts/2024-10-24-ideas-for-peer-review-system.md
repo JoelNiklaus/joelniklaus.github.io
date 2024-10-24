@@ -25,11 +25,10 @@ One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial 
 
 ## What is the Problem?
 
-I spent four years in academia and submitted my fair share of papers to academic conferences (and twice to a journal, unfortunately to no avail). 
-In total, I made 32 submissions for 15 papers. So on average, I submitted each paper at least twice. 
-Some lucky papers found a home the first time, but another one I submitted four times, and it still remains unpublished. 
-Especially that one, I actually really liked and considered one of my best works. 
-However, now it is outdated and requires additional experiments to again be a competitive submission.
+During my four years in academia, I submitted numerous papers to academic conferences and made two attempts at journal publication, though neither proved successful. 
+All told, I made 32 submissions across 15 papers, meaning each paper was submitted at least twice on average. 
+While some fortunate manuscripts found their home on the first try, one particular paper went through four submission cycles and still remains unpublished. 
+Ironically, that one was among my favorites and what I considered some of my best work. However, time hasn't been kind to it—the paper is now outdated and would require additional experiments to be competitive for submission again.
 
 I would say most academics know the bad feeling that negative reviews evoke. 
 But in my opinion, the most frustrating experience in the entire process are reviews that ask for nonsense "improvements", only list as weaknesses points we openly discuss in the limitations or give low scores while criticizing minor details.
