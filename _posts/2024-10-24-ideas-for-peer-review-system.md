@@ -35,7 +35,7 @@ what I considered some of my best work. However, time hasn't been kind to it—t
 additional experiments to be competitive for submission again.
 
 Most academics are intimately familiar with the sting of negative reviews. Yet in my experience, the truly frustrating
-aspects of peer review aren't the criticisms themselves, but rather reviews that demand nonsensical "improvements,"
+aspects of peer review aren't the criticisms themselves, but rather reviews that demand nonsensical "improvements",
 point out supposed weaknesses that we've already openly acknowledged in our limitations section, or assign low scores
 while fixating on minor details. That said, I believe the NLP/ML/AI field stands out for its progressive approach to
 academic publishing. Unlike many disciplines, most top-tier venues offer open access to publications, and the review
@@ -46,8 +46,8 @@ potential process changes, but they also implement corresponding reforms swiftly
 their [recent updates to anonymity policies](https://aclrollingreview.org/anonymity). This responsive approach to
 improving the publication process sets a valuable example for academia at large.
 
-With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions (
-see [NeurIPS](https://papercopilot.com/statistics/neurips-statistics)
+With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions 
+(see [NeurIPS](https://papercopilot.com/statistics/neurips-statistics)
 and [ICLR](https://papercopilot.com/statistics/iclr-statistics) statistics), review quality seems to be declining
 further. This is understandable – reviewers are overwhelmed with competing priorities, and the work is both anonymous
 and unpaid. While the field's growing popularity is exciting, the record-breaking submission numbers each year intensify
