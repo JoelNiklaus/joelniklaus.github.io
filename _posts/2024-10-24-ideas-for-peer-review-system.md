@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Broken Peer Review System: Some Ideas for fixing it 
+title: The Broken Peer Review System: Some Ideas for fixing it
 date: 2024-08-17
 ---
 
@@ -22,6 +22,8 @@ Can we Pretrain a SotA Legal Language Model on a Budget From Scratch?: 2 => work
 FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning: 3 => conference
 One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support: 3 + 1 => unpublished
 -->
+
+# The Broken Peer Review System: Some Ideas for fixing it
 
 ## What is the Problem?
 
