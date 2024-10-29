@@ -51,39 +51,43 @@ With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions
 and [ICLR](https://papercopilot.com/statistics/iclr-statistics) statistics), review quality seems to be declining
 further. This is understandable – reviewers are overwhelmed with competing priorities, and the work is both anonymous
 and unpaid. While the field's growing popularity is exciting, the record-breaking submission numbers each year intensify
-the peer review challenges. Currently, submitting a paper requires minimal effort. Some venues
+the peer review challenges. Currently, submitting a paper requires minimal effort. There are only few checks allowing
+for desk-rejecting low-quality papers leading to lower reviewing load. Some venues
 like [ARR](https://aclrollingreview.org/reviewing-workload-requirement)
 and [CVPR](https://cvpr.thecvf.com/Conferences/2025/CVPRChanges) have attempted to address reviewer shortages by
 requiring authors to serve as reviewers. However, this approach may not be a complete solution. Authors who view
 reviewing as an unwanted obligation might produce low-quality reviews. To my knowledge, there's no quality control
-system in place that would desk-reject papers from authors who submit subpar reviews. Other proposed improvements to the
-peer review system include
+system in place that would desk-reject papers from authors who submit subpar reviews.
+
+Other proposed improvements to the peer review system include
 providing [more recognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029384) [for reviewers](https://blog.degruyter.com/the-ideal-future-of-peer-review-through-the-editors-lens)
 and incorporating [AI-assisted tools](https://www.researchinformation.info/feature/how-do-we-improve-peer-review).
 Beyond these suggestions, I haven't seen much public discourse on this topic,
 except [this recent tweet from Jakob Foerster](https://x.com/j_foerst/status/1848402835156635972?t=1005GjTOLmWPe2a0EBQuqA&s=19)
-. In my view, achieving sustainable improvement will require more fundamental structural changes to the system.
+. While there appears to be broad consensus in academia that the current peer review system falls short of its goals,
+concrete proposals for systemic reform seem to be lacking. I believe that lasting improvements will require deeper, more
+fundamental changes to the existing structure.
 
 ## A Potential Solution
 
-In Switzerland, where I live, the [Polluter Pays Principle](https://en.wikipedia.org/wiki/Polluter_pays_principle) (
-Verursacherprinzip in German) plays a significant role in political discourse. This principle states that those who
+In Switzerland, where I live, the [Polluter Pays Principle](https://en.wikipedia.org/wiki/Polluter_pays_principle)
+(Verursacherprinzip in German) plays a significant role in political discourse. This principle states that those who
 generate costs by using common resources should bear those costs. Applied to academic publishing, this would suggest
 that authors submitting papers (the "polluters") should compensate for the review effort they necessitate. However, to
 my knowledge, most peer-reviewed venues currently lack such a direct cost-responsibility connection.
 
-The proposed system works as follows: Authors pay 1000 USD to submit a paper. This fee is distributed among the review
-team - 200 USD for each of the four reviewers, 150 USD for the meta-reviewer, and 50 USD for the program chair. While
-1000 USD represents a minimal expense for universities compared to the actual cost of conducting research, the 200 USD
-reviewer payment provides meaningful compensation for PhD students, who typically handle most reviews. By introducing
-this monetary incentive, reviewing becomes an attractive task. Moreover, the payment structure enables quality control
-measures - for instance, we could make payment contingent on the meta-reviewer's or authors' assessment of the review
-quality.
+The proposed system works as follows: Authors pay 1000 USD to submit a paper to discourage submitting low-quality work.
+This fee is distributed among the review team - 200 USD for each of the four reviewers, 150 USD for the meta-reviewer,
+and 50 USD for the program chair. While 1000 USD represents a minimal expense for universities compared to the actual
+cost of conducting research, the 200 USD reviewer payment provides meaningful compensation for PhD students, who
+typically handle most reviews. By introducing this monetary incentive, reviewing becomes an attractive task. Moreover,
+the payment structure enables quality control measures - for instance, we could make payment contingent on the
+meta-reviewer's and/or authors' assessment of the review quality.
 
-The concept has established precedent: courts routinely compensate professionals for their expert opinions. Just as
+This concept has established precedent: courts routinely compensate professionals for their expert opinions. Just as
 legal systems rely on case law and precedent, science builds upon a network of prior work. Therefore, ensuring the
-quality of this foundational knowledge should be paramount. While conferences like CVPR and ARR already require authors
-to review papers, paid reviewing offers distinct advantages:
+quality of this foundational knowledge should be paramount. While conferences like CVPR and ARR already require
+submitting authors to review papers, paid reviewing offers distinct advantages:
 
 - Rather than depending on potentially unmotivated or unsuitable authors for reviews, we can select qualified reviewers
 - Financial compensation provides leverage to demand and enforce high-quality reviews
@@ -92,6 +96,21 @@ to review papers, paid reviewing offers distinct advantages:
 The result is more thoughtful, robust peer review that better serves the scientific community.
 
 ## Problems with the Proposed Approach
+
+While this proposed system offers to address the issue of premature submissions, low-quality reviews, and lack of
+reviewers, it may lead to new problems such as increased administration, unequal impact of fixed submission prices on
+different authors, challenges in ensuring review quality within a paid system, and potential effects on venue prestige
+and paper quality due to submission fees. The following section examines these potential problems and explores
+strategies to mitigate or resolve them.
+
+### Increased Administration
+
+While implementing a payment system for submissions and reviewer compensation may introduce additional administrative
+complexity, modern technology makes this manageable. Although OpenReview serves as a mature platform supporting numerous
+leading conferences with various use cases, it currently lacks payment functionality, to my knowledge. Despite the
+initial overhead of establishing such a system, the significant improvements to peer review quality justify this
+investment. In my opinion, the long-term benefits of a more robust and accountable review process clearly outweigh the
+short-term administrative challenges.
 
 ### A Fixed Submission Price Does not Affect Everyone Equally
 
@@ -133,12 +152,12 @@ We could implement two additional controls:
 
 **Dynamic Payment Structure**
 
-Consider this scenario: We allocate 1000 USD per paper for reviews. Rather than splitting this equally, we could
+Consider this scenario: We allocate 800 USD per paper for reviews. Rather than splitting this equally, we could
 distribute funds based on review quality rankings from meta-reviewers and/or authors. For example, we might implement an
 exponential decay model:
 
-- First-ranked reviewer: 500 USD
-- Second-ranked reviewer: 250 USD
+- First-ranked reviewer: 400 USD
+- Second-ranked reviewer: 200 USD
 - And so forth
 
 While this specific distribution might be too aggressive, it illustrates the concept. To maintain transparency,
@@ -192,8 +211,14 @@ two-point interval.
 
 Thanks to Rylan Schaeffer and Mara Häusler for ideas and discussion around this!
 
-# TODO: focus more on the incentives of the different people
+<!-- 
+TODO: focus more on the incentives of the different people 
+TODO: Integrate outlook idea into the main proposed system
+TODO: Write conclusion summarising everything
+TODO: Write a real outlook suggesting ways of figuring out acceptance by authors and institutions (maybe polls) and then for rollout
+TODO: First write a reply to Foersters post tagging him 
+TODO: Then write twitter and linkedin summary posts publicizing it
+-->
 
-# TODO: Konkreter sagen: meiste leute sehen probleme mit review prozess aber es existieren wenige konrere vorschläge für besseres system
 
 
