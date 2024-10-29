@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Broken Peer Review System: Some Ideas for fixing it
+title: The Broken Peer Review System: Some Ideas for Fixing it
 date: 2024-08-17
 ---
 
@@ -23,7 +23,7 @@ FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures
 One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support: 3 + 1 => unpublished
 -->
 
-# The Broken Peer Review System: Some Ideas for fixing it
+# The Broken Peer Review System: Some Ideas for Fixing it
 
 ## What is the Problem?
 
@@ -46,7 +46,7 @@ potential process changes, but they also implement corresponding reforms swiftly
 their [recent updates to anonymity policies](https://aclrollingreview.org/anonymity). This responsive approach to
 improving the publication process sets a valuable example for academia at large.
 
-With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions 
+With the rise of ChatGPT and the unprecedented surge in NLP/ML/AI submissions
 (see [NeurIPS](https://papercopilot.com/statistics/neurips-statistics)
 and [ICLR](https://papercopilot.com/statistics/iclr-statistics) statistics), review quality seems to be declining
 further. This is understandable – reviewers are overwhelmed with competing priorities, and the work is both anonymous
@@ -60,8 +60,9 @@ system in place that would desk-reject papers from authors who submit subpar rev
 peer review system include
 providing [more recognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029384) [for reviewers](https://blog.degruyter.com/the-ideal-future-of-peer-review-through-the-editors-lens)
 and incorporating [AI-assisted tools](https://www.researchinformation.info/feature/how-do-we-improve-peer-review).
-Beyond these suggestions, I haven't seen much public discourse on this topic. In my view, achieving sustainable
-improvement will require more fundamental structural changes to the system.
+Beyond these suggestions, I haven't seen much public discourse on this topic,
+except [this recent tweet from Jakob Foerster](https://x.com/j_foerst/status/1848402835156635972?t=1005GjTOLmWPe2a0EBQuqA&s=19)
+. In my view, achieving sustainable improvement will require more fundamental structural changes to the system.
 
 ## A Potential Solution
 
@@ -90,17 +91,109 @@ to review papers, paid reviewing offers distinct advantages:
 
 The result is more thoughtful, robust peer review that better serves the scientific community.
 
-## Further Thoughts
+## Problems with the Proposed Approach
 
-The significance of a 1,000 USD submission fee varies greatly across academic institutions. While this might be a
-negligible amount for Ivy League universities, it could pose a substantial barrier for universities in developing
-nations. Similarly, while 200 USD may seem modest in some regions, it represents a significant sum in others. We should
-consider implementing a flexible fee structure that accounts for both institutional resources and regional cost of
-living when determining appropriate compensation for researchers.
+### A Fixed Submission Price Does not Affect Everyone Equally
 
-An additional consideration emerges regarding submission fees and paper quality. As submission costs increase, we
-expect to observe a corresponding rise in paper quality, which may necessitate higher acceptance rates. This could
-potentially diminish the perceived selectivity and prestige of the venue. To address this, we might adopt an approach
-similar to the "Findings" model used in the NLP community. Under this system, the primary review process would focus on
-ensuring scientific soundness across all accepted papers, while conferences would then select particularly innovative or
-impactful works from this pool for presentation.
+The impact of a 1,000 USD submission fee varies dramatically across academic institutions. For prestigious universities
+like those in the Ivy League, such a fee may be insignificant, but it can represent a major obstacle for universities in
+developing countries. To address this disparity, I propose scaling the fee based on the GDP (PPP) per capita of the
+institution's home country.
+
+While this metric may not perfectly account for institutional differences within large nations, it offers a
+straightforward and universally accessible benchmark. For instance, the United States has a GDP (PPP) per capita of 86K
+USD, compared to India's 11K
+USD [according to the IMF](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita). This suggests that
+submission fees for US institutions should be roughly 8 times higher than those for Indian institutions. In practice,
+this would mean Stanford pays 1,000 USD per submission, while IIT Delhi would pay 128 USD.
+
+However, for affluent organizations like Google, even a 1,000 USD fee is unlikely to influence their submission
+decisions. While we could consider implementing higher rates for wealthy companies, I believe there's limited downside
+to having them pay the standard US rate. This approach still helps subsidize submissions from less resourced
+institutions, and importantly, maintains industry engagement – which can lead to valuable sponsorship opportunities for
+the field.
+
+### Ensuring Review Quality in a Paid System
+
+The foundation of this proposal rests on the assumption that compensated reviewers will produce higher quality reviews.
+However, this raises an important question: How can we prevent abuse from individuals seeking to maximize earnings
+through low-effort reviews? Here are several potential safeguards:
+
+#### Existing Quality Controls
+
+We should maintain the current requirement that reviewers must have published at least one paper at the venue they're
+reviewing for. This established filter effectively limits the pool to qualified candidates.
+
+#### New Protective Measures
+
+We could implement two additional controls:
+
+1. Set a maximum number of reviews any individual can perform per review cycle
+2. Implement a dynamic payment structure when there's an abundance of reviewers
+
+**Dynamic Payment Structure**
+
+Consider this scenario: We allocate 1000 USD per paper for reviews. Rather than splitting this equally, we could
+distribute funds based on review quality rankings from meta-reviewers and/or authors. For example, we might implement an
+exponential decay model:
+
+- First-ranked reviewer: 500 USD
+- Second-ranked reviewer: 250 USD
+- And so forth
+
+While this specific distribution might be too aggressive, it illustrates the concept. To maintain transparency,
+reviewers would always know:
+
+- The total number of reviewers in the pool for each paper
+- The payment structure
+
+This information allows reviewers to evaluate their interest in specific papers against the likelihood of receiving
+higher compensation.
+
+### Impact of Submission Fees on Venue Prestige and Paper Quality
+
+An interesting paradox emerges when considering submission fees and their effect on paper quality. As fees increase, we
+expect to see authors submitting higher-quality work, which likely leads to higher acceptance rates. However, this
+improved acceptance rate could inadvertently reduce the perceived prestige of the venue, as selectivity often serves as
+a proxy for excellence. One potential solution draws inspiration from the NLP community's "Findings" model. Under this
+framework, the review process would operate in two tiers:
+
+1. First, evaluate all submissions for scientific rigor and validity, accepting those that meet established quality
+   standards
+2. Then, from this pool of scientifically sound papers, select particularly innovative or influential works for
+   conference presentation
+
+This approach preserves high quality standards while maintaining the venue's selective nature for featured
+presentations.
+
+## Outlook
+
+One potential approach would be implementing a review score-dependent submission fee structure. Under this system, a
+baseline fee of 1000 USD would apply for submissions receiving an average score of 5/10. The fee would then adjust
+dynamically: halving for each point increase in the average score, and doubling for each point decrease. This mechanism
+would create a strong disincentive for low-quality submissions. However, such a system would only be viable if we can
+ensure consistently high-quality reviews.
+
+A more nuanced solution might combine this with a fee structure based on the submitting institution's GDP (PPP) per
+capita. This hybrid approach would both discourage lower quality submissions while accounting for institutional wealth
+disparities. The final fee would comprise two components: a base fee and a score-dependent fee, both normalized by the
+GDP (PPP) per capita. Consider these illustrative examples:
+
+- An Indian submission scoring 6/10: Total fee of 192 USD, consisting of a 128 USD base fee plus a 64 USD score-based
+  fee (128 USD adjusted and halved due to scoring one point above the 5/10 baseline).
+- A US submission scoring 3/10: Total fee of 5000 USD, consisting of a 1000 USD base fee plus a 4000 USD score-based
+  fee (1000 USD adjusted and doubled twice for scoring two points below the 5/10 baseline).
+
+However, this approach reveals a potential issue: students responsible for lower-scoring submissions might face
+institutional consequences for incurring substantial costs to their university's budget. This concern suggests we should
+consider moderating the score-based fee component by reducing both its magnitude and the multiplier effect. For
+instance, instead of halving or doubling the fee for each one-point difference, these adjustments could apply per
+two-point interval.
+
+Thanks to Rylan Schaeffer and Mara Häusler for ideas and discussion around this!
+
+# TODO: focus more on the incentives of the different people
+
+# TODO: Konkreter sagen: meiste leute sehen probleme mit review prozess aber es existieren wenige konrere vorschläge für besseres system
+
+
