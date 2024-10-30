@@ -76,13 +76,25 @@ generate costs by using common resources should bear those costs. Applied to aca
 that authors submitting papers (the "polluters") should compensate for the review effort they necessitate. However, to
 my knowledge, most peer-reviewed venues currently lack such a direct cost-responsibility connection.
 
-The proposed system works as follows: Authors pay 1000 USD to submit a paper to discourage submitting low-quality work.
-This fee is distributed among the review team - 200 USD for each of the four reviewers, 150 USD for the meta-reviewer,
-and 50 USD for the program chair. While 1000 USD represents a minimal expense for universities compared to the actual
-cost of conducting research, the 200 USD reviewer payment provides meaningful compensation for PhD students, who
-typically handle most reviews. By introducing this monetary incentive, reviewing becomes an attractive task. Moreover,
-the payment structure enables quality control measures - for instance, we could make payment contingent on the
-meta-reviewer's and/or authors' assessment of the review quality.
+The proposed system works as follows:
+
+### Author Side
+
+A paper receiving an average review score of 5/10 incurs a base fee of 1000 USD to cover review expenses (base
+component), with conference attendance included at no additional cost for accepted papers. The fee adjusts dynamically
+based on review performance (score-based component): halving for each point increase in the average score, and doubling
+for each point decrease. This pricing structure creates a powerful deterrent against premature or substandard
+submissions while rewarding exceptional work. However, implementing such a system would only be feasible if we can
+guarantee consistent, high-caliber peer reviews.
+
+### Program Committee Side
+
+The income generated through these submission fees is distributed among the program committee - 200 USD for each of the
+four reviewers, 150 USD for the meta-reviewer, and 50 USD for the program chair. While 1000 USD represents a minimal
+expense for universities compared to the actual cost of conducting research, the 200 USD reviewer payment provides
+meaningful compensation for PhD students, who typically handle most reviews. By introducing this monetary incentive,
+reviewing becomes an attractive task. Moreover, the payment structure enables quality control measures - for instance,
+we could make payment contingent on the meta-reviewer's and/or authors' assessment of the review quality.
 
 This concept has established precedent: courts routinely compensate professionals for their expert opinions. Just as
 legal systems rely on case law and precedent, science builds upon a network of prior work. Therefore, ensuring the
@@ -112,7 +124,7 @@ initial overhead of establishing such a system, the significant improvements to 
 investment. In my opinion, the long-term benefits of a more robust and accountable review process clearly outweigh the
 short-term administrative challenges.
 
-### A Fixed Submission Price Does not Affect Everyone Equally
+### A Fixed Submission Fee Creates Unequal Access
 
 The impact of a 1,000 USD submission fee varies dramatically across academic institutions. For prestigious universities
 like those in the Ivy League, such a fee may be insignificant, but it can represent a major obstacle for universities in
@@ -123,14 +135,28 @@ While this metric may not perfectly account for institutional differences within
 straightforward and universally accessible benchmark. For instance, the United States has a GDP (PPP) per capita of 86K
 USD, compared to India's 11K
 USD [according to the IMF](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita). This suggests that
-submission fees for US institutions should be roughly 8 times higher than those for Indian institutions. In practice,
-this would mean Stanford pays 1,000 USD per submission, while IIT Delhi would pay 128 USD.
+submission fees for US institutions should be roughly 8 times higher than those for Indian institutions. Consider these
+illustrative examples:
+
+- An IIT Delhi submission scoring 6/10: The US base fee of 1000 USD is normalized to India, resulting in an adjusted
+  base fee of 128 USD. Then it is halved due to scoring one point above the 5/10 baseline, resulting in a final fee of
+  64 USD.
+- A Stanford submission scoring 3/10: The US base fee of 1000 USD stays constant. Then it is doubled twice for scoring
+  two points below the 5/10 baseline, resulting in a final fee of 4000 USD.
 
 However, for affluent organizations like Google, even a 1,000 USD fee is unlikely to influence their submission
 decisions. While we could consider implementing higher rates for wealthy companies, I believe there's limited downside
 to having them pay the standard US rate. This approach still helps subsidize submissions from less resourced
 institutions, and importantly, maintains industry engagement – which can lead to valuable sponsorship opportunities for
 the field.
+
+### Moderating Score-Based Component to Protect Student Interests
+
+Students responsible for lower-scoring submissions might face institutional consequences for incurring substantial costs
+to their university's budget due to exploding fees caused by the score-based component. This concern suggests we should
+consider moderating the score-based component by reducing both its magnitude and the multiplier effect. For instance,
+instead of halving or doubling the fee for each one-point difference, these adjustments could apply per two-point
+interval.
 
 ### Ensuring Review Quality in a Paid System
 
@@ -185,38 +211,80 @@ framework, the review process would operate in two tiers:
 This approach preserves high quality standards while maintaining the venue's selective nature for featured
 presentations.
 
-## Outlook
+## Incentives of the Different Players
 
-One potential approach would be implementing a review score-dependent submission fee structure. Under this system, a
-baseline fee of 1000 USD would apply for submissions receiving an average score of 5/10. The fee would then adjust
-dynamically: halving for each point increase in the average score, and doubling for each point decrease. This mechanism
-would create a strong disincentive for low-quality submissions. However, such a system would only be viable if we can
-ensure consistently high-quality reviews.
+There are two main players involved in the peer review system at major CS conferences: authors and program committee (
+reviewers, area chairs, senior area chairs and program chairs). In this section, I discuss the incentives of these
+groups in the current and new system respectively.
 
-A more nuanced solution might combine this with a fee structure based on the submitting institution's GDP (PPP) per
-capita. This hybrid approach would both discourage lower quality submissions while accounting for institutional wealth
-disparities. The final fee would comprise two components: a base fee and a score-dependent fee, both normalized by the
-GDP (PPP) per capita. Consider these illustrative examples:
+### Current System
 
-- An Indian submission scoring 6/10: Total fee of 192 USD, consisting of a 128 USD base fee plus a 64 USD score-based
-  fee (128 USD adjusted and halved due to scoring one point above the 5/10 baseline).
-- A US submission scoring 3/10: Total fee of 5000 USD, consisting of a 1000 USD base fee plus a 4000 USD score-based
-  fee (1000 USD adjusted and doubled twice for scoring two points below the 5/10 baseline).
+Authors' Incentives:
 
-However, this approach reveals a potential issue: students responsible for lower-scoring submissions might face
-institutional consequences for incurring substantial costs to their university's budget. This concern suggests we should
-consider moderating the score-based fee component by reducing both its magnitude and the multiplier effect. For
-instance, instead of halving or doubling the fee for each one-point difference, these adjustments could apply per
-two-point interval.
+- Submit as many papers as possible since it's free
+- Submit early versions to get "free feedback"
+- Make minimal revisions and resubmit quickly after rejection since reviews are random
+
+Reviewers' Incentives:
+
+- Review minimally to fulfill obligations (e.g., for ARR/CVPR requirements)
+- Little incentive for detailed, thoughtful feedback
+- May rush reviews due to competing priorities
+- May be overly harsh/lenient since there's no accountability
+- May give harsh scores to boost relative chances of own papers in submission
+
+### Proposed System
+
+Authors' Incentives:
+
+- Submit more polished work to justify the fee
+- Consider more internal review before submission
+- Think twice before submitting borderline papers
+
+Reviewers' Incentives:
+
+- Financial motivation to take on reviews
+- Quality matters if payment is tied to meta-reviewer/author ratings
+- Compete to be selected as reviewer based on expertise/track record
+- Potentially focus on quantity over quality to maximize earnings
+- May give harsh scores to generate more resubmissions (and thus more review opportunities)
+
+## Outlook and Rollout
+
+If one venue adopts this policy it may receive less submissions in the beginning, but it will quickly get many more
+reviewers. At some point a virtuous cycle may develop, where more and more reviewers will flock to the new conference
+where they get paid, leading to higher quality reviews and faster turnaround times. This in turn is attractive to
+authors, who will be more likely to submit there in the future, leading the venue to grow.
+
+How do we roll out such fundamental changes in practice? ARR continues to set a progressive example for democratic and
+iterative improvements to the review process: They recently formed
+the "[ACL Peer Review Standing Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee): a
+new body tasked with making data-driven recommendations for the design and implementation of the peer review process
+at *CL conferences". Currently, they are [soliciting feedback](https://tinyurl.com/arr-design-survey) from the community
+on "the decoupling of reviews and conference decisions, the length/frequency of review cycles, the commitment process,
+and the role and acceptance rate of Findings". While the changes proposed in this post are much more fundamental, I
+believe these topics could be deliberated in similar committees and eventually put to a community vote.
+
+## Conclusion
+
+In conclusion, the current peer review system in academia --explored at the example of NLP/ML/AI-- faces significant
+challenges, including an overwhelming number of submissions, inconsistent and low-quality reviews, and a lack of
+incentives for both authors and reviewers. The proposed solution of implementing submission fees and compensating
+reviewers aims to address these issues by creating stronger deterrents against premature or low-quality submissions,
+while incentivizing reviewers to provide more thoughtful and robust feedback. While this approach introduces new
+potential problems around increased administration, unequal access, and the impact on venue prestige, these issues are
+not insurmountable and the potential benefits of a more accountable and efficient peer review process justify exploring
+such a model. Ultimately, lasting improvements to academic publishing will require a fundamental restructuring of the
+existing system, and the ideas presented here offer a starting point for further discussion and refinement within the
+research community.
+
+<!-- 
+## Acknowledgements
 
 Thanks to Rylan Schaeffer and Mara Häusler for ideas and discussion around this!
 
-<!-- 
-TODO: focus more on the incentives of the different people 
-TODO: Integrate outlook idea into the main proposed system
-TODO: Write conclusion summarising everything
-TODO: Write a real outlook suggesting ways of figuring out acceptance by authors and institutions (maybe polls) and then for rollout
 TODO: First write a reply to Foersters post tagging him 
+TODO: Send post to percy, matthias, chris für feedback
 TODO: Then write twitter and linkedin summary posts publicizing it
 -->
 
