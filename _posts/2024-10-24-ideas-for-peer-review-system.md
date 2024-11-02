@@ -278,15 +278,10 @@ such a model. Ultimately, lasting improvements to academic publishing will requi
 existing system, and the ideas presented here offer a starting point for further discussion and refinement within the
 research community.
 
-<!-- 
 ## Acknowledgements
 
 Thanks to Rylan Schaeffer and Mara Häusler for ideas and discussion around this!
 
-TODO: First write a reply to Foersters post tagging him 
-TODO: Send post to percy, matthias, chris für feedback
-TODO: Then write twitter and linkedin summary posts publicizing it
--->
 
 
 
