@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* LawInstruct and FLawN-T5 @ **NLP Seminar**, Bern, 15th of November 2024 ([Presentation](https://docs.google.com/presentation/d/1tIhIYSrkHOCAwqNNDUuoaJtiXPrZjps04PEsezqEtxo/edit?usp=sharing))
 * Anonymität in Gefahr? Gerichtsurteile mit Sprachmodellen Re-identifizieren @ **Transparente Justiz? – Gerichtsurteile im Spannungsfeld zwischen Öffentlichkeit und Schutz der Privatsphäre**, Bern, 21st of June 2024 ([Presentation](https://docs.google.com/presentation/d/14RKEI4pjt6OzrDflpxCV_mnfNd8SmShd-akAquN_8lc/edit?usp=sharing))
 * Ein Gesetz, viele Sprachen: NLP für gerichtliche Unterstützung in der Schweiz @ **Transparente Justiz? – Gerichtsurteile im Spannungsfeld zwischen Öffentlichkeit und Schutz der Privatsphäre**, Bern, 21st of June 2024 ([Presentation](https://docs.google.com/presentation/d/1CAFBC83Z7E9fBB7-tEGGj8-kzKXl1DhLto_bL9Sf2yM/edit?usp=sharing))
 * Decoding Legalese Without Borders: Multilingual Evaluation of Language Models on Long Legal Texts @ **PhD Defense @ University of Bern**, Bern & online, 24th of January 2024 ([Presentation](https://docs.google.com/presentation/d/1jk48MbF2xb9V8KRkiX5oW-fCDSUEZhGO5i7K-QRAzLI/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=2jCh54G8XwA))
