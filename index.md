@@ -25,7 +25,6 @@ Bachelor's in Computer Science from the University of Bern.
 <a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> JoelNiklaus</a>
 <a href="https://huggingface.co/joelniklaus" target="_blank" type="button" class="btn">🤗 JoelNiklaus</a>
 
-I'm currently operating at near capacity with my existing commitments, but I am still open to consulting/advising on
-exceptional projects that pique my interest.
+I am always happy to advise motivated young researchers, don't hesitate to reach out!
 
 <!-- Consider writing something about fractional AI officers: https://techcrunch.com/2023/11/24/startups-should-consider-hiring-fractional-ai-officers -->

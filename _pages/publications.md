@@ -14,6 +14,22 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+
+* Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, **Joel Niklaus**
+  "Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2410.13460" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://huggingface.co/datasets/rcds/swiss_criticality_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
+* Luca Rolshoven, Vishvaksenan Rasiah, Srinanda Brügger Bose, Matthias Stürmer, **Joel Niklaus**
+  "Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2410.13456" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://huggingface.co/datasets/rcds/swiss_leading_decision_summarization" target="_blank" type="button" class="btn">🤗 Dataset</a>
+* Angelika Romanou, Negar Foroutan, Anna Sotnikova, Zeming Chen, Sree Harsha Nelaturu, Shivalika Singh, Rishabh Maheshwary, Micol Altomare, Mohamed A. Haggag, Snegha A, Alfonso Amayuelas, Azril Hafizi Amirudin, Viraat Aryabumi, Danylo Boiko, Michael Chang, Jenny Chim, Gal Cohen, Aditya Kumar Dalmia, Abraham Diress, Sharad Duwal, Daniil Dzenhaliou, Daniel Fernando Erazo Florez, Fabian Farestam, Joseph Marvin Imperial, Shayekh Bin Islam, Perttu Isotalo, Maral Jabbarishiviari, Börje F. Karlsson, Eldar Khalilov, Christopher Klamm, Fajri Koto, Dominik Krzemiński, Gabriel Adriano de Melo, Syrielle Montariol, Yiyang Nan, **Joel Niklaus**, Jekaterina Novikova, Johan Samir Obando Ceron, Debjit Paul, Esther Ploeger, Jebish Purbey, Swati Rajwal, Selvan Sunitha Ravi, Sara Rydell, Roshan Santhosh, Drishti Sharma, Marjana Prifti Skenduli, Arshia Soltani Moakhar, Bardia Soltani Moakhar, Ran Tamir, Ayush Kumar Tarun, Azmine Toushik Wasi, Thenuka Ovin Weerasinghe, Serhan Yilmaz, Mike Zhang, Imanol Schlag, Marzieh Fadaee, Sara Hooker, Antoine Bosselut,
+  "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge" - International Conference on Learning Representations
+  <br>
+  <a href="https://arxiv.org/abs/2411.19799" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://huggingface.co/datasets/CohereForAI/include-base-44" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning,
   "FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning" - Pre-Print
   <br>

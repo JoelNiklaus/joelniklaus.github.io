@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+
+* **23 September 2024** Joined Harvey
 * **14 August 2024** MultiLegalPile won an Outstanding Paper Award at ACL
 * **13 March 2024** Anonymity at Risk? was accepted to NAACL Findings
 * **4 March 2024** SCALE was accepted to DMLR @ ICLR
