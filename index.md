@@ -10,13 +10,13 @@ efficient domain-specific pretraining approaches at Thomson Reuters Labs.
 Joel's academic journey led him to Stanford University, where he conducted research on LLMs in the legal domain under
 the supervision of Prof. Dan Ho and Prof. Percy Liang. He has served as an advisor to companies specializing in the
 applications of modern NLP to legal challenges and has led research projects for the Swiss Federal Supreme Court. With
-extensive experience in pretraining and finetuning LLMs for diverse tasks across various compute environments, His
+extensive experience in pretraining and finetuning LLMs for diverse tasks across various compute environments, his
 research primarily focuses on dataset curation to train and evaluate language models multilingually for the legal
 domain. His datasets have laid the groundwork for legal NLP in Switzerland.
 
-Joel's research has been published at leading Natural Language Processing and Machine Learning conferences, earning him
-an Outstanding Paper Award at ACL. He holds a PhD in Natural Language Processing, a Master's in Data Science, and a
-Bachelor's in Computer Science from the University of Bern.
+Joel's research has been published at leading Natural Language Processing and Machine Learning conferences. It has been 
+covered by the Swiss National Radio & Television and honored with an Outstanding Paper Award at ACL. He holds a PhD in 
+Natural Language Processing, a Master's in Data Science, and a Bachelor's in Computer Science from the University of Bern.
 
 
 <a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-twitter"></i> JoelNiklaus</a>
