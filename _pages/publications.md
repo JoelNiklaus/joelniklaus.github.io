@@ -93,6 +93,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2308.11103" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/Skatinger/Anonymity-at-Risk-Assessing-Re-Identification-Capabilities-of-Large-Language-Models" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/anonymity-at-risk-datasets-6535f7c1b3852ed1cef487ff" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/14RKEI4pjt6OzrDflpxCV_mnfNd8SmShd-akAquN_8lc/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Vishvaksenan Rasiah, Ronja Stern, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, **Joel Niklaus**, "
   SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing
   Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
