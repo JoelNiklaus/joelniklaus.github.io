@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Trainings
+title: Teaching
 ---
 
-I do corporate trainings in the fields of Natural Language Processing (NLP), Large Language Models (LLMs), Code
-Assistants and more. Get in touch for a quote.
 
-## Past Trainings
+## Past Teaching
 
 ### Corporate
 
@@ -14,13 +12,14 @@ Assistants and more. Get in touch for a quote.
 
 ### Continuing Education (CAS)
 
-* AI for Business, Bern University of Applied Sciences, 2024
+* AI for Business, Bern University of Applied Sciences, 2024 - 2025
 * Natural Language Processing, University of Bern, 2023
 
 ### Master's
 
 * AI for Business, Bern University of Applied Sciences, 2024
 * Natural Language Processing Seminar, University of Bern, 2021 - 2022
+* Version Control Systems, University of Bern, 2020 - 2022
 * Programming Languages, University of Bern, 2021
 
 ### Bachelor's
