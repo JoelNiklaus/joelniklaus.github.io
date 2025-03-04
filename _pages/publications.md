@@ -14,7 +14,13 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
-
+* **Joel Niklaus**, Jakob Merane, Luka Nenadic, Sina Ahmadi, Yingqiang Gao, Cyrill A. H. Chevalley, Claude Humbel, Christophe Gösken, Lorenzo Tanzi, Thomas Lüthi, Stefan Palombo, Spencer Poff, Boling Yang, Nan Wu, Matthew Guillod, Robin Mamié, Daniel Brunner, Julio Pereyra, Niko Grupen
+  "SwiLTra-Bench: The Swiss Legal Translation Benchmark" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2503.01372" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/SwissLegalTranslations" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/collections/joelniklaus/swiltra-bench-67c569a2ada47e4549733deb" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/1W0i2-k91mhn9V6wdIX_S6QujKQONFyoTw7nbpyA9H88/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, **Joel Niklaus**
   "Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling" - Pre-Print
   <br>
@@ -196,14 +202,17 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-030-02931-9_8" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 
-## Memberships
+## Service
 
-- ACM
-- ACL
-- ELRA
+### Workshop Organizer
+- Data Mining for Legal Domain @ IEEE ICDM 2025
 
-## Reviewing
+### Area Chair
+- ARR February 2025
 
+### Reviewer
+- ARR December 2024
+- ARR October 2024
 - ARR August 2024
 - NeurIPS 2024
 - ARR June 2024
@@ -215,3 +224,9 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 - MLLD Workshop 2023
 - ARR April 2022
 - ARR February 2022
+
+## Memberships
+
+- ACM
+- ACL
+- ELRA
