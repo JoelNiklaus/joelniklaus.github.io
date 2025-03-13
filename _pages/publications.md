@@ -14,6 +14,10 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Daniel Kettiger, Andreas Lienhard, Thomas Myrach, Matthias Stürmer, Magda Chodup **Joel Niklaus**
+  "Open Justice vs. Privacy: Ergebnisse und Empfehlungen" - Richterzeitung
+  <br>
+  <a href="https://richterzeitung.weblaw.ch/rzissues/2025/1/open-justice-vs.-pri_22c98e005c.html__ONCE&login=false" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * **Joel Niklaus**, Jakob Merane, Luka Nenadic, Sina Ahmadi, Yingqiang Gao, Cyrill A. H. Chevalley, Claude Humbel, Christophe Gösken, Lorenzo Tanzi, Thomas Lüthi, Stefan Palombo, Spencer Poff, Boling Yang, Nan Wu, Matthew Guillod, Robin Mamié, Daniel Brunner, Julio Pereyra, Niko Grupen
   "SwiLTra-Bench: The Swiss Legal Translation Benchmark" - Pre-Print
   <br>
