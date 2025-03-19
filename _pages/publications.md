@@ -5,6 +5,8 @@ title: Publications
 
 ## Media Coverage
 
+- Our paper "SwiLTra-Bench: The Swiss Legal Translation Benchmark" is covered on Jack Clark's blog
+  [Import AI](https://jack-clark.net/2025/03/10/import-ai-403-factorio-ai-russias-reasoning-drones-biocomputing/)
 - Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
   "Echo der Zeit" by the Swiss National Radio and Television (SRF) on 
   [June 23rd, 2024](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581).
