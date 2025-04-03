@@ -48,6 +48,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2404.02127" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LawInstruct" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/lawinstruct/lawinstruct" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/1tIhIYSrkHOCAwqNNDUuoaJtiXPrZjps04PEsezqEtxo/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://docs.google.com/presentation/d/1YNBj2PH8daDCejt1Ykdz7SHOnAw0uqeuXkss0AevN9A/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
 * Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, **Joel Niklaus**, Rohit Saha, Kyryl Truskovskyi, 
   "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
   Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024 **oral**
