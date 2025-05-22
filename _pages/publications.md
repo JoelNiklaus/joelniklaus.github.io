@@ -16,19 +16,26 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Yu Fan, Jingwei Ni, Jakob Merane, Etienne Salimbeni, Yang Tian, Yoan Hermstrüwer, Yinya Huang, Mubashara Akhtar, Florian Geering, Oliver Dreyer, Daniel Brunner, Markus Leippold, Mrinmaya Sachan, Alexander Stremitzer, Christoph Engel, Elliott Ash, **Joel Niklaus**
+  "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2505.12864" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/LEXam-Benchmark/LEXam" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/LEXam-Benchmark/LEXam" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/1GX-warDcMMGiyjzCzjZ2QOE0kaHN22a4r8ZRsRj1KVw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Daniel Kettiger, Andreas Lienhard, Thomas Myrach, Matthias Stürmer, Magda Chodup **Joel Niklaus**
   "Open Justice vs. Privacy: Ergebnisse und Empfehlungen" - Richterzeitung
   <br>
   <a href="https://richterzeitung.weblaw.ch/rzissues/2025/1/open-justice-vs.-pri_22c98e005c.html__ONCE&login=false" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * **Joel Niklaus**, Jakob Merane, Luka Nenadic, Sina Ahmadi, Yingqiang Gao, Cyrill A. H. Chevalley, Claude Humbel, Christophe Gösken, Lorenzo Tanzi, Thomas Lüthi, Stefan Palombo, Spencer Poff, Boling Yang, Nan Wu, Matthew Guillod, Robin Mamié, Daniel Brunner, Julio Pereyra, Niko Grupen
-  "SwiLTra-Bench: The Swiss Legal Translation Benchmark" - Pre-Print
+  "SwiLTra-Bench: The Swiss Legal Translation Benchmark" - Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
   <br>
   <a href="https://arxiv.org/abs/2503.01372" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/SwissLegalTranslations" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/swiltra-bench-67c569a2ada47e4549733deb" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1W0i2-k91mhn9V6wdIX_S6QujKQONFyoTw7nbpyA9H88/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, **Joel Niklaus**
-  "Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling" - Pre-Print
+  "From Citations to Criticality: Predicting Legal Decision Influence in the Multilingual Swiss Jurisprudence" - Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
   <br>
   <a href="https://arxiv.org/abs/2410.13460" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_criticality_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
@@ -43,7 +50,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2411.19799" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/CohereForAI/include-base-44" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning,
-  "FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning" - Pre-Print
+  "LawInstruct: A Resource for Studying Language Model Adaptation to the Legal Domain" - Annual Conference of the North American Chapter of the Association for Computational
+  Linguistics (**NAACL**) Findings 2025
   <br>
   <a href="https://arxiv.org/abs/2404.02127" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LawInstruct" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
