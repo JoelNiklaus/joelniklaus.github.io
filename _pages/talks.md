@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Symposium on AI in the Judiciary**, Zurich, 26th of May 2025 ([Presentation](https://docs.google.com/presentation/d/1GX-warDcMMGiyjzCzjZ2QOE0kaHN22a4r8ZRsRj1KVw/edit?usp=sharing))
 * SwiLTra-Bench: The Swiss Legal Translation Benchmark **Brown Bag Lunch Talk @ Center for Legal Data Science**, Zurich, 13th of March 2025 ([Presentation](https://docs.google.com/presentation/d/1W0i2-k91mhn9V6wdIX_S6QujKQONFyoTw7nbpyA9H88/edit?usp=sharing))
 * AI and the Law **Panel Discussion @ Applied Machine Learning Days**, Lausanne, 11th of February 2025
 * LLM Benchmarking und Transparenz: Kann ich dem LLM vertrauen? **Roundtable @ Deutscher Legal Tech Verband**, online, 11th of December 2024
