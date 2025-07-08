@@ -5,12 +5,11 @@ title: Publications
 
 ## Media Coverage
 
-- Our paper "SwiLTra-Bench: The Swiss Legal Translation Benchmark" is covered on Jack Clark's blog
+- June 20th, 2025: Our paper "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" is covered on [JURios](https://jurios.de/2025/06/20/schweizer-studie-analysiert-340-jurapruefungen-mittels-ki/)
+- March 10th, 2025: Our paper "SwiLTra-Bench: The Swiss Legal Translation Benchmark" is covered on Jack Clark's blog
   [Import AI](https://jack-clark.net/2025/03/10/import-ai-403-factorio-ai-russias-reasoning-drones-biocomputing/)
-- Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
-  "Echo der Zeit" by the Swiss National Radio and Television (SRF) on 
-  [June 23rd, 2024](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581).
-
+- June 23rd, 2024: Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
+  [Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581) by the Swiss National Radio and Television (SRF)
 ## Publication List
 
 For a complete, up-to-date list, please find me
