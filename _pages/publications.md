@@ -6,6 +6,7 @@ title: Publications
 ## Media Coverage
 
 - June 20th, 2025: Our paper "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" is covered on [JURios](https://jurios.de/2025/06/20/schweizer-studie-analysiert-340-jurapruefungen-mittels-ki/)
+- April 29th, 2025: Our benchmark "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge" - International Conference on Learning Representations" was used in the [Qwen3 release](https://qwenlm.github.io/blog/qwen3/)
 - March 10th, 2025: Our paper "SwiLTra-Bench: The Swiss Legal Translation Benchmark" is covered on Jack Clark's blog
   [Import AI](https://jack-clark.net/2025/03/10/import-ai-403-factorio-ai-russias-reasoning-drones-biocomputing/)
 - June 23rd, 2024: Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
