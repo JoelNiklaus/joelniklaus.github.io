@@ -15,6 +15,10 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Sina Ahmadi, Micha David Hess, Elena Álvarez-Mellado, Alessia Battisti, Cui Ding, Anne Göhring, Yingqiang Gao, Zifan Jiang, Andrianos Michail, Peshmerge Morad, **Joel Niklaus**, Maria Christina Panagiotopoulou, Stefano Perrella, Juri Opitz, Anastassia Shaitarova, Rico Sennrich
+  "ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords" - Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
+  <br>
+  <a href="https://aclanthology.org/2025.acl-long.1453/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * Yu Fan, Jingwei Ni, Jakob Merane, Etienne Salimbeni, Yang Tian, Yoan Hermstrüwer, Yinya Huang, Mubashara Akhtar, Florian Geering, Oliver Dreyer, Daniel Brunner, Markus Leippold, Mrinmaya Sachan, Alexander Stremitzer, Christoph Engel, Elliott Ash, **Joel Niklaus**
   "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" - Pre-Print
   <br>
