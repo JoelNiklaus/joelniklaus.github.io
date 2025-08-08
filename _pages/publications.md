@@ -11,11 +11,17 @@ title: Publications
   [Import AI](https://jack-clark.net/2025/03/10/import-ai-403-factorio-ai-russias-reasoning-drones-biocomputing/)
 - June 23rd, 2024: Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
   [Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581) by the Swiss National Radio and Television (SRF)
+
+
 ## Publication List
 
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+* Negar Foroutan, Clara Meister, Debjit Paul, **Joel Niklaus**, Sina Ahmadi, Antoine Bosselut, Rico Sennrich
+  "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization" - Pre-Print
+  <br>
+  <a href="https://arxiv.org/abs/2508.04796" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * Sina Ahmadi, Micha David Hess, Elena Álvarez-Mellado, Alessia Battisti, Cui Ding, Anne Göhring, Yingqiang Gao, Zifan Jiang, Andrianos Michail, Peshmerge Morad, **Joel Niklaus**, Maria Christina Panagiotopoulou, Stefano Perrella, Juri Opitz, Anastassia Shaitarova, Rico Sennrich
   "ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords" - Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
   <br>
