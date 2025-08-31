@@ -50,7 +50,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://arxiv.org/abs/2410.13460" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_criticality_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Luca Rolshoven, Vishvaksenan Rasiah, Srinanda Brügger Bose, Matthias Stürmer, **Joel Niklaus**
-  "Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland" - Pre-Print
+  "Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland" - International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2025 Findings
   <br>
   <a href="https://arxiv.org/abs/2410.13456" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_leading_decision_summarization" target="_blank" type="button" class="btn">🤗 Dataset</a>
