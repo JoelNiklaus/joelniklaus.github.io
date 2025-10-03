@@ -5,6 +5,8 @@ title: Talks
 
 ## Invited Talks
 
+* LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Data Science Talk Series @ UNT**, online, 8th of October 2025 ([Presentation](https://docs.google.com/presentation/d/1BAXVGRuxwOo_ww_Sc3SArOOlA9cqEWYqVPXjNit9Tvc/edit?usp=sharing))
+* Discussant for AI & LAW **Swiss {ai} Weeks**, Bern, 24th of September 2025
 * Discussant for Large Language Models Tailored to Legal Practitioners **Doctrine as a Decision Aid: A Symposium at the Interface of Law, Research on Decision-making and Computer Science**, Ercolano, 5th of July 2025 
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Symposium on AI in the Judiciary**, Zurich, 26th of May 2025 ([Presentation](https://docs.google.com/presentation/d/1GX-warDcMMGiyjzCzjZ2QOE0kaHN22a4r8ZRsRj1KVw/edit?usp=sharing))
 * SwiLTra-Bench: The Swiss Legal Translation Benchmark **Brown Bag Lunch Talk @ Center for Legal Data Science**, Zurich, 13th of March 2025 ([Presentation](https://docs.google.com/presentation/d/1W0i2-k91mhn9V6wdIX_S6QujKQONFyoTw7nbpyA9H88/edit?usp=sharing))
