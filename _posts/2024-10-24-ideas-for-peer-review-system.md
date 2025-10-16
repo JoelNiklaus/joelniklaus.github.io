@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Broken Peer Review System: Some Ideas for Fixing it
+title: "The Broken Peer Review System: Some Ideas for Fixing it"
 date: 2024-08-17
 ---
 
