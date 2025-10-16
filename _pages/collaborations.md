@@ -4,6 +4,8 @@ title: Collaborations
 ---
 
 ## Advisors
+[Leandro von Werra](https://www.lvwerra.com/)
+
 [Prof. Dr. Matthias Stürmer](https://www.digitale-nachhaltigkeit.unibe.ch/about_us/persons/pd_dr_stuermer_matthias/index_eng.html)
 
 [Dr. Ilias Chalkidis](https://iliaschalkidis.github.io/)
@@ -12,6 +14,10 @@ title: Collaborations
 
 
 ## Advisees
+
+### PhD
+
+[Luca Rolshoven](https://rolshoven.io/)
 
 ### Master's
 
