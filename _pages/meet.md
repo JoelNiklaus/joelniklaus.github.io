@@ -3,6 +3,7 @@ layout: page
 title: Meet
 nav_exclude: true
 hide_title: true
+hide_banner: true
 ---
 
 <!-- Calendly inline widget begin -->
