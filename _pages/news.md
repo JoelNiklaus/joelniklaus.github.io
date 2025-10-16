@@ -4,6 +4,7 @@ title: News
 ---
 
 
+* **25 August 2025** I joined Hugging Face
 * **16 May 2025** Three papers accepted to ACL Main
 * **23 September 2024** I joined Harvey
 * **14 August 2024** MultiLegalPile won an Outstanding Paper Award at ACL
