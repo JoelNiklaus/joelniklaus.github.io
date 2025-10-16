@@ -126,6 +126,14 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+/* Banner image: responsive by default */
+.banner-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1rem;
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 48rem;
@@ -135,6 +143,7 @@ a.sidebar-nav-item:focus {
 
   .banner-image {
     margin-left: 18rem;
+    width: calc(100% - 18rem);
   }
 }
 
