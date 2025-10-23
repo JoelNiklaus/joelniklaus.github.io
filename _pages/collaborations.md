@@ -15,7 +15,7 @@ title: Collaborations
 
 ## Advisees
 
-### PhD
+### PhD
 
 [Luca Rolshoven](https://rolshoven.io/)
 
