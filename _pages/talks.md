@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* LEXam: Benchmarking Legal Reasoning on 340 Law Exams **AI for Law @ alphaXiv**, online, 9th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1FflhLgdoNlkC1TDKEKtNbGFFIIhCcZ9hgnu-P2PFl2g/edit?usp=sharing))
 * LLMs for Coding **DevOps with LLMs @ HSLU**, online, 14th of November 2025 ([Presentation](https://docs.google.com/presentation/d/1DurGsYQCELnRwuzbXFg-xYvz-LZmLBrfmeuo1JilvgY/edit?usp=sharing))
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Data Science Talk Series @ UNT**, online, 8th of October 2025 ([Presentation](https://docs.google.com/presentation/d/1BAXVGRuxwOo_ww_Sc3SArOOlA9cqEWYqVPXjNit9Tvc/edit?usp=sharing))
 * Discussant for AI & LAW **Swiss {ai} Weeks**, Bern, 24th of September 2025
