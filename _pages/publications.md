@@ -22,7 +22,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization" - 
   Pre-Print
   <br>
-  <a href="https://arxiv.org/abs/2508.04796" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2508.04796" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * Sina Ahmadi, Micha David Hess, Elena Álvarez-Mellado, Alessia Battisti, Cui Ding, Anne Göhring, Yingqiang Gao, Zifan Jiang, Andrianos Michail, Peshmerge Morad, **Joel Niklaus**, Maria Christina Panagiotopoulou, Stefano Perrella, Juri Opitz, Anastassia Shaitarova, Rico Sennrich,
   "ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords" - 
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
@@ -32,7 +32,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" - 
   International Conference on Learning Representations (**ICLR**) 2026
   <br>
-  <a href="https://arxiv.org/abs/2505.12864" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2505.12864" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/LEXam-Benchmark/LEXam" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/LEXam-Benchmark/LEXam" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1GX-warDcMMGiyjzCzjZ2QOE0kaHN22a4r8ZRsRj1KVw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
@@ -49,7 +49,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "SwiLTra-Bench: The Swiss Legal Translation Benchmark" - 
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
   <br>
-  <a href="https://arxiv.org/abs/2503.01372" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2503.01372" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/SwissLegalTranslations" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/swiltra-bench-67c569a2ada47e4549733deb" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1W0i2-k91mhn9V6wdIX_S6QujKQONFyoTw7nbpyA9H88/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
@@ -57,24 +57,24 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "From Citations to Criticality: Predicting Legal Decision Influence in the Multilingual Swiss Jurisprudence" - 
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2025
   <br>
-  <a href="https://arxiv.org/abs/2410.13460" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2410.13460" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_criticality_prediction" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Luca Rolshoven, Vishvaksenan Rasiah, Srinanda Brügger Bose, Matthias Stürmer, **Joel Niklaus**,
   "Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland" - International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2025 Findings
   <br>
-  <a href="https://arxiv.org/abs/2410.13456" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2410.13456" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/rcds/swiss_leading_decision_summarization" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * Angelika Romanou, Negar Foroutan, Anna Sotnikova, Zeming Chen, Sree Harsha Nelaturu, Shivalika Singh, Rishabh Maheshwary, Micol Altomare, Mohamed A. Haggag, Snegha A, Alfonso Amayuelas, Azril Hafizi Amirudin, Viraat Aryabumi, Danylo Boiko, Michael Chang, Jenny Chim, Gal Cohen, Aditya Kumar Dalmia, Abraham Diress, Sharad Duwal, Daniil Dzenhaliou, Daniel Fernando Erazo Florez, Fabian Farestam, Joseph Marvin Imperial, Shayekh Bin Islam, Perttu Isotalo, Maral Jabbarishiviari, Börje F. Karlsson, Eldar Khalilov, Christopher Klamm, Fajri Koto, Dominik Krzemiński, Gabriel Adriano de Melo, Syrielle Montariol, Yiyang Nan, **Joel Niklaus**, Jekaterina Novikova, Johan Samir Obando Ceron, Debjit Paul, Esther Ploeger, Jebish Purbey, Swati Rajwal, Selvan Sunitha Ravi, Sara Rydell, Roshan Santhosh, Drishti Sharma, Marjana Prifti Skenduli, Arshia Soltani Moakhar, Bardia Soltani Moakhar, Ran Tamir, Ayush Kumar Tarun, Azmine Toushik Wasi, Thenuka Ovin Weerasinghe, Serhan Yilmaz, Mike Zhang, Imanol Schlag, Marzieh Fadaee, Sara Hooker, Antoine Bosselut,
   "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge" - 
   International Conference on Learning Representations (**ICLR**) 2025
   <br>
-  <a href="https://arxiv.org/abs/2411.19799" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2411.19799" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/datasets/CohereForAI/include-base-44" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning,
   "LawInstruct: A Resource for Studying Language Model Adaptation to the Legal Domain" - 
   Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**) Findings 2025
   <br>
-  <a href="https://arxiv.org/abs/2404.02127" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2404.02127" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LawInstruct" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/lawinstruct/lawinstruct" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1tIhIYSrkHOCAwqNNDUuoaJtiXPrZjps04PEsezqEtxo/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
@@ -83,7 +83,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text" - 
   Conference of the European Chapter of the Association for Computational Linguistics (**EACL**) 2024 **oral**
   <br>
-  <a href="https://arxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2402.04335" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/darrow-labs/LegalLens" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/legallens-datasets-6601a17a92e663923265c845" target="_blank" type="button" class="btn">🤗 Dataset</a>
 * **Joel Niklaus**, Magda Chodup, Thomas Lüthi, Daniel Kettiger, 
@@ -96,7 +96,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
   Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 Poster
   <br>
-  <a href="https://arxiv.org/abs/2402.17013" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2402.17013" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/collections/joelniklaus/explainability-datasets-6601a0ffa4bca9c75dbc57b0" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/19x5Kin1k2V5VJYqQnIp2_jv-92hSQMLFoQtOGw46vII/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 * **Joel Niklaus**, Robin Mamié, Matthias Stürmer, Daniel Brunner, Marcel Gygli, 
@@ -110,7 +110,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents" - Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
   Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) 2024 **oral**
   <br>
-  <a href="https://arxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2309.08695" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/RamonaChristen/Multilingual_Negation_Scope_Resolution_on_Legal_Data" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/rcds/MultiLegalNeg" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://huggingface.co/rcds/neg-xlm-roberta-base" target="_blank" type="button" class="btn">🤗 Models</a>
@@ -130,7 +130,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" - 
   Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**) Findings 2024
   <br>
-  <a href="https://arxiv.org/abs/2308.11103" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2308.11103" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/Skatinger/Anonymity-at-Risk-Assessing-Re-Identification-Capabilities-of-Large-Language-Models" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/anonymity-at-risk-datasets-6535f7c1b3852ed1cef487ff" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/14RKEI4pjt6OzrDflpxCV_mnfNd8SmShd-akAquN_8lc/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
@@ -138,7 +138,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "SCALE: Scaling up the Complexity for Advanced Language Model Evaluation" – Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
   Data-centric Machine Learning Workshop (**DMLR**) @ International Conference on Learning Representations (**ICLR**) 2023
   <br>
-  <a href="https://arxiv.org/abs/2306.09237" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2306.09237" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://huggingface.co/collections/joelniklaus/scale-datasets-6535da6123e0af0e0da0b142" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://huggingface.co/collections/joelniklaus/scale-models-6535da25badc4978079f88ab" target="_blank" type="button" class="btn">🤗 Models</a>
   <a href="https://zenodo.org/records/11098305" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
@@ -150,7 +150,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral** and 
   **Outstanding Paper Award** (top 2% of accepted papers)
   <br>
-  <a href="https://arxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Dataset Code</a>
   <a href="https://github.com/JoelNiklaus/MultilingualLegalLMPretraining" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Pretraining Code</a>
   <a href="https://huggingface.co/collections/joelniklaus/multilegalpile-datasets-6535db705f5e918bdc17ecc7" target="_blank" type="button" class="btn">🤗 Dataset</a>
@@ -227,7 +227,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "Survey of Artificial Intelligence for Card Games and Its Application to the Swiss Game Jass" – 
   Swiss Conference on Data Science (**SDS**) 2019
   <br>
-  <a href="https://arxiv.org/abs/1906.04439" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://alphaxiv.org/abs/1906.04439" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * Zhongliang Zhao, Jose Carrera, **Joel Niklaus**, Torsten Braun, 
   "Machine Learning-Based Real-Time Indoor Landmark Localization" –
   International Conference on Wired/Wireless Internet Communication (**WWIC**) 2018
