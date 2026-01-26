@@ -30,7 +30,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://aclanthology.org/2025.acl-long.1453/" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 * Yu Fan, Jingwei Ni, Jakob Merane, Etienne Salimbeni, Yang Tian, Yoan Hermstrüwer, Yinya Huang, Mubashara Akhtar, Florian Geering, Oliver Dreyer, Daniel Brunner, Markus Leippold, Mrinmaya Sachan, Alexander Stremitzer, Christoph Engel, Elliott Ash, **Joel Niklaus**,
   "LEXam: Benchmarking Legal Reasoning on 340 Law Exams" - 
-  Pre-Print
+  International Conference on Learning Representations (**ICLR**) 2026
   <br>
   <a href="https://arxiv.org/abs/2505.12864" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/LEXam-Benchmark/LEXam" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
