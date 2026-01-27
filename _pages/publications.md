@@ -243,6 +243,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 - ARR February 2025
 
 ### Reviewer
+- ARR January 2026
 - ICLR 2026
 - NLLP Workshop 2025
 - ARR December 2024
