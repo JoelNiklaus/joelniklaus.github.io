@@ -5,6 +5,7 @@ title: Talks
 
 ## Invited Talks
 
+* LEXam: Benchmarking Legal Reasoning on 340 Law Exams **NLP Group Meeting @ Lancaster University**, online, 28th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1uvHiu91MIaa9fc_08j7Iy1XTGRR9B_dIOvr_-BABIQY/edit?usp=sharing))
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **AI for Law @ alphaXiv**, online, 9th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1FflhLgdoNlkC1TDKEKtNbGFFIIhCcZ9hgnu-P2PFl2g/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=XChk16Q_XAo))
 * LLMs for Coding **DevOps with LLMs @ HSLU**, online, 14th of November 2025 ([Presentation](https://docs.google.com/presentation/d/1DurGsYQCELnRwuzbXFg-xYvz-LZmLBrfmeuo1JilvgY/edit?usp=sharing))
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Data Science Talk Series @ UNT**, online, 8th of October 2025 ([Presentation](https://docs.google.com/presentation/d/1BAXVGRuxwOo_ww_Sc3SArOOlA9cqEWYqVPXjNit9Tvc/edit?usp=sharing))
