@@ -4,14 +4,11 @@ title: About
 ---
 
 <!-- Professional -->
-Joel Niklaus is a Machine Learning Engineer at Hugging Face working on synthetic pretraining data. He also serves as an advisor and angel investor to various AI companies.
-Previously, Joel was a Research Scientist at Harvey, specializing in large language model systems for legal applications. Before he was an AI Resident at (Google) X, where he trained multi-billion parameter models on hundreds of TPUs and achieved state-of-the-art results on the LegalBench evaluation dataset. He also conducted research at Thomson Reuters Labs on efficient domain-specific pretraining approaches.
-
+Joel Niklaus is a Machine Learning Engineer at Hugging Face working on synthetic data. Previously, Joel was a Research Scientist at Harvey, specializing in large language model systems for legal applications. Before that, he pretrained LLMs at (Google) X and Thomson Reuters Labs.
 <!-- Research -->
-Joel holds a PhD in Natural Language Processing from the University of Bern, where he was supervised by Matthias Stürmer. He also conducted research on LLMs at Stanford University under the supervision of Dan Ho and Percy Liang. Further, he has led research projects for the Swiss Federal Supreme Court and has collaborated with Ilias Chalkidis on various legal AI benchmarks. With extensive experience in pretraining and fine-tuning LLMs across various compute environments, his research focuses on dataset curation for multilingual legal language models. His datasets have established the foundation for legal NLP in Switzerland. Joel has contributed to open-source projects including lighteval and Marin. His research has been published at leading NLP and ML conferences, covered by Anthropic and Swiss National Radio & Television, and honored with an Outstanding Paper Award at ACL.
-
+Joel holds a PhD in NLP from the University of Bern and conducted research at Stanford University, leading projects for the Swiss Federal Supreme Court and AI startups such as Darrow and Libra. His multilingual datasets and benchmarks have shaped the evaluation of LLMs in the legal domain. He regularly contributes to open-source projects including datatrove, lighteval, and Marin. His work has been published at top conferences, honored with an Outstanding Paper Award at ACL, and covered by Anthropic and the Swiss National Radio & Television.
 <!-- Teaching -->
-He has lectured at the University of Bern and the Bern University of Applied Sciences, delivering continuing education courses in natural language processing. Previously, he taught computer science at several Swiss high schools. He also brings experience in delivering corporate courses and talks.
+His teaching and speaking experience spans universities, high schools, and corporate audiences across NLP and computer science.
 
 
 <a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-twitter"></i> JoelNiklaus</a>
