@@ -5,7 +5,8 @@ title: Talks
 
 ## Invited Talks
 
-* The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Expert Talks and Experience Reports @ SE2026 Industry Day**, Bern, 26th of February 2026 ([Presentation](https://niklaus.ai/files/presentations/finephrase.html))
+* The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **LLMC Group Meeting @ NII**, Tokyo, 18th of March 2026 ([Presentation](https://niklaus.ai/files/presentations/nii_finephrase.html))
+* The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Expert Talks and Experience Reports @ SE2026 Industry Day**, Bern, 26th of February 2026 ([Presentation](https://niklaus.ai/files/presentations/se26_finephrase.html))
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **NLP Group Meeting @ Lancaster University**, online, 28th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1uvHiu91MIaa9fc_08j7Iy1XTGRR9B_dIOvr_-BABIQY/edit?usp=sharing))
 * LEXam: Benchmarking Legal Reasoning on 340 Law Exams **AI for Law @ alphaXiv**, online, 9th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1FflhLgdoNlkC1TDKEKtNbGFFIIhCcZ9hgnu-P2PFl2g/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=XChk16Q_XAo))
 * LLMs for Coding **DevOps with LLMs @ HSLU**, online, 14th of November 2025 ([Presentation](https://docs.google.com/presentation/d/1DurGsYQCELnRwuzbXFg-xYvz-LZmLBrfmeuo1JilvgY/edit?usp=sharing))
