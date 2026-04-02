@@ -3,33 +3,26 @@ layout: page
 title: Teaching
 ---
 
+## Continuing Education (CAS)
 
-## Past Teaching
+- AI for Business, Bern University of Applied Sciences, 2024 - 2025
+- Natural Language Processing, University of Bern, 2023
 
-### Corporate
+## Master's
 
-* AI for Software Development @ **[Fincons](https://www.finconsgroup.com/) Rowing Sessions**, Bern, 27th of April 2023
+- AI for Business, Bern University of Applied Sciences, 2024
+- Natural Language Processing Seminar, University of Bern, 2021 - 2022
+- Version Control Systems, University of Bern, 2020 - 2022
+- Programming Languages, University of Bern, 2021
 
-### Continuing Education (CAS)
+## Bachelor's
 
-* AI for Business, Bern University of Applied Sciences, 2024 - 2025
-* Natural Language Processing, University of Bern, 2023
+- Applied Artificial Intelligence, Bern University of Applied Sciences, 2023
+- Software Engineering, Bern University of Applied Sciences, 2021 - 2023
+- Computer Networks, University of Bern, 2017
+- Software Engineering, University of Bern, 2015
 
-### Master's
+## High School
 
-* AI for Business, Bern University of Applied Sciences, 2024
-* Natural Language Processing Seminar, University of Bern, 2021 - 2022
-* Version Control Systems, University of Bern, 2020 - 2022
-* Programming Languages, University of Bern, 2021
-
-### Bachelor's
-
-* Applied Artificial Intelligence, Bern University of Applied Sciences, 2023
-* Software Engineering, Bern University of Applied Sciences, 2021 - 2023
-* Computer Networks, University of Bern, 2017
-* Software Engineering, University of Bern, 2015
-
-### High School
-
-* Computer Science and Robotics, freigymer Bern, 2019 - 2020
-* Information and Communication Technology, KS Rychenberg Winterthur, 2016 - 2020
+- Computer Science and Robotics, freigymer Bern, 2019 - 2020
+- Information and Communication Technology, KS Rychenberg Winterthur, 2016 - 2020
