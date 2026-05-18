@@ -10,6 +10,7 @@ title: Talks
 
 ## Invited Talks
 
+- The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Text Generation with Language Models @ University of Zurich**, Zurich, 18th of May 2026 ([Presentation](https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing))
 - SwiLTra-Bench: The Swiss Legal Translation Benchmark **LLMC @ NII**, Tokyo, 19th of March 2026 ([Presentation](https://docs.google.com/presentation/d/1djkKhO5UMpNHXJ0MyxFAnfYk0UEZsJVpniKAcd8iwTM/edit?usp=sharing))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **LLMC Group Meeting @ NII**, Tokyo, 18th of March 2026 ([Presentation](https://niklaus.ai/files/presentations/nii_finephrase.html))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Expert Talks and Experience Reports @ SE2026 Industry Day**, Bern, 26th of February 2026 ([Presentation](https://niklaus.ai/files/presentations/se26_finephrase.html))
