@@ -12,15 +12,36 @@ title: Publications
 - June 23rd, 2024: Our paper "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models" was discussed in
   [Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/justiz-im-spannungsfeld-zwischen-transparenz-und-privatsphaere?partId=12612581) by the Swiss National Radio and Television (SRF)
 
+## Open Source Contributions
 
-## Publication List
+- [lighteval](https://github.com/huggingface/lighteval) (adding datasets and support for custom models)
+- [datatrove](https://github.com/huggingface/datatrove) (adding support for benchmarking and synthetic data)
+- [physics-intern](https://github.com/huggingface/physics-intern) (adding support for large open source models)
+- [finephrase](https://github.com/huggingface/finephrase) (wrote whole repo for extensive synthetic data experiments)
+
+## Publications
 
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+
+- David Louapre, **Joel Niklaus**, Lewis Tunstall,
+  "physics-intern: an autonomous agentic framework for physics research" – 
+  Pre-Print 
+  <br>
+  <a href="https://huggingface.co/spaces/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+- **Joel Niklaus**, Atsuki Yamaguchi, Michal Štefánik, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
+  "How Can We Synthesize High-Quality Pretraining Data? A Systematic Study of Prompt Design, Generator Model, and Source Data" – 
+  Pre-Print 
+  <br>
+  <a href="https://alphaxiv.org/abs/2604.13977" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a> 
 - Negar Foroutan, Clara Meister, Debjit Paul, **Joel Niklaus**, Sina Ahmadi, Antoine Bosselut, Rico Sennrich,
   "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization" - 
-  Pre-Print
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026
   <br>
   <a href="https://alphaxiv.org/abs/2508.04796" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 - Sina Ahmadi, Micha David Hess, Elena Álvarez-Mellado, Alessia Battisti, Cui Ding, Anne Göhring, Yingqiang Gao, Zifan Jiang, Andrianos Michail, Peshmerge Morad, **Joel Niklaus**, Maria Christina Panagiotopoulou, Stefano Perrella, Juri Opitz, Anastassia Shaitarova, Rico Sennrich,
