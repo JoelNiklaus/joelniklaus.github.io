@@ -63,7 +63,12 @@ line. It is intended to be used for contact details -->
 
 ### RESEARCH
 
-* **Research Scientist** - San Francisco, USA Sep. 2024 ‑ present <br>
+* **Data Lead** - Bern, Switzerland Aug. 2025 ‑ present <br>
+
+  HUGGING FACE <br>
+  Synthetic data for pretraining and agents for science
+
+* **Research Scientist** - San Francisco, USA Sep. 2024 ‑ Jul. 2025 <br>
 
   HARVEY <br>
   Developing and evaluating LLM systems in the legal domain
