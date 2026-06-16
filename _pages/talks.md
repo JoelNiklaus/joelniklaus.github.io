@@ -10,11 +10,12 @@ title: Talks
 
 ## Invited Talks
 
+- The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Podcast @ Deep Learning with Yacine**, online, 18th of June 2026 ([Presentation](https://docs.google.com/presentation/d/1JW0zFJGFJ9yW0wwK7vw_OCoybMzbmM0_DRR-cfg62zs/edit?usp=sharing))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Text Generation with Language Models @ University of Zurich**, Zurich, 18th of May 2026 ([Presentation](https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing))
 - SwiLTra-Bench: The Swiss Legal Translation Benchmark **LLMC @ NII**, Tokyo, 19th of March 2026 ([Presentation](https://docs.google.com/presentation/d/1djkKhO5UMpNHXJ0MyxFAnfYk0UEZsJVpniKAcd8iwTM/edit?usp=sharing))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **LLMC Group Meeting @ NII**, Tokyo, 18th of March 2026 ([Presentation](https://niklaus.ai/files/presentations/nii_finephrase.html))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Expert Talks and Experience Reports @ SE2026 Industry Day**, Bern, 26th of February 2026 ([Presentation](https://niklaus.ai/files/presentations/se26_finephrase.html))
-- LEXam: Benchmarking Legal Reasoning on 340 Law Exams **NLP Group Meeting @ Lancaster University**, online, 28th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1uvHiu91MIaa9fc_08j7Iy1XTGRR9B_dIOvr_-BABIQY/edit?usp=sharing))
+- LEXam: Benchmarking Legal Reasoning on 340 Law Exams **NLP Group Meeting @ Lancaster University**, online, 28th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1uvHiu91MIaa9fc_08j7Iy1XTGRR9B_dIOvr_-BABIQY/edit?usp=sharing), [Video](https://m.youtube.com/watch?v=yYfPybXeEww&pp=0gcJCUACo7VqN5tD))
 - LEXam: Benchmarking Legal Reasoning on 340 Law Exams **AI for Law @ alphaXiv**, online, 9th of January 2026 ([Presentation](https://docs.google.com/presentation/d/1FflhLgdoNlkC1TDKEKtNbGFFIIhCcZ9hgnu-P2PFl2g/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=XChk16Q_XAo))
 - LLMs for Coding **DevOps with LLMs @ HSLU**, online, 14th of November 2025 ([Presentation](https://docs.google.com/presentation/d/1DurGsYQCELnRwuzbXFg-xYvz-LZmLBrfmeuo1JilvgY/edit?usp=sharing))
 - LEXam: Benchmarking Legal Reasoning on 340 Law Exams **Data Science Talk Series @ UNT**, online, 8th of October 2025 ([Presentation](https://docs.google.com/presentation/d/1BAXVGRuxwOo_ww_Sc3SArOOlA9cqEWYqVPXjNit9Tvc/edit?usp=sharing))
