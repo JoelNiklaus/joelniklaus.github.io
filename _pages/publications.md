@@ -25,9 +25,15 @@ For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 
+- **Joel Niklaus**,
+  "https://huggingface.co/spaces/joelniklaus/harness-optimization" – 
+  Blog Post 
+  <br>
+  <a href="https://huggingface.co/spaces/joelniklaus/harness-optimization" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/harness-optimization/tree/main/legal_agent_bench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 - David Louapre, **Joel Niklaus**, Lewis Tunstall,
   "physics-intern: an autonomous agentic framework for physics research" – 
-  Pre-Print 
+  Blog Post 
   <br>
   <a href="https://huggingface.co/spaces/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
@@ -41,7 +47,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a> 
 - Negar Foroutan, Clara Meister, Debjit Paul, **Joel Niklaus**, Sina Ahmadi, Antoine Bosselut, Rico Sennrich,
   "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization" - 
-  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026 **oral** and 
+  **SAC Highlight**
   <br>
   <a href="https://alphaxiv.org/abs/2508.04796" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 - Sina Ahmadi, Micha David Hess, Elena Álvarez-Mellado, Alessia Battisti, Cui Ding, Anne Göhring, Yingqiang Gao, Zifan Jiang, Andrianos Michail, Peshmerge Morad, **Joel Niklaus**, Maria Christina Panagiotopoulou, Stefano Perrella, Juri Opitz, Anastassia Shaitarova, Rico Sennrich,
@@ -168,8 +175,8 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   "MultiLegalPile: A 689GB Multilingual Legal Corpus" – 
   Data-centric Machine Learning Research Workshop (**DMLR**) @ International Conference on Machine Learning (**ICML**) 2023, 
   Natural Legal Language Processing Workshop (**NLLP**) @ International Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023, 
-  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral*- and 
-  **Outstanding Paper Award*- (top 2% of accepted papers)
+  Annual Meeting of the Association for Computational Linguistics (**ACL**) 2024 **oral** and 
+  **Outstanding Paper Award** (top 2% of accepted papers)
   <br>
   <a href="https://alphaxiv.org/abs/2306.02069" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/LegalDatasets" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Dataset Code</a>
