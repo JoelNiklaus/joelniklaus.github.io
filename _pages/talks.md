@@ -10,6 +10,8 @@ title: Talks
 
 ## Invited Talks
 
+
+- SwiLTra-Bench: The Swiss Legal Translation Benchmark **AI for Access to Justice Panel @ AI for Law @ ICML**, Seoul, 10th of July 2026 ([Presentation](https://docs.google.com/presentation/d/1djkKhO5UMpNHXJ0MyxFAnfYk0UEZsJVpniKAcd8iwTM/edit?usp=sharing))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Podcast @ Deep Learning with Yacine**, online, 18th of June 2026 ([Presentation](https://docs.google.com/presentation/d/1JW0zFJGFJ9yW0wwK7vw_OCoybMzbmM0_DRR-cfg62zs/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=Nk2HpRb1Vl4))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Text Generation with Language Models @ University of Zurich**, Zurich, 18th of May 2026 ([Presentation](https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing))
 - SwiLTra-Bench: The Swiss Legal Translation Benchmark **LLMC @ NII**, Tokyo, 19th of March 2026 ([Presentation](https://docs.google.com/presentation/d/1djkKhO5UMpNHXJ0MyxFAnfYk0UEZsJVpniKAcd8iwTM/edit?usp=sharing))
