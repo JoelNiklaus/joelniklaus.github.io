@@ -24,9 +24,20 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
-
+- Nazar Drugov, **Joel Niklaus**, Leandro von Werra, Andrés Marafioti
+  "Autoresearch for Data: We Gave an Agent Our GPU Cluster to Improve Our Data Mixture" – 
+  Blog Post 
+  <br>
+  <a href="https://huggingface.co/spaces/HuggingFaceM4/vlm-data-autoresearch" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/harness-optimization/tree/main/legal_agent_bench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+- **Joel Niklaus**, Daniel Brunner
+  "The state-of-the-art in open-source AI for Swiss legal tasks" – 
+  Blog Post 
+  <br>
+  <a href="https://huggingface.co/blog/joelniklaus/swiss-legal-evals" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/SwissLegalEvals" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
 - **Joel Niklaus**,
-  "https://huggingface.co/spaces/joelniklaus/harness-optimization" – 
+  "Don't Train the Model, Evolve the Harness" – 
   Blog Post 
   <br>
   <a href="https://huggingface.co/spaces/joelniklaus/harness-optimization" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
@@ -45,6 +56,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://niklaus.ai/files/posters/finephrase-poster.pdf" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
 - **Joel Niklaus**, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
   "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens" – 
   Blog Post
