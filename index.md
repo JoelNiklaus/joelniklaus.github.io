@@ -4,9 +4,9 @@ title: About
 ---
 
 <!-- Professional -->
-Joel Niklaus is a Machine Learning Engineer at Hugging Face working on synthetic data. Previously, Joel was a Research Scientist at Harvey, specializing in large language model systems for legal applications. Before that, he pretrained LLMs at (Google) X and Thomson Reuters Labs.
+Joel Niklaus is a Machine Learning Engineer at Hugging Face working on harness optimization and synthetic data. Previously, Joel was a Research Scientist at Harvey, specializing in large language model systems for legal applications. Before that, he pretrained LLMs at (Google) X and Thomson Reuters Labs.
 <!-- Research -->
-Joel holds a PhD in NLP from the University of Bern and conducted research at Stanford University, leading projects for the Swiss Federal Supreme Court and AI startups such as Darrow and Libra. His multilingual datasets and benchmarks have shaped the evaluation of LLMs in the legal domain. He regularly contributes to open-source projects including datatrove, lighteval, and Marin. His work has been published at top conferences, honored with an Outstanding Paper Award at ACL, and covered by Anthropic and the Swiss National Radio & Television.
+Joel holds a PhD in NLP from the University of Bern and conducted research at Stanford University, leading projects for the Swiss Federal Supreme Court and AI startups such as Darrow and Libra. His multilingual datasets and benchmarks have shaped the evaluation of LLMs in the legal domain. He regularly contributes to open-source projects including datatrove, lighteval, and Marin. His work has been published at top conferences, honored with Outstanding Paper Awards at ACL and CoLM, and covered by Anthropic and the Swiss National Radio & Television.
 <!-- Teaching -->
 His teaching and speaking experience spans universities, high schools, and corporate audiences across NLP and computer science.
 

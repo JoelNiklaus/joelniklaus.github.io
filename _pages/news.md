@@ -4,6 +4,7 @@ title: News
 ---
 
 
+- **6 October 2026*- - FinePhrase won an outstanding paper award at CoLM
 - **25 August 2025*- I joined Hugging Face
 - **16 May 2025*- Three papers accepted to ACL Main
 - **23 September 2024*- I joined Harvey
