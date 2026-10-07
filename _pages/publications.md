@@ -68,7 +68,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://alphaxiv.org/abs/2604.13977" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
-  <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+  <a href="https://docs.google.com/presentation/d/1Wccc2jrwRHhMv5qNLKcsc0mISh-U5VpB/" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
   <a href="https://niklaus.ai/files/posters/finephrase-poster.pdf" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
 - **Joel Niklaus**, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
   "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens" – 
