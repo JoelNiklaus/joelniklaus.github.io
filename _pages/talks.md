@@ -8,6 +8,14 @@ title: Talks
 - Evaluating Legal AI Systems @ [Homburger](https://www.homburger.ch/en) AI Series, Zurich, 8th of April 2026 ([Presentation](https://docs.google.com/presentation/d/1n-_N7Z86cm7Kj0A29kFCDN6mNlCwsLu97gyN_OTsLes/edit?usp=sharing))
 - AI for Software Development @ **[Fincons](https://www.finconsgroup.com/) Rowing Sessions**, Bern, 27th of April 2023
 
+## Conference Orals
+
+- How Can We Synthesize High-Quality Pretraining Data? A Systematic Study of Prompt Design, Generator Model, and Source Data **Oral @ COLM 2026** (Outstanding Paper Award), San Francisco, 7th of October 2026 ([Presentation](https://docs.google.com/presentation/d/1Wccc2jrwRHhMv5qNLKcsc0mISh-U5VpB/))
+- Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization **Oral @ ACL 2026** (SAC Highlight), San Diego, July 2026
+- MultiLegalPile: A 689GB Multilingual Legal Corpus **Oral @ ACL 2024** (Outstanding Paper Award), Bangkok, August 2024 ([Presentation](https://docs.google.com/presentation/d/1nWCTS3H9w1Mm64hz-K4ZZhOZyWcOb61BXMG-tTqxrJE/edit?usp=sharing), [Video](https://youtu.be/DLT55Hep7TE))
+- Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents **Oral @ LREC-COLING 2024**, Torino, May 2024
+- LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text **Oral @ EACL 2024**, St. Julian's, March 2024 ([Presentation](https://docs.google.com/presentation/d/1nHxZUuzFmrdcbo8l-hGfeapl9ku5xKLrRcrZAR_CbbA/edit?usp=sharing))
+
 ## Invited Talks
 
 - Fifty Years of Legal AI **Keynote @ AI for Legal Reasoning @ HSG**, St. Gallen, 28th of August 2026 ([Presentation](https://docs.google.com/presentation/d/1GzHTZb7pAXG5hNldmXr-26wAJ1oHvnd9Q3DfWJkTaZk/edit?usp=sharing))

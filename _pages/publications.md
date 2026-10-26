@@ -24,6 +24,13 @@ title: Publications
 For a complete, up-to-date list, please find me
 on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
+- **Joel Niklaus**,
+  "Switzerland Does Top AI Research, but Too Little of It Stays" – 
+  Blog Post 
+  <br>
+  <a href="https://huggingface.co/blog/joelniklaus/swiss-ai-research" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/JoelNiklaus/swiss-ai-research" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/joelniklaus/swiss-ai-research" target="_blank" type="button" class="btn">🤗 Dataset</a>
 - Atsuki Yamaguchi, Tatsuro Inaba, **Joel Niklaus**, Michal Štefánik, Aline Villavicencio, Nikolaos Aletras,
   "Synthetic Pre-pretraining Survives Scale, but Not as a Grammatical Prior" – 
   Preprint 
