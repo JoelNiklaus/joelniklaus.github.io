@@ -6,30 +6,30 @@ permalink: 404.html
 
 <style>
   .r2-card { position: relative; border: 1px solid #ddd; border-radius: 6px; padding: 1.2rem 1.4rem; background: #fcfcfa;
-    font-family: "SFMono-Regular", Menlo, Consolas, monospace; font-size: .85rem; line-height: 1.55; box-shadow: 0 2px 8px rgba(0,0,0,.06); overflow: hidden; }
+    font-family: "SFMono-Regular", Menlo, Consolas, monospace; font-size: .85rem; line-height: 1.55; box-shadow: 0 2px 8px rgba(0,0,0,.06); overflow: hidden; padding-bottom: 4.2rem; }
   .r2-head { display: flex; justify-content: space-between; border-bottom: 1px dashed #ccc; padding-bottom: .5rem; margin-bottom: .8rem; color: #777; font-size: .75rem; }
   .r2-field { margin: 0 0 .7rem; min-height: 1.3em; }
   .r2-field b { display: block; color: #333; }
   .r2-field span { color: #444; white-space: pre-wrap; }
   .r2-cursor::after { content: "▍"; animation: r2blink 1s steps(1) infinite; color: #999; }
   @keyframes r2blink { 50% { opacity: 0; } }
-  .r2-score { font-size: 1.05rem; color: #333; }
-  .r2-score .num { display: inline-block; min-width: 1.4em; font-weight: 700; color: #c0392b; }
-  .r2-stamp { position: absolute; right: 1.2rem; bottom: 1.4rem; border: 4px solid #c0392b; color: #c0392b; border-radius: 6px;
+  .r2-score { color: #333; }
+  .r2-score .num { font-weight: 700; color: #c0392b; font-variant-numeric: tabular-nums; }
+  .r2-stamp { position: absolute; right: 1.4rem; bottom: 1rem; border: 4px solid #c0392b; color: #c0392b; border-radius: 6px;
     padding: .15rem .8rem; font: 700 2rem/1.2 "Abril Fatface", serif; letter-spacing: .12em; opacity: 0; transform: rotate(-14deg) scale(3); pointer-events: none; }
   .r2-stamp.hit { animation: r2stamp .35s cubic-bezier(.2,1.6,.4,1) forwards; }
   @keyframes r2stamp { to { opacity: .85; transform: rotate(-14deg) scale(1); } }
   .r2-shake { animation: r2shake .3s .3s; }
   @keyframes r2shake { 25% { transform: translate(2px,1px); } 50% { transform: translate(-2px,-1px); } 75% { transform: translate(1px,-2px); } }
 
-  .r2-choices { display: flex; flex-wrap: wrap; gap: 1rem; align-items: stretch; margin-top: 1.4rem; opacity: 0; transform: translateY(8px); transition: opacity .6s, transform .6s; }
+  .r2-choices { display: flex; flex-direction: column; gap: .6rem; align-items: stretch; margin-top: 1.4rem; opacity: 0; transform: translateY(8px); transition: opacity .6s, transform .6s; }
   .r2-choices.show { opacity: 1; transform: none; }
-  .r2-choices .or { align-self: center; color: #999; font-style: italic; }
+  .r2-choices .or { text-align: center; color: #999; font-style: italic; }
   .r2-btn { display: flex; align-items: center; justify-content: center; padding: .7rem 1.2rem; border: 1px solid #ccc; border-radius: 6px;
     color: #333 !important; text-decoration: none !important; background: #fff; transition: transform .15s, box-shadow .15s; }
   .r2-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,.08); }
 
-  .kite-link { display: block; flex: 1 1 260px; border: 1px solid #cfe3f2; border-radius: 6px; overflow: hidden; text-decoration: none !important;
+  .kite-link { display: block; border: 1px solid #cfe3f2; border-radius: 6px; overflow: hidden; text-decoration: none !important;
     background: linear-gradient(#e9f5ff, #ffffff 55%); transition: transform .15s, box-shadow .15s; }
   .kite-link:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,90,160,.15); }
   .kite-link .label { display: block; text-align: center; padding: .3rem .5rem .6rem; color: #0a5c99; font-weight: 700; }
@@ -122,7 +122,7 @@ permalink: 404.html
     (function step() {
       k += 1;
       el.textContent = text.slice(0, k);
-      if (k < text.length) { setTimeout(step, text[k - 1] === '\n' ? 250 : 18); }
+      if (k < text.length) { setTimeout(step, text[k - 1] === '\n' ? 200 : 12); }
       else { el.classList.remove('r2-cursor'); i += 1; setTimeout(typeField, 300); }
     })();
   }
