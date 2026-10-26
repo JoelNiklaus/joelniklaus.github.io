@@ -19,10 +19,7 @@ title: Publications
 - [physics-intern](https://github.com/huggingface/physics-intern) (adding support for large open source models)
 - [finephrase](https://github.com/huggingface/finephrase) (wrote whole repo for extensive synthetic data experiments)
 
-## Publications
-
-For a complete, up-to-date list, please find me
-on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
+## Blog Posts
 
 - **Joel Niklaus**,
   "Switzerland Does Top AI Research, but Too Little of It Stays" – 
@@ -31,13 +28,6 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://huggingface.co/blog/joelniklaus/swiss-ai-research" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/swiss-ai-research" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/joelniklaus/swiss-ai-research" target="_blank" type="button" class="btn">🤗 Dataset</a>
-- Atsuki Yamaguchi, Tatsuro Inaba, **Joel Niklaus**, Michal Štefánik, Aline Villavicencio, Nikolaos Aletras,
-  "Synthetic Pre-pretraining Survives Scale, but Not as a Grammatical Prior" – 
-  Preprint 
-  <br>
-  <a href="https://alphaxiv.org/abs/2609.39827" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
-  <a href="https://github.com/gucci-j/verify-ppt-at-scale" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
-  <a href="https://huggingface.co/verify-ppt" target="_blank" type="button" class="btn">🤗 Models</a>
 - Adithya S Kolavi, **Joel Niklaus**, Sergio Paniego Blanco, Leonie Monigatti, Amine Dirhoussi, Ben Burtenshaw, Lewis Tunstall, Leandro von Werra,
   "The ultimate guide to multi-harness RL" – 
   Blog Post 
@@ -68,6 +58,27 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <br>
   <a href="https://huggingface.co/spaces/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/huggingface/physics-intern" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+- **Joel Niklaus**, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
+  "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens" – 
+  Blog Post
+  <br>
+  <a href="https://huggingface.co/spaces/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
+  <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+
+## Publications
+
+For a complete, up-to-date list, please find me
+on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
+
+- Atsuki Yamaguchi, Tatsuro Inaba, **Joel Niklaus**, Michal Štefánik, Aline Villavicencio, Nikolaos Aletras,
+  "Synthetic Pre-pretraining Survives Scale, but Not as a Grammatical Prior" – 
+  Preprint 
+  <br>
+  <a href="https://alphaxiv.org/abs/2609.39827" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
+  <a href="https://github.com/gucci-j/verify-ppt-at-scale" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+  <a href="https://huggingface.co/verify-ppt" target="_blank" type="button" class="btn">🤗 Models</a>
 - **Joel Niklaus**, Atsuki Yamaguchi, Michal Štefánik, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
   "How Can We Synthesize High-Quality Pretraining Data? A Systematic Study of Prompt Design, Generator Model, and Source Data" – 
   Conference on Language Modeling (**COLM**) 2026 **oral** (top 0.8% of papers) and outstanding paper award (top 0.1%)
@@ -77,14 +88,6 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
   <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1Wccc2jrwRHhMv5qNLKcsc0mISh-U5VpB/" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
   <a href="https://niklaus.ai/files/posters/finephrase-poster.pdf" target="_blank" type="button" class="btn"><i class="fa-solid fa-person-chalkboard"></i> Poster</a>
-- **Joel Niklaus**, Guilherme Penedo, Hynek Kydlíček, Elie Bakouch, Lewis Tunstall, Edward Emanuel Beeching, Thibaud Frere, Colin Raffel, Leandro von Werra, Thomas Wolf,
-  "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens" – 
-  Blog Post
-  <br>
-  <a href="https://huggingface.co/spaces/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
-  <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
-  <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
-  <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
 - Negar Foroutan, Clara Meister, Debjit Paul, **Joel Niklaus**, Sina Ahmadi, Antoine Bosselut, Rico Sennrich,
   "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization" - 
   Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026 **oral** and 
