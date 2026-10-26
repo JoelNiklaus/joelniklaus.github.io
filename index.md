@@ -11,11 +11,12 @@ Joel holds a PhD in NLP from the University of Bern and conducted research at St
 His teaching and speaking experience spans universities, high schools, and corporate audiences across NLP and computer science.
 
 
-<a href="https://twitter.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-twitter"></i> JoelNiklaus</a>
+<a href="https://x.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-x-twitter"></i> JoelNiklaus</a>
 <a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" type="button" class="btn"><i class="fa-brands fa-linkedin"></i> JoelNiklaus</a>
 <a href="https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao" target="_blank" type="button" class="btn"><i class="ai ai-google-scholar"></i> JoelNiklaus</a>
 <a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> JoelNiklaus</a>
 <a href="https://huggingface.co/joelniklaus" target="_blank" type="button" class="btn">🤗 JoelNiklaus</a>
+<a href="mailto:joel@niklaus.ai" type="button" class="btn"><i class="fa-solid fa-envelope"></i> Email</a>
 
 I am always happy to advise motivated young researchers, don't hesitate to reach out!
 
