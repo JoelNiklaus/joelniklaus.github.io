@@ -40,6 +40,11 @@ title: Publications
   <br>
   <a href="https://huggingface.co/spaces/HuggingFaceM4/vlm-data-autoresearch" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
   <a href="https://github.com/JoelNiklaus/harness-optimization/tree/main/legal_agent_bench" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
+- **Joel Niklaus**,
+  "Technical writing in the agentic era" – 
+  Blog Post 
+  <br>
+  <a href="https://huggingface.co/blog/joelniklaus/technical-writing-in-the-agentic-era" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 - **Joel Niklaus**, Daniel Brunner
   "The state-of-the-art in open-source AI for Swiss legal tasks" – 
   Blog Post 
