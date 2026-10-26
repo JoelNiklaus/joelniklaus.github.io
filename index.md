@@ -11,12 +11,15 @@ Joel holds a PhD in NLP from the University of Bern and conducted research at St
 His teaching and speaking experience spans universities, high schools, and corporate audiences across NLP and computer science.
 
 
-<a href="https://x.com/joelniklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-x-twitter"></i> JoelNiklaus</a>
-<a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" type="button" class="btn"><i class="fa-brands fa-linkedin"></i> JoelNiklaus</a>
-<a href="https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao" target="_blank" type="button" class="btn"><i class="ai ai-google-scholar"></i> JoelNiklaus</a>
-<a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> JoelNiklaus</a>
-<a href="https://huggingface.co/joelniklaus" target="_blank" type="button" class="btn">🤗 JoelNiklaus</a>
-<a href="mailto:joel@niklaus.ai" type="button" class="btn" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+Contact me via email: joel (at) niklaus (dot) ai
+
+<p class="social-row">Or find me online:
+<a href="https://x.com/joelniklaus" target="_blank" class="social x" title="X" aria-label="X"><i class="fa-brands fa-x-twitter"></i></a>
+<a href="https://www.linkedin.com/in/joelniklaus/" target="_blank" class="social linkedin" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+<a href="https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao" target="_blank" class="social scholar" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+<a href="https://github.com/JoelNiklaus" target="_blank" class="social github" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+<a href="https://huggingface.co/joelniklaus" target="_blank" class="social hf" title="Hugging Face" aria-label="Hugging Face">🤗</a>
+</p>
 
 I am always happy to advise motivated young researchers, don't hesitate to reach out!
 

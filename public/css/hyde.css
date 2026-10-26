@@ -272,3 +272,12 @@ For the favicons, created on https://www.hoststar.ch/de/tools/favicon-generator,
 .theme-base-1a .related-posts li a:hover {
   color: #0032ff;
 }
+
+/* About page social icons in brand colours */
+.social-row { display: flex; align-items: center; flex-wrap: wrap; gap: .6rem; }
+.social-row a.social { font-size: 1.8rem; line-height: 1; text-decoration: none; transition: transform .15s ease; }
+.social-row a.social:hover { transform: translateY(-2px) scale(1.12); text-decoration: none; }
+.social.x { color: #000000; }
+.social.linkedin { color: #0A66C2; }
+.social.scholar { color: #4285F4; }
+.social.github { color: #181717; }
