@@ -16,7 +16,7 @@ His teaching and speaking experience spans universities, high schools, and corpo
 <a href="https://scholar.google.com/citations?user=qJ8iricAAAAJ&hl=de&oi=ao" target="_blank" type="button" class="btn"><i class="ai ai-google-scholar"></i> JoelNiklaus</a>
 <a href="https://github.com/JoelNiklaus" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> JoelNiklaus</a>
 <a href="https://huggingface.co/joelniklaus" target="_blank" type="button" class="btn">🤗 JoelNiklaus</a>
-<a href="mailto:joel@niklaus.ai" type="button" class="btn"><i class="fa-solid fa-envelope"></i> Email</a>
+<a href="mailto:joel@niklaus.ai" type="button" class="btn" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
 
 I am always happy to advise motivated young researchers, don't hesitate to reach out!
 
