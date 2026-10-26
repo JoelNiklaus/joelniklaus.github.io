@@ -277,7 +277,7 @@ For the favicons, created on https://www.hoststar.ch/de/tools/favicon-generator,
 .social-row { display: flex; align-items: center; flex-wrap: wrap; gap: .6rem; }
 .social-row a.social { font-size: 1.8rem; line-height: 1; text-decoration: none; transition: transform .15s ease; }
 .social-row a.social:hover { transform: translateY(-2px) scale(1.12); text-decoration: none; }
-.social.x { color: #000000; }
-.social.linkedin { color: #0A66C2; }
-.social.scholar { color: #4285F4; }
-.social.github { color: #181717; }
+.content .social-row a.social.x { color: #000000; }
+.content .social-row a.social.linkedin { color: #0A66C2; }
+.content .social-row a.social.scholar { color: #4285F4; }
+.content .social-row a.social.github { color: #181717; }
