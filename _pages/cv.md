@@ -6,15 +6,12 @@ title: CV
 Joel Niklaus
 ============
 
-PDFs: [[CV]](/files/CV.pdf) and [[Resume]](/files/Resume.pdf)
-
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 <!--- <i class="fa fa-birthday-cake" aria-hidden="true"></i> 05/09/1995 -->
 <!--- <i class="fa fa-home" aria-hidden="true"></i> [joelniklaus.ch](http://joelniklaus.ch) -->
 <!--- <i class="fa fa-address-card" aria-hidden="true"></i> Schwarztorstrasse 108, 3008 Bern, Switzerland -->
 
-- <i class="fa fa-phone" aria-hidden="true"></i> (+41) 78 664 46 59
 - <i class="fa fa-envelope" aria-hidden="true"></i> joel (at) niklaus (dot) ai
 - <i class="fa-brands fa-github" aria-hidden="true"></i> [joelniklaus](https://github.com/joelniklaus)
 - 🤗 [joelniklaus](https://huggingface.co/joelniklaus)

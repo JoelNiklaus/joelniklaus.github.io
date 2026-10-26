@@ -319,6 +319,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 ### Workshop Organizer
 
+- [Data Mining and AI for Law](https://dmail-community.github.io/DMAIL2026/) @ IEEE BigData 2026
 - [AI for Law](https://sites.google.com/view/ai4law-icml2026) @ ICML 2026
 - [Data Mining for Legal Domain](https://dmail-workshop.github.io/DMAIL2025/) @ IEEE ICDM 2025
 
@@ -328,6 +329,7 @@ on [Google Scholar](https://scholar.google.com/citations?user=qJ8iricAAAAJ).
 
 ### Reviewer
 
+- NLLP Workshop 2026
 - NeurIPS 2026
 - ARR January 2026
 - ICLR 2026
