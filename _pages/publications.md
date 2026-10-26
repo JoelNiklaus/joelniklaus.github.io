@@ -66,6 +66,11 @@ title: Publications
   <a href="https://github.com/huggingface/finephrase" target="_blank" type="button" class="btn"><i class="fa-brands fa-github"></i> Code</a>
   <a href="https://huggingface.co/datasets/HuggingFaceFW/finephrase" target="_blank" type="button" class="btn">🤗 Dataset</a>
   <a href="https://docs.google.com/presentation/d/1lY40grdoBdD3VsuaxmwVAx3x-X8hxZkU8ZXsvLVAmyw/edit?usp=sharing" target="_blank" type="button" class="btn"><i class="fa-brands fa-slideshare"></i> Slides</a>
+- **Joel Niklaus**,
+  "Peer Review is Broken: Some Ideas for Fixing it" – 
+  Blog Post 
+  <br>
+  <a href="https://joelniklaus.substack.com/p/peer-review-is-broken" target="_blank" type="button" class="btn"><i class="fa-solid fa-book"></i> Article</a>
 
 ## Publications
 
