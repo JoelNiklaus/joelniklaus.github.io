@@ -35,21 +35,23 @@ permalink: 404.html
   .kite-link .label { display: block; text-align: center; padding: .3rem .5rem .6rem; color: #0a5c99; font-weight: 700; }
   .kite-link svg { display: block; width: 100%; height: auto; }
   .kiter { animation: ride 7s ease-in-out infinite; }
-  .kiter-jump { animation: jump 7s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 110px; }
-  .kite-sway { animation: sway 2.4s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 100px; }
+  .kite-lift { animation: lift 7s ease-in-out infinite; }
+  .rider { animation: flip 7s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 108px; }
+  .kite-sway { animation: sway 2.4s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 105px; }
   .wave { animation: waves 3s linear infinite; }
   .spray { opacity: 0; animation: spray 7s ease-out infinite; }
   @keyframes ride { 0%,100% { transform: translateX(-70px); } 50% { transform: translateX(70px); } }
-  @keyframes jump {
-    0%,30% { transform: translateY(0) rotate(0); }
-    40% { transform: translateY(-48px) rotate(-8deg); }
-    46% { transform: translateY(-58px) rotate(180deg); }
-    52% { transform: translateY(-48px) rotate(360deg); }
-    60%,100% { transform: translateY(0) rotate(360deg); } }
+  @keyframes lift { 0%,30% { transform: translateY(0); } 37% { transform: translateY(-28px); } 44% { transform: translateY(-38px); } 51% { transform: translateY(-28px); } 60%,100% { transform: translateY(0); } }
+  @keyframes flip {
+    0%,30% { transform: translateY(0) rotate(0deg); }
+    37% { transform: translateY(-28px) rotate(-60deg); }
+    44% { transform: translateY(-38px) rotate(-180deg); }
+    51% { transform: translateY(-28px) rotate(-300deg); }
+    60%,100% { transform: translateY(0) rotate(-360deg); } }
   @keyframes sway { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
   @keyframes waves { from { transform: translateX(0); } to { transform: translateX(-60px); } }
   @keyframes spray { 0%,58% { opacity: 0; } 61% { opacity: .9; } 70%,100% { opacity: 0; } }
-  @media (prefers-reduced-motion: reduce) { .kiter, .kiter-jump, .kite-sway, .wave, .spray, .r2-cursor::after { animation: none; } }
+  @media (prefers-reduced-motion: reduce) { .kiter, .kite-lift, .rider, .kite-sway, .wave, .spray, .r2-cursor::after { animation: none; } }
 </style>
 
 <div class="page">
@@ -72,18 +74,19 @@ permalink: 404.html
     <a class="r2-btn" href="{{ '/' | relative_url }}">📝 Submit rebuttal</a>
     <span class="or">or</span>
     <a class="kite-link" href="https://www.youtube.com/results?search_query=kiteboarding+big+air+world+championship" target="_blank" rel="noopener">
-      <svg viewBox="0 0 300 150" aria-hidden="true">
-        <g class="kiter"><g class="kiter-jump">
-          <g class="kite-sway">
+      <svg viewBox="0 -40 300 190" aria-hidden="true">
+        <g class="kiter">
+          <g class="kite-lift"><g class="kite-sway">
             <path d="M115 38 Q150 8 185 38 L178 46 Q150 22 122 46 Z" fill="#ff5a36" stroke="#c23b1d" stroke-width="1.5"/>
-            <line x1="122" y1="44" x2="148" y2="104" stroke="#555" stroke-width=".7"/>
-            <line x1="178" y1="44" x2="152" y2="104" stroke="#555" stroke-width=".7"/>
+            <line x1="122" y1="44" x2="148" y2="105" stroke="#555" stroke-width=".7"/>
+            <line x1="178" y1="44" x2="152" y2="105" stroke="#555" stroke-width=".7"/>
+          </g></g>
+          <g class="rider">
+            <circle cx="150" cy="98" r="4" fill="#333"/>
+            <path d="M150 102 L150 114 M150 106 L147 105 M150 106 L153 105 M150 114 L145 121 M150 114 L155 121" stroke="#333" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <rect x="138" y="121" width="24" height="3.5" rx="1.7" fill="#ffcc00" stroke="#a88600" stroke-width=".7"/>
           </g>
-          <circle cx="150" cy="98" r="4" fill="#333"/>
-          <path d="M150 102 L150 114 M150 106 L146 104 M150 106 L154 104 M150 114 L145 121 M150 114 L155 121" stroke="#333" stroke-width="2" stroke-linecap="round" fill="none"/>
-          <rect x="138" y="121" width="24" height="3.5" rx="1.7" fill="#ffcc00" stroke="#a88600" stroke-width=".7"/>
-        </g>
-        <g class="spray"><circle cx="140" cy="125" r="2" fill="#7cc4f5"/><circle cx="160" cy="124" r="2.5" fill="#7cc4f5"/><circle cx="150" cy="128" r="1.6" fill="#7cc4f5"/></g>
+          <g class="spray"><circle cx="140" cy="125" r="2" fill="#7cc4f5"/><circle cx="160" cy="124" r="2.5" fill="#7cc4f5"/><circle cx="150" cy="128" r="1.6" fill="#7cc4f5"/></g>
         </g>
         <g class="wave">
           <path d="M0 128 Q15 122 30 128 T60 128 T90 128 T120 128 T150 128 T180 128 T210 128 T240 128 T270 128 T300 128 T330 128 T360 128 V150 H0 Z" fill="#4aa3df" opacity=".85"/>
