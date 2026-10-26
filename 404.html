@@ -4,7 +4,133 @@ title: "404: Page not found"
 permalink: 404.html
 ---
 
+<style>
+  .r2-card { position: relative; border: 1px solid #ddd; border-radius: 6px; padding: 1.2rem 1.4rem; background: #fcfcfa;
+    font-family: "SFMono-Regular", Menlo, Consolas, monospace; font-size: .85rem; line-height: 1.55; box-shadow: 0 2px 8px rgba(0,0,0,.06); overflow: hidden; }
+  .r2-head { display: flex; justify-content: space-between; border-bottom: 1px dashed #ccc; padding-bottom: .5rem; margin-bottom: .8rem; color: #777; font-size: .75rem; }
+  .r2-field { margin: 0 0 .7rem; min-height: 1.3em; }
+  .r2-field b { display: block; color: #333; }
+  .r2-field span { color: #444; white-space: pre-wrap; }
+  .r2-cursor::after { content: "▍"; animation: r2blink 1s steps(1) infinite; color: #999; }
+  @keyframes r2blink { 50% { opacity: 0; } }
+  .r2-score { font-size: 1.05rem; color: #333; }
+  .r2-score .num { display: inline-block; min-width: 1.4em; font-weight: 700; color: #c0392b; }
+  .r2-stamp { position: absolute; right: 1.2rem; bottom: 1.4rem; border: 4px solid #c0392b; color: #c0392b; border-radius: 6px;
+    padding: .15rem .8rem; font: 700 2rem/1.2 "Abril Fatface", serif; letter-spacing: .12em; opacity: 0; transform: rotate(-14deg) scale(3); pointer-events: none; }
+  .r2-stamp.hit { animation: r2stamp .35s cubic-bezier(.2,1.6,.4,1) forwards; }
+  @keyframes r2stamp { to { opacity: .85; transform: rotate(-14deg) scale(1); } }
+  .r2-shake { animation: r2shake .3s .3s; }
+  @keyframes r2shake { 25% { transform: translate(2px,1px); } 50% { transform: translate(-2px,-1px); } 75% { transform: translate(1px,-2px); } }
+
+  .r2-choices { display: flex; flex-wrap: wrap; gap: 1rem; align-items: stretch; margin-top: 1.4rem; opacity: 0; transform: translateY(8px); transition: opacity .6s, transform .6s; }
+  .r2-choices.show { opacity: 1; transform: none; }
+  .r2-choices .or { align-self: center; color: #999; font-style: italic; }
+  .r2-btn { display: flex; align-items: center; justify-content: center; padding: .7rem 1.2rem; border: 1px solid #ccc; border-radius: 6px;
+    color: #333 !important; text-decoration: none !important; background: #fff; transition: transform .15s, box-shadow .15s; }
+  .r2-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,.08); }
+
+  .kite-link { display: block; flex: 1 1 260px; border: 1px solid #cfe3f2; border-radius: 6px; overflow: hidden; text-decoration: none !important;
+    background: linear-gradient(#e9f5ff, #ffffff 55%); transition: transform .15s, box-shadow .15s; }
+  .kite-link:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,90,160,.15); }
+  .kite-link .label { display: block; text-align: center; padding: .3rem .5rem .6rem; color: #0a5c99; font-weight: 700; }
+  .kite-link svg { display: block; width: 100%; height: auto; }
+  .kiter { animation: ride 7s ease-in-out infinite; }
+  .kiter-jump { animation: jump 7s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 110px; }
+  .kite-sway { animation: sway 2.4s ease-in-out infinite; transform-box: view-box; transform-origin: 150px 100px; }
+  .wave { animation: waves 3s linear infinite; }
+  .spray { opacity: 0; animation: spray 7s ease-out infinite; }
+  @keyframes ride { 0%,100% { transform: translateX(-70px); } 50% { transform: translateX(70px); } }
+  @keyframes jump {
+    0%,30% { transform: translateY(0) rotate(0); }
+    40% { transform: translateY(-48px) rotate(-8deg); }
+    46% { transform: translateY(-58px) rotate(180deg); }
+    52% { transform: translateY(-48px) rotate(360deg); }
+    60%,100% { transform: translateY(0) rotate(360deg); } }
+  @keyframes sway { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+  @keyframes waves { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+  @keyframes spray { 0%,58% { opacity: 0; } 61% { opacity: .9; } 70%,100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .kiter, .kiter-jump, .kite-sway, .wave, .spray, .r2-cursor::after { animation: none; } }
+</style>
+
 <div class="page">
   <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.url }}{{ site.baseurl }}">Head back home</a> to try finding it again.</p>
+  <p class="lead">Your page went through peer review. It did not go well.</p>
+
+  <div class="r2-card" id="r2card">
+    <div class="r2-head"><span>Official Review of Submission #404</span><span>Reviewer 2</span></div>
+    <p class="r2-field"><b>Summary</b><span data-type>The authors request a page at this URL. We searched carefully and could not find it.</span></p>
+    <p class="r2-field"><b>Strengths</b><span data-type>The URL is short and nicely formatted.</span></p>
+    <p class="r2-field"><b>Weaknesses</b><span data-type>1. Lacks novelty. Missing pages have been studied since the early days of the web.
+2. The limitations section openly admits that the page does not exist. This is a major weakness.
+3. No comparison against a baseline page that exists.</span></p>
+    <p class="r2-field"><b>Questions</b><span data-type>Did the authors try rephrasing the URL as an FAQ or a table? I hear that helps.</span></p>
+    <p class="r2-field r2-score"><b>Rating</b><span class="num" id="r2num">1</span>/10 &nbsp;·&nbsp; Confidence: 5 (I did not read the page)</p>
+    <div class="r2-stamp" id="r2stamp">REJECT</div>
+  </div>
+
+  <div class="r2-choices" id="r2choices">
+    <a class="r2-btn" href="{{ '/' | relative_url }}">📝 Submit rebuttal</a>
+    <span class="or">or</span>
+    <a class="kite-link" href="https://www.youtube.com/results?search_query=kiteboarding+big+air+world+championship" target="_blank" rel="noopener">
+      <svg viewBox="0 0 300 150" aria-hidden="true">
+        <g class="kiter"><g class="kiter-jump">
+          <g class="kite-sway">
+            <path d="M115 38 Q150 8 185 38 L178 46 Q150 22 122 46 Z" fill="#ff5a36" stroke="#c23b1d" stroke-width="1.5"/>
+            <line x1="122" y1="44" x2="148" y2="104" stroke="#555" stroke-width=".7"/>
+            <line x1="178" y1="44" x2="152" y2="104" stroke="#555" stroke-width=".7"/>
+          </g>
+          <circle cx="150" cy="98" r="4" fill="#333"/>
+          <path d="M150 102 L150 114 M150 106 L146 104 M150 106 L154 104 M150 114 L145 121 M150 114 L155 121" stroke="#333" stroke-width="2" stroke-linecap="round" fill="none"/>
+          <rect x="138" y="121" width="24" height="3.5" rx="1.7" fill="#ffcc00" stroke="#a88600" stroke-width=".7"/>
+        </g>
+        <g class="spray"><circle cx="140" cy="125" r="2" fill="#7cc4f5"/><circle cx="160" cy="124" r="2.5" fill="#7cc4f5"/><circle cx="150" cy="128" r="1.6" fill="#7cc4f5"/></g>
+        </g>
+        <g class="wave">
+          <path d="M0 128 Q15 122 30 128 T60 128 T90 128 T120 128 T150 128 T180 128 T210 128 T240 128 T270 128 T300 128 T330 128 T360 128 V150 H0 Z" fill="#4aa3df" opacity=".85"/>
+          <path d="M0 136 Q15 131 30 136 T60 136 T90 136 T120 136 T150 136 T180 136 T210 136 T240 136 T270 136 T300 136 T330 136 T360 136 V150 H0 Z" fill="#1f78b4"/>
+        </g>
+      </svg>
+      <span class="label">🪁 Or forget it and go kiteboarding</span>
+    </a>
+  </div>
 </div>
+
+<script>
+(function () {
+  var fields = Array.prototype.slice.call(document.querySelectorAll('#r2card [data-type]'));
+  var num = document.getElementById('r2num');
+  var stamp = document.getElementById('r2stamp');
+  var card = document.getElementById('r2card');
+  var choices = document.getElementById('r2choices');
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function finish() {
+    stamp.classList.add('hit');
+    card.classList.add('r2-shake');
+    setTimeout(function () { choices.classList.add('show'); }, 500);
+  }
+  if (reduced) { finish(); return; }
+
+  var texts = fields.map(function (f) { var t = f.textContent; f.textContent = ''; return t; });
+  num.textContent = '8';
+
+  var i = 0;
+  function typeField() {
+    if (i >= fields.length) { return countDown(8); }
+    var el = fields[i], text = texts[i], k = 0;
+    el.classList.add('r2-cursor');
+    (function step() {
+      k += 1;
+      el.textContent = text.slice(0, k);
+      if (k < text.length) { setTimeout(step, text[k - 1] === '\n' ? 250 : 18); }
+      else { el.classList.remove('r2-cursor'); i += 1; setTimeout(typeField, 300); }
+    })();
+  }
+  function countDown(n) {
+    num.textContent = n;
+    if (n > 1) { setTimeout(function () { countDown(n - 1); }, 140 + (8 - n) * 40); }
+    else { setTimeout(finish, 350); }
+  }
+  setTimeout(typeField, 500);
+})();
+</script>
