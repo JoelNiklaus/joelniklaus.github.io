@@ -10,7 +10,7 @@ title: Talks
 
 ## Invited Talks
 
-- FinePhrase: How Can We Synthesize High-Quality Pretraining Data? **Guest Lecture @ Max Planck Institute for Intelligent Systems**, Tübingen, 3rd of November 2026 ([Presentation](https://docs.google.com/presentation/d/14RSQUhYlDLq817cTL1Ey3W-d3dmdAFQTQ6GjcBtElro/edit?usp=sharing))
+- FinePhrase: How Can We Synthesize High-Quality Pretraining Data? **Guest Lecture @ Max Planck Institute for Intelligent Systems**, Tübingen, 3rd of November 2026 ([Presentation](https://docs.google.com/presentation/d/17b2Tlpq6siwqy6mrn3u9d9XZZoASPyJp32pYhm5EUYQ/edit?usp=sharing))
 - Fifty Years of Legal AI **Keynote @ AI for Legal Reasoning @ HSG**, St. Gallen, 28th of August 2026 ([Presentation](https://docs.google.com/presentation/d/1GzHTZb7pAXG5hNldmXr-26wAJ1oHvnd9Q3DfWJkTaZk/edit?usp=sharing))
 - SwiLTra-Bench: The Swiss Legal Translation Benchmark **AI for Access to Justice Panel @ AI for Law @ ICML**, Seoul, 10th of July 2026 ([Presentation](https://docs.google.com/presentation/d/1djkKhO5UMpNHXJ0MyxFAnfYk0UEZsJVpniKAcd8iwTM/edit?usp=sharing))
 - The Synthetic Data Playbook: Generating Trillions of the Finest Tokens **Podcast @ Deep Learning with Yacine**, online, 18th of June 2026 ([Presentation](https://docs.google.com/presentation/d/1JW0zFJGFJ9yW0wwK7vw_OCoybMzbmM0_DRR-cfg62zs/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=Nk2HpRb1Vl4))
